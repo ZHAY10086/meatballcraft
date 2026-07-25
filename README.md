@@ -66,6 +66,8 @@ Emptiness: 14676
 
 Deep Dark: -11325
 
+Space Station: -2
+
 Taerrapiatta: 180
 
 Diamerisma: 181

@@ -1,0 +1,87 @@
+recipes.removeShaped(<abyssalcraft:necronomicon>);
+
+mods.extendedcrafting.CombinationCrafting.addRecipe(<abyssalcraft:necronomicon>, 
+120000, 500, 
+<minecraft:book>, 
+[<minecraft:rotten_flesh>, <aoa3:runium_chunk>, <appliedenergistics2:material:12>,
+<minecraft:rotten_flesh>, <aoa3:runium_chunk>, <appliedenergistics2:material:12>]);
+
+
+recipes.addShaped(<contenttweaker:abyssal_wasteland_matter>,
+[[null, <abyssalcraft:essence:0>, null],
+[<abyssalcraft:essence:0>, <contenttweaker:blue_matter>, <abyssalcraft:essence:0>],
+[null, <abyssalcraft:essence:0>, null]]);
+
+recipes.addShaped(<contenttweaker:dreadlands_matter>,
+[[null, <abyssalcraft:essence:1>, null],
+[<abyssalcraft:essence:1>, <contenttweaker:blue_matter>, <abyssalcraft:essence:1>],
+[null, <abyssalcraft:essence:1>, null]]);
+
+recipes.addShaped(<contenttweaker:omothol_matter>,
+[[null, <abyssalcraft:essence:2>, null],
+[<abyssalcraft:essence:2>, <contenttweaker:blue_matter>, <abyssalcraft:essence:2>],
+[null, <abyssalcraft:essence:2>, null]]);
+
+recipes.addShaped(<abyssalcraft:eldritchscale>,
+[[null, <abyssalcraft:shoggothflesh:4>, null],
+[<abyssalcraft:shoggothflesh:4>, <contenttweaker:eldritch_will_crystal>, <abyssalcraft:shoggothflesh:4>],
+[null, <abyssalcraft:shoggothflesh:4>, null]]);
+
+recipes.addShaped(<abyssalcraft:dreadfragment>*4,
+[[null, <minecraft:rotten_flesh>, null],
+[<minecraft:rotten_flesh>, <contenttweaker:dreadlands_matter>, <minecraft:rotten_flesh>],
+[null, <minecraft:rotten_flesh>, null]]);
+
+recipes.addShaped(<abyssalcraft:coraliumore>,
+[[<xreliquary:witch_hat>, makeVisCrystal(<aspect:vitium> * 1), <xreliquary:witch_hat>],
+[<abyssalcraft:shoggothflesh:0>, <minecraft:emerald_ore>, <abyssalcraft:shoggothflesh:0>],
+[<xreliquary:witch_hat>, makeVisCrystal(<aspect:vitium> * 1), <xreliquary:witch_hat>]]);
+
+
+mods.nuclearcraft.melter.addRecipe([<abyssalcraft:dreadiumingot>, <fluid:moltendreadium>*144]);
+mods.nuclearcraft.melter.addRecipe([<abyssalcraft:abyingot>, <fluid:moltenabyssalnite>*144]);
+mods.nuclearcraft.melter.addRecipe([<abyssalcraft:cingot>, <fluid:moltenrefinedcoralium>*144]);
+
+
+recipes.addShaped(<contenttweaker:abyssal_wasteland_containment_stone>,
+[[<ore:ingotAbyssalnite>, <ore:ingotAbyssalnite>, <ore:ingotAbyssalnite>],
+[<ore:ingotAbyssalnite>, <abyssalcraft:tieredenergycontainer:1>, <ore:ingotAbyssalnite>],
+[<ore:ingotAbyssalnite>, <ore:ingotAbyssalnite>, <ore:ingotAbyssalnite>]]);
+
+recipes.addShaped(<contenttweaker:dreadlands_containment_stone>,
+[[<ore:ingotDreadium>, <ore:ingotDreadium>, <ore:ingotDreadium>],
+[<ore:ingotDreadium>, <abyssalcraft:tieredenergycontainer:2>, <ore:ingotDreadium>],
+[<ore:ingotDreadium>, <ore:ingotDreadium>, <ore:ingotDreadium>]]);
+
+recipes.addShaped(<contenttweaker:omothol_containment_stone>,
+[[<ore:ingotEthaxium>, <ore:ingotEthaxium>, <ore:ingotEthaxium>],
+[<ore:ingotEthaxium>, <abyssalcraft:tieredenergycontainer:3>, <ore:ingotEthaxium>],
+[<ore:ingotEthaxium>, <ore:ingotEthaxium>, <ore:ingotEthaxium>]]);
+
+recipes.addShaped(<abyssalcraft:gatewaykeyjzh>,
+[[<abyssalcraft:shoggothflesh:4>, <abyssalcraft:shoggothflesh:4>, <abyssalcraft:shoggothflesh:4>],
+[<abyssalcraft:shoggothflesh:4>, <abyssalcraft:gatewaykeyjzh>.reuse(), <abyssalcraft:shoggothflesh:4>],
+[<abyssalcraft:shoggothflesh:4>, <abyssalcraft:shoggothflesh:4>, <abyssalcraft:shoggothflesh:4>]]);
+
+
+mods.thermalexpansion.EnervationDynamo.removeFuel(<plustic:laser_gun>);
+
+
+
+recipes.addShaped(<abyssalcraft:carboncluster>*8,
+[[null, <abyssalcraft:crystal:3>, null],
+[<abyssalcraft:crystal:3>, <extrabees:misc:18>, <abyssalcraft:crystal:3>],
+[null, <abyssalcraft:crystal:3>, null]]);
+
+recipes.addShaped(<abyssalcraft:carboncluster>*64,
+[[<extrabees:misc:18>, <abyssalcraft:crystal:3>, <extrabees:misc:18>],
+[<abyssalcraft:crystal:3>, <extrabees:misc:1>, <abyssalcraft:crystal:3>],
+[<extrabees:misc:18>, <abyssalcraft:crystal:3>, <extrabees:misc:18>]]);
+
+
+
+
+
+mods.abyssalcraft.CreationRitual.removeRitual(<abyssalcraft:interdimensionalcage>);
+
+mods.abyssalcraft.CreationRitual.removeRitual(<abyssalcraft:interdimensionalcage>.withTag({PotEnergy: 0.0 as float}));

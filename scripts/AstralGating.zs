@@ -1,0 +1,107 @@
+import crafttweaker.item.IItemStack;
+
+
+
+recipes.remove(<astralsorcery:blockblackmarble>);
+
+recipes.addShaped(<astralsorcery:blockblackmarble:0>*32, 
+[[<ore:stoneMarble>, <ore:stoneMarble>, <ore:stoneMarble>], 
+[<ore:stoneMarble>, <appliedenergistics2:material:12>, <ore:stoneMarble>], 
+[<ore:stoneMarble>, <ore:stoneMarble>, <ore:stoneMarble>]]); 
+
+recipes.addShaped(<projectred-exploration:stone:1>*4, 
+[[<ore:stoneMarble>, null, <ore:stoneMarble>], 
+[null, null, null], 
+[<ore:stoneMarble>, null, <ore:stoneMarble>]]); 
+
+recipes.addShaped(<astralsorcery:blockblackmarble:0>*8, 
+[[<ore:stoneMarble>, <ore:stoneMarble>, <ore:stoneMarble>], 
+[<ore:stoneMarble>, <astralsorcery:blockaltar:0>.reuse(), <ore:stoneMarble>], 
+[<ore:stoneMarble>, <ore:stoneMarble>, <ore:stoneMarble>]]); 
+
+mods.astralsorcery.Lightwell.addLiquefaction(<contenttweaker:the_dark_star>, <fluid:astralsorcery.liquidstarlight>, 2.5, 1000.0, 0);
+
+// Mineralis Ritual Ores list
+var ritualOres as IItemStack[] = [
+    <minecraft:coal_ore>,
+    <minecraft:iron_ore>,
+    <minecraft:gold_ore>,
+    <minecraft:lapis_ore>,
+    <minecraft:redstone_ore>,
+    <minecraft:diamond_ore>,
+    <minecraft:emerald_ore>,
+    <thermalfoundation:ore:4>,
+    <thermalfoundation:ore:0>,
+    <thermalfoundation:ore:1>,
+    <thermalfoundation:ore:3>,
+    <appliedenergistics2:quartz_ore>,
+    <thermalfoundation:ore:5>,
+    <thermalfoundation:ore:6>,
+    <thermalfoundation:ore:2>,
+    <thermalfoundation:ore:8>,
+    <biomesoplenty:gem_ore:1>,
+    <biomesoplenty:gem_ore:6>,
+    <nuclearcraft:ore:4>,
+    <bigreactors:oreyellorite>,
+    <railcraft:ore_metal:5>,
+    <railcraft:ore:0>,
+    <nuclearcraft:ore:3>,
+    <abyssalcraft:coraliumore>,
+    <abyssalcraft:abyore>,
+    <erebus:ore_jade>,
+    <techreborn:ore:4>,
+    <libvulpes:ore0:8>,
+    <aoa3:runium_ore>,
+    <bewitchment:salt_ore>,
+    <aoa3:jade_ore>,
+    <astralsorcery:blockcustomore:1>
+];
+
+// Add recipes for Mineralis Ritual Ores
+for ore in ritualOres {
+    recipes.addShapeless(ore, [<contenttweaker:mineralis_ritual>]);
+}
+
+
+mods.thermalexpansion.Crucible.addRecipe(<fluid:astralsorcery.liquidstarlight>*1000, <contenttweaker:starlight_sphere>, 1000);
+mods.nuclearcraft.melter.addRecipe([<contenttweaker:starlight_sphere>, <fluid:astralsorcery.liquidstarlight>*1000]);
+
+recipes.addShaped(<contenttweaker:starlight_sphere>,
+[[null, <ore:gemAquamarine>, null],
+[<ore:gemAquamarine>, <contenttweaker:starlight_sphere>.reuse(), <ore:gemAquamarine>],
+[null, <ore:gemAquamarine>, null]]);
+
+mods.astralsorcery.Altar.addAttunementAltarRecipe("MeatballCraft:shaped/internal/altar/holysword", <aether_legacy:holy_sword>, 500, 300, [
+			<aether_legacy:holystone>, <aether_legacy:enchanted_gravitite>, <aether_legacy:holystone>,
+			<aether_legacy:holystone>, <aether_legacy:enchanted_gravitite>, <aether_legacy:holystone>,
+			<aether_legacy:holystone>, <minecraft:stick>, <aether_legacy:holystone>,
+			<mod_lavacow:holy_sludge>, <mod_lavacow:holy_sludge>, <mod_lavacow:holy_sludge>, <mod_lavacow:holy_sludge>]);
+
+// mods.astralsorcery.Altar.addTraitAltarRecipe("MeatballCraft:shaped/internal/altar/skythernEMC", 
+// <astralsorcery:blockaltar:3>, 100, 100, 
+// [
+// 	<astralsorcery:itemcraftingcomponent:4>, <astralsorcery:itemcraftingcomponent:4>, <astralsorcery:itemcraftingcomponent:4>,<astralsorcery:itemcraftingcomponent:4>, <astralsorcery:itemcraftingcomponent:4>, 
+// 	<astralsorcery:itemcraftingcomponent:4>, <astralsorcery:itemcraftingcomponent:4>, <astralsorcery:itemcraftingcomponent:4>, <astralsorcery:itemcraftingcomponent:4>, <astralsorcery:blockblackmarble:0>, 
+// 	<astralsorcery:blockblackmarble:0>, <astralsorcery:blockblackmarble:0>, <astralsorcery:blockblackmarble:0>, <astralsorcery:blockmarble:6>, <astralsorcery:blockmarble:6>,
+// 	<astralsorcery:blockmarble:6>, <astralsorcery:blockmarble:6>, <astralsorcery:blockmarble:6>, <astralsorcery:blockmarble:6>,<astralsorcery:blockmarble:6>, 
+// 	<astralsorcery:blockmarble:6>,<astralsorcery:itemcraftingcomponent:3>, <astralsorcery:itemcraftingcomponent:3>,<astralsorcery:itemcraftingcomponent:3>, <astralsorcery:itemcraftingcomponent:3>
+// 	//Outer Items, indices 25+
+// 	
+// ]);
+
+
+recipes.addShaped(<contenttweaker:actualized_starlight_sphere>*8, 
+[[<contenttweaker:starlight_sphere>, <contenttweaker:starlight_sphere>, <contenttweaker:starlight_sphere>], 
+[<contenttweaker:starlight_sphere>, <avaritiaitem:self_actualizing_stone>, <contenttweaker:starlight_sphere>], 
+[<contenttweaker:starlight_sphere>, <contenttweaker:starlight_sphere>, <contenttweaker:starlight_sphere>]]); 
+
+recipes.addShaped(<contenttweaker:ascended_starlight_sphere>*8, 
+[[<contenttweaker:actualized_starlight_sphere>, <contenttweaker:actualized_starlight_sphere>, <contenttweaker:actualized_starlight_sphere>], 
+[<contenttweaker:actualized_starlight_sphere>, <contenttweaker:astral_mastery_tome>.reuse(), <contenttweaker:actualized_starlight_sphere>], 
+[<contenttweaker:actualized_starlight_sphere>, <contenttweaker:actualized_starlight_sphere>, <contenttweaker:actualized_starlight_sphere>]]); 
+
+
+
+mods.thermalexpansion.Transposer.addFillRecipe(<contenttweaker:darkstar_infused_crystal>*64, <contenttweaker:stormlight_infused_crystal>*64, <fluid:darkstarlight>*1000, 40);
+
+mods.nuclearcraft.infuser.addRecipe([<contenttweaker:stormlight_infused_crystal>*64, <fluid:darkstarlight>*1000, <contenttweaker:darkstar_infused_crystal>*64]);

@@ -28,6 +28,8 @@ Terra (overworld): 0
 
 Void World: 43
 
+Compact Machines: 144
+
 Woot Dimension (tartarus): 418
 
 Nether: -1
@@ -55,6 +57,8 @@ Dreadlands: 51
 Omothol: 52
 
 Dark realm: 53
+
+Bedrock: 19
 
 Dimensional Doors: 684 (and consecutive numbers)
 

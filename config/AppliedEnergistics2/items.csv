@@ -1636,10 +1636,326 @@ forestry:resource_storage:2, Block of Tin
 forestry:resource_storage:3, Block of Bronze
 forestry:ash_brick:0, Ash Bricks
 forestry:ash_stairs:0, Ash Brick Stairs
-forestry:book_forester, Forester's Manual
+forestry:engine_peat:0, Peat-fired Engine
+forestry:engine_biogas:0, Biogas Engine
+forestry:engine_clockwork:0, Clockwork Engine
+forestry:stamps:0, Stamp (1n)
+forestry:stamps:1, Stamp (2n)
+forestry:stamps:2, Stamp (5n)
+forestry:stamps:3, Stamp (10n)
+forestry:stamps:4, Stamp (20n)
+forestry:stamps:5, Stamp (50n)
+forestry:stamps:6, Stamp (100n)
+forestry:letters, Letter
+forestry:catalogue, Catalogue
+forestry:mailbox:0, Mailbox
+forestry:trade_station:0, Trade Station
+forestry:stamp_collector:0, Stamp Collector
+forestry:bee_queen_ge:0, Forest Queen
+forestry:bee_queen_ge:0, Meadows Queen
+forestry:bee_queen_ge:0, Common Queen
+forestry:bee_queen_ge:0, Cultivated Queen
+forestry:bee_queen_ge:0, Noble Queen
+forestry:bee_queen_ge:0, Majestic Queen
+forestry:bee_queen_ge:0, Imperial Queen
+forestry:bee_queen_ge:0, Diligent Queen
+forestry:bee_queen_ge:0, Unweary Queen
+forestry:bee_queen_ge:0, Industrious Queen
+forestry:bee_queen_ge:0, Steadfast Queen
+forestry:bee_queen_ge:0, Valiant Queen
+forestry:bee_queen_ge:0, Heroic Queen
+forestry:bee_queen_ge:0, Sinister Queen
+forestry:bee_queen_ge:0, Fiendish Queen
+forestry:bee_queen_ge:0, Demonic Queen
+forestry:bee_queen_ge:0, Modest Queen
+forestry:bee_queen_ge:0, Frugal Queen
+forestry:bee_queen_ge:0, Austere Queen
+forestry:bee_queen_ge:0, Tropical Queen
+forestry:bee_queen_ge:0, Exotic Queen
+forestry:bee_queen_ge:0, Edenic Queen
+forestry:bee_queen_ge:0, Ender Queen
+forestry:bee_queen_ge:0, Spectral Queen
+forestry:bee_queen_ge:0, Phantasmal Queen
+forestry:bee_queen_ge:0, Wintry Queen
+forestry:bee_queen_ge:0, Icy Queen
+forestry:bee_queen_ge:0, Glacial Queen
+forestry:bee_queen_ge:0, Vindictive Queen
+forestry:bee_queen_ge:0, Vengeful Queen
+forestry:bee_queen_ge:0, Avenging Queen
+forestry:bee_queen_ge:0, Rural Queen
+forestry:bee_queen_ge:0, Farmerly Queen
+forestry:bee_queen_ge:0, Agrarian Queen
+forestry:bee_queen_ge:0, Marshy Queen
+forestry:bee_queen_ge:0, Miry Queen
+forestry:bee_queen_ge:0, Boggy Queen
+forestry:bee_queen_ge:0, Monastic Queen
+forestry:bee_queen_ge:0, Secluded Queen
+forestry:bee_queen_ge:0, Hermitic Queen
+forestry:bee_drone_ge:0, Forest Drone
+forestry:bee_drone_ge:0, Meadows Drone
+forestry:bee_drone_ge:0, Common Drone
+forestry:bee_drone_ge:0, Cultivated Drone
+forestry:bee_drone_ge:0, Noble Drone
+forestry:bee_drone_ge:0, Majestic Drone
+forestry:bee_drone_ge:0, Imperial Drone
+forestry:bee_drone_ge:0, Diligent Drone
+forestry:bee_drone_ge:0, Unweary Drone
+forestry:bee_drone_ge:0, Industrious Drone
+forestry:bee_drone_ge:0, Steadfast Drone
+forestry:bee_drone_ge:0, Valiant Drone
+forestry:bee_drone_ge:0, Heroic Drone
+forestry:bee_drone_ge:0, Sinister Drone
+forestry:bee_drone_ge:0, Fiendish Drone
+forestry:bee_drone_ge:0, Demonic Drone
+forestry:bee_drone_ge:0, Modest Drone
+forestry:bee_drone_ge:0, Frugal Drone
+forestry:bee_drone_ge:0, Austere Drone
+forestry:bee_drone_ge:0, Tropical Drone
+forestry:bee_drone_ge:0, Exotic Drone
+forestry:bee_drone_ge:0, Edenic Drone
+forestry:bee_drone_ge:0, Ender Drone
+forestry:bee_drone_ge:0, Spectral Drone
+forestry:bee_drone_ge:0, Phantasmal Drone
+forestry:bee_drone_ge:0, Wintry Drone
+forestry:bee_drone_ge:0, Icy Drone
+forestry:bee_drone_ge:0, Glacial Drone
+forestry:bee_drone_ge:0, Vindictive Drone
+forestry:bee_drone_ge:0, Vengeful Drone
+forestry:bee_drone_ge:0, Avenging Drone
+forestry:bee_drone_ge:0, Rural Drone
+forestry:bee_drone_ge:0, Farmerly Drone
+forestry:bee_drone_ge:0, Agrarian Drone
+forestry:bee_drone_ge:0, Marshy Drone
+forestry:bee_drone_ge:0, Miry Drone
+forestry:bee_drone_ge:0, Boggy Drone
+forestry:bee_drone_ge:0, Monastic Drone
+forestry:bee_drone_ge:0, Secluded Drone
+forestry:bee_drone_ge:0, Hermitic Drone
+forestry:bee_princess_ge:0, Forest Princess
+forestry:bee_princess_ge:0, Meadows Princess
+forestry:bee_princess_ge:0, Common Princess
+forestry:bee_princess_ge:0, Cultivated Princess
+forestry:bee_princess_ge:0, Noble Princess
+forestry:bee_princess_ge:0, Majestic Princess
+forestry:bee_princess_ge:0, Imperial Princess
+forestry:bee_princess_ge:0, Diligent Princess
+forestry:bee_princess_ge:0, Unweary Princess
+forestry:bee_princess_ge:0, Industrious Princess
+forestry:bee_princess_ge:0, Steadfast Princess
+forestry:bee_princess_ge:0, Valiant Princess
+forestry:bee_princess_ge:0, Heroic Princess
+forestry:bee_princess_ge:0, Sinister Princess
+forestry:bee_princess_ge:0, Fiendish Princess
+forestry:bee_princess_ge:0, Demonic Princess
+forestry:bee_princess_ge:0, Modest Princess
+forestry:bee_princess_ge:0, Frugal Princess
+forestry:bee_princess_ge:0, Austere Princess
+forestry:bee_princess_ge:0, Tropical Princess
+forestry:bee_princess_ge:0, Exotic Princess
+forestry:bee_princess_ge:0, Edenic Princess
+forestry:bee_princess_ge:0, Ender Princess
+forestry:bee_princess_ge:0, Spectral Princess
+forestry:bee_princess_ge:0, Phantasmal Princess
+forestry:bee_princess_ge:0, Wintry Princess
+forestry:bee_princess_ge:0, Icy Princess
+forestry:bee_princess_ge:0, Glacial Princess
+forestry:bee_princess_ge:0, Vindictive Princess
+forestry:bee_princess_ge:0, Vengeful Princess
+forestry:bee_princess_ge:0, Avenging Princess
+forestry:bee_princess_ge:0, Rural Princess
+forestry:bee_princess_ge:0, Farmerly Princess
+forestry:bee_princess_ge:0, Agrarian Princess
+forestry:bee_princess_ge:0, Marshy Princess
+forestry:bee_princess_ge:0, Miry Princess
+forestry:bee_princess_ge:0, Boggy Princess
+forestry:bee_princess_ge:0, Monastic Princess
+forestry:bee_princess_ge:0, Secluded Princess
+forestry:bee_princess_ge:0, Hermitic Princess
+forestry:bee_larvae_ge:0, Forest Larvae
+forestry:bee_larvae_ge:0, Meadows Larvae
+forestry:bee_larvae_ge:0, Common Larvae
+forestry:bee_larvae_ge:0, Cultivated Larvae
+forestry:bee_larvae_ge:0, Noble Larvae
+forestry:bee_larvae_ge:0, Majestic Larvae
+forestry:bee_larvae_ge:0, Imperial Larvae
+forestry:bee_larvae_ge:0, Diligent Larvae
+forestry:bee_larvae_ge:0, Unweary Larvae
+forestry:bee_larvae_ge:0, Industrious Larvae
+forestry:bee_larvae_ge:0, Steadfast Larvae
+forestry:bee_larvae_ge:0, Valiant Larvae
+forestry:bee_larvae_ge:0, Heroic Larvae
+forestry:bee_larvae_ge:0, Sinister Larvae
+forestry:bee_larvae_ge:0, Fiendish Larvae
+forestry:bee_larvae_ge:0, Demonic Larvae
+forestry:bee_larvae_ge:0, Modest Larvae
+forestry:bee_larvae_ge:0, Frugal Larvae
+forestry:bee_larvae_ge:0, Austere Larvae
+forestry:bee_larvae_ge:0, Tropical Larvae
+forestry:bee_larvae_ge:0, Exotic Larvae
+forestry:bee_larvae_ge:0, Edenic Larvae
+forestry:bee_larvae_ge:0, Ender Larvae
+forestry:bee_larvae_ge:0, Spectral Larvae
+forestry:bee_larvae_ge:0, Phantasmal Larvae
+forestry:bee_larvae_ge:0, Wintry Larvae
+forestry:bee_larvae_ge:0, Icy Larvae
+forestry:bee_larvae_ge:0, Glacial Larvae
+forestry:bee_larvae_ge:0, Vindictive Larvae
+forestry:bee_larvae_ge:0, Vengeful Larvae
+forestry:bee_larvae_ge:0, Avenging Larvae
+forestry:bee_larvae_ge:0, Rural Larvae
+forestry:bee_larvae_ge:0, Farmerly Larvae
+forestry:bee_larvae_ge:0, Agrarian Larvae
+forestry:bee_larvae_ge:0, Marshy Larvae
+forestry:bee_larvae_ge:0, Miry Larvae
+forestry:bee_larvae_ge:0, Boggy Larvae
+forestry:bee_larvae_ge:0, Monastic Larvae
+forestry:bee_larvae_ge:0, Secluded Larvae
+forestry:bee_larvae_ge:0, Hermitic Larvae
+forestry:habitat_locator, Habitat Locator
+forestry:imprinter, Imprinter
+forestry:cart.beehouse:0, Minecart with Bee House
+forestry:cart.beehouse:1, Minecart with Apiary
+forestry:frame_untreated, Untreated Frame
+forestry:frame_impregnated, Impregnated Frame
+forestry:frame_proven, Proven Frame
+forestry:honey_drop:0, Honey Drop
+forestry:pollen:0, Pollen Cluster
+forestry:pollen:1, Crystalline Pollen Cluster
+forestry:propolis:0, Propolis
+forestry:propolis:1, Sticky Propolis
+forestry:propolis:3, Silky Propolis
+forestry:honeydew, Honeydew
+forestry:royal_jelly, Royal Jelly
+forestry:wax_cast, Wax Cast
+forestry:bee_combs:0, Honey Comb
+forestry:bee_combs:2, Simmering Comb
+forestry:bee_combs:3, Stringy Comb
+forestry:bee_combs:4, Frozen Comb
+forestry:bee_combs:5, Dripping Comb
+forestry:bee_combs:6, Silky Comb
+forestry:bee_combs:7, Parched Comb
+forestry:bee_combs:15, Mossy Comb
+forestry:bee_combs:16, Mellow Comb
+forestry:apiarist_helmet, Apiarist's Hat
+forestry:apiarist_chest, Apiarist's Shirt
+forestry:apiarist_legs, Apiarist's Pants
+forestry:apiarist_boots, Apiarist's Shoes
+forestry:scoop, Scoop
+forestry:smoker, Bee Smoker
+forestry:apiary:0, Apiary
+forestry:bee_house:0, Bee House
+forestry:bee_chest:0, Apiarist's Chest
+forestry:beehives:0, Forest Hive
+forestry:beehives:1, Meadows Hive
+forestry:beehives:2, Modest Hive
+forestry:beehives:3, Tropical Hive
+forestry:beehives:4, Ender Hive
+forestry:beehives:5, Wintry Hive
+forestry:beehives:6, Marshy Hive
+forestry:candle:0, Unlit Candle
+forestry:stump:0, Candle Stump
+forestry:bee_combs_0:0, Honey Comb Block
+forestry:bee_combs_0:2, Simmering Comb Block
+forestry:bee_combs_0:3, Stringy Comb Block
+forestry:bee_combs_0:4, Frozen Comb Block
+forestry:bee_combs_0:5, Dripping Comb Block
+forestry:bee_combs_0:6, Silky Comb Block
+forestry:bee_combs_0:7, Parched Comb Block
+forestry:bee_combs_0:15, Mossy Comb Block
+forestry:bee_combs_1:0, Mellow Comb Block
+forestry:alveary.plain:0, Alveary
+forestry:alveary.swarmer:0, Alveary Swarmer
+forestry:alveary.fan:0, Alveary Fan
+forestry:alveary.heater:0, Alveary Heater
+forestry:alveary.hygro:0, Alveary Hygroregulator
+forestry:alveary.stabiliser:0, Alveary Stabiliser
+forestry:alveary.sieve:0, Alveary Sieve
+forestry:mushroom:0, tile.for.mushroom.name
+forestry:mushroom:1, tile.for.mushroom.name
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:database:0, Database
 forestry:honeyed_slice, Honeyed Slice
 forestry:ambrosia, Ambrosia
 forestry:honey_pot, Honey Pot
+forestry:book_forester, Forester's Manual
+forestry:habitat_former:0, Habitat Former
+forestry:habitat_screen, Habitat Screen
+forestry:bottler:0, Bottler
+forestry:carpenter:0, Carpenter
+forestry:centrifuge:0, Centrifuge
+forestry:fermenter:0, Fermenter
+forestry:moistener:0, Moistener
+forestry:squeezer:0, Squeezer
+forestry:still:0, Still
+forestry:rainmaker:0, Rainmaker
+forestry:fabricator:0, Thermionic Fabricator
+forestry:raintank:0, Rain Tank
+forestry:fluid.bio.ethanol, Ethanol
+forestry:fluid.biomass, Biomass
+forestry:fluid.glass, Liquid Glass
+forestry:fluid.for.honey, Honey
+forestry:fluid.ice, Crushed Ice
+forestry:fluid.juice, Fruit Juice
+forestry:fluid.milk, Milk
+forestry:fluid.seed.oil, Seed Oil
+forestry:fluid.short.mead, Short Mead
+forestry:can, item.for.can.name
+forestry:capsule, item.for.capsule.name
+forestry:refractory, item.for.refractory.name
 forestry:sapling:0, Apple Oak Sapling
 forestry:sapling:0, Dark Oak Sapling
 forestry:sapling:0, Silver Birch Sapling
@@ -2327,76 +2643,8 @@ forestry:cocoon_ge:0, Diana Fritillary Cocoon
 forestry:butterfly_chest:0, Lepidopterist's Chest
 forestry:cocoon:0, tile.for.cocoon.name
 forestry:cocoon.solid:0, tile.for.cocoon.solid.name
-forestry:fluid.bio.ethanol, Ethanol
-forestry:fluid.biomass, Biomass
-forestry:fluid.glass, Liquid Glass
-forestry:fluid.for.honey, Honey
-forestry:fluid.ice, Crushed Ice
-forestry:fluid.juice, Fruit Juice
-forestry:fluid.milk, Milk
-forestry:fluid.seed.oil, Seed Oil
-forestry:fluid.short.mead, Short Mead
-forestry:can, item.for.can.name
-forestry:capsule, item.for.capsule.name
-forestry:refractory, item.for.refractory.name
-forestry:database:0, Database
-forestry:mushroom:0, tile.for.mushroom.name
-forestry:mushroom:1, tile.for.mushroom.name
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
+forestry:worktable:0, Worktable
+forestry:genetic_filter:0, Genetic Filter
 forestry:apiarist_bag, Apiarist's Backpack
 forestry:lepidopterist_bag, Lepidopterist's Backpack
 forestry:miner_bag, Mining Backpack
@@ -2411,254 +2659,6 @@ forestry:adventurer_bag, Adventuring Backpack
 forestry:adventurer_bag_t2, Woven Adventuring Backpack
 forestry:builder_bag, Building Backpack
 forestry:builder_bag_t2, Woven Building Backpack
-forestry:stamps:0, Stamp (1n)
-forestry:stamps:1, Stamp (2n)
-forestry:stamps:2, Stamp (5n)
-forestry:stamps:3, Stamp (10n)
-forestry:stamps:4, Stamp (20n)
-forestry:stamps:5, Stamp (50n)
-forestry:stamps:6, Stamp (100n)
-forestry:letters, Letter
-forestry:catalogue, Catalogue
-forestry:mailbox:0, Mailbox
-forestry:trade_station:0, Trade Station
-forestry:stamp_collector:0, Stamp Collector
-forestry:bottler:0, Bottler
-forestry:carpenter:0, Carpenter
-forestry:centrifuge:0, Centrifuge
-forestry:fermenter:0, Fermenter
-forestry:moistener:0, Moistener
-forestry:squeezer:0, Squeezer
-forestry:still:0, Still
-forestry:rainmaker:0, Rainmaker
-forestry:fabricator:0, Thermionic Fabricator
-forestry:raintank:0, Rain Tank
-forestry:engine_peat:0, Peat-fired Engine
-forestry:engine_biogas:0, Biogas Engine
-forestry:engine_clockwork:0, Clockwork Engine
-forestry:bee_queen_ge:0, Forest Queen
-forestry:bee_queen_ge:0, Meadows Queen
-forestry:bee_queen_ge:0, Common Queen
-forestry:bee_queen_ge:0, Cultivated Queen
-forestry:bee_queen_ge:0, Noble Queen
-forestry:bee_queen_ge:0, Majestic Queen
-forestry:bee_queen_ge:0, Imperial Queen
-forestry:bee_queen_ge:0, Diligent Queen
-forestry:bee_queen_ge:0, Unweary Queen
-forestry:bee_queen_ge:0, Industrious Queen
-forestry:bee_queen_ge:0, Steadfast Queen
-forestry:bee_queen_ge:0, Valiant Queen
-forestry:bee_queen_ge:0, Heroic Queen
-forestry:bee_queen_ge:0, Sinister Queen
-forestry:bee_queen_ge:0, Fiendish Queen
-forestry:bee_queen_ge:0, Demonic Queen
-forestry:bee_queen_ge:0, Modest Queen
-forestry:bee_queen_ge:0, Frugal Queen
-forestry:bee_queen_ge:0, Austere Queen
-forestry:bee_queen_ge:0, Tropical Queen
-forestry:bee_queen_ge:0, Exotic Queen
-forestry:bee_queen_ge:0, Edenic Queen
-forestry:bee_queen_ge:0, Ender Queen
-forestry:bee_queen_ge:0, Spectral Queen
-forestry:bee_queen_ge:0, Phantasmal Queen
-forestry:bee_queen_ge:0, Wintry Queen
-forestry:bee_queen_ge:0, Icy Queen
-forestry:bee_queen_ge:0, Glacial Queen
-forestry:bee_queen_ge:0, Vindictive Queen
-forestry:bee_queen_ge:0, Vengeful Queen
-forestry:bee_queen_ge:0, Avenging Queen
-forestry:bee_queen_ge:0, Rural Queen
-forestry:bee_queen_ge:0, Farmerly Queen
-forestry:bee_queen_ge:0, Agrarian Queen
-forestry:bee_queen_ge:0, Marshy Queen
-forestry:bee_queen_ge:0, Miry Queen
-forestry:bee_queen_ge:0, Boggy Queen
-forestry:bee_queen_ge:0, Monastic Queen
-forestry:bee_queen_ge:0, Secluded Queen
-forestry:bee_queen_ge:0, Hermitic Queen
-forestry:bee_drone_ge:0, Forest Drone
-forestry:bee_drone_ge:0, Meadows Drone
-forestry:bee_drone_ge:0, Common Drone
-forestry:bee_drone_ge:0, Cultivated Drone
-forestry:bee_drone_ge:0, Noble Drone
-forestry:bee_drone_ge:0, Majestic Drone
-forestry:bee_drone_ge:0, Imperial Drone
-forestry:bee_drone_ge:0, Diligent Drone
-forestry:bee_drone_ge:0, Unweary Drone
-forestry:bee_drone_ge:0, Industrious Drone
-forestry:bee_drone_ge:0, Steadfast Drone
-forestry:bee_drone_ge:0, Valiant Drone
-forestry:bee_drone_ge:0, Heroic Drone
-forestry:bee_drone_ge:0, Sinister Drone
-forestry:bee_drone_ge:0, Fiendish Drone
-forestry:bee_drone_ge:0, Demonic Drone
-forestry:bee_drone_ge:0, Modest Drone
-forestry:bee_drone_ge:0, Frugal Drone
-forestry:bee_drone_ge:0, Austere Drone
-forestry:bee_drone_ge:0, Tropical Drone
-forestry:bee_drone_ge:0, Exotic Drone
-forestry:bee_drone_ge:0, Edenic Drone
-forestry:bee_drone_ge:0, Ender Drone
-forestry:bee_drone_ge:0, Spectral Drone
-forestry:bee_drone_ge:0, Phantasmal Drone
-forestry:bee_drone_ge:0, Wintry Drone
-forestry:bee_drone_ge:0, Icy Drone
-forestry:bee_drone_ge:0, Glacial Drone
-forestry:bee_drone_ge:0, Vindictive Drone
-forestry:bee_drone_ge:0, Vengeful Drone
-forestry:bee_drone_ge:0, Avenging Drone
-forestry:bee_drone_ge:0, Rural Drone
-forestry:bee_drone_ge:0, Farmerly Drone
-forestry:bee_drone_ge:0, Agrarian Drone
-forestry:bee_drone_ge:0, Marshy Drone
-forestry:bee_drone_ge:0, Miry Drone
-forestry:bee_drone_ge:0, Boggy Drone
-forestry:bee_drone_ge:0, Monastic Drone
-forestry:bee_drone_ge:0, Secluded Drone
-forestry:bee_drone_ge:0, Hermitic Drone
-forestry:bee_princess_ge:0, Forest Princess
-forestry:bee_princess_ge:0, Meadows Princess
-forestry:bee_princess_ge:0, Common Princess
-forestry:bee_princess_ge:0, Cultivated Princess
-forestry:bee_princess_ge:0, Noble Princess
-forestry:bee_princess_ge:0, Majestic Princess
-forestry:bee_princess_ge:0, Imperial Princess
-forestry:bee_princess_ge:0, Diligent Princess
-forestry:bee_princess_ge:0, Unweary Princess
-forestry:bee_princess_ge:0, Industrious Princess
-forestry:bee_princess_ge:0, Steadfast Princess
-forestry:bee_princess_ge:0, Valiant Princess
-forestry:bee_princess_ge:0, Heroic Princess
-forestry:bee_princess_ge:0, Sinister Princess
-forestry:bee_princess_ge:0, Fiendish Princess
-forestry:bee_princess_ge:0, Demonic Princess
-forestry:bee_princess_ge:0, Modest Princess
-forestry:bee_princess_ge:0, Frugal Princess
-forestry:bee_princess_ge:0, Austere Princess
-forestry:bee_princess_ge:0, Tropical Princess
-forestry:bee_princess_ge:0, Exotic Princess
-forestry:bee_princess_ge:0, Edenic Princess
-forestry:bee_princess_ge:0, Ender Princess
-forestry:bee_princess_ge:0, Spectral Princess
-forestry:bee_princess_ge:0, Phantasmal Princess
-forestry:bee_princess_ge:0, Wintry Princess
-forestry:bee_princess_ge:0, Icy Princess
-forestry:bee_princess_ge:0, Glacial Princess
-forestry:bee_princess_ge:0, Vindictive Princess
-forestry:bee_princess_ge:0, Vengeful Princess
-forestry:bee_princess_ge:0, Avenging Princess
-forestry:bee_princess_ge:0, Rural Princess
-forestry:bee_princess_ge:0, Farmerly Princess
-forestry:bee_princess_ge:0, Agrarian Princess
-forestry:bee_princess_ge:0, Marshy Princess
-forestry:bee_princess_ge:0, Miry Princess
-forestry:bee_princess_ge:0, Boggy Princess
-forestry:bee_princess_ge:0, Monastic Princess
-forestry:bee_princess_ge:0, Secluded Princess
-forestry:bee_princess_ge:0, Hermitic Princess
-forestry:bee_larvae_ge:0, Forest Larvae
-forestry:bee_larvae_ge:0, Meadows Larvae
-forestry:bee_larvae_ge:0, Common Larvae
-forestry:bee_larvae_ge:0, Cultivated Larvae
-forestry:bee_larvae_ge:0, Noble Larvae
-forestry:bee_larvae_ge:0, Majestic Larvae
-forestry:bee_larvae_ge:0, Imperial Larvae
-forestry:bee_larvae_ge:0, Diligent Larvae
-forestry:bee_larvae_ge:0, Unweary Larvae
-forestry:bee_larvae_ge:0, Industrious Larvae
-forestry:bee_larvae_ge:0, Steadfast Larvae
-forestry:bee_larvae_ge:0, Valiant Larvae
-forestry:bee_larvae_ge:0, Heroic Larvae
-forestry:bee_larvae_ge:0, Sinister Larvae
-forestry:bee_larvae_ge:0, Fiendish Larvae
-forestry:bee_larvae_ge:0, Demonic Larvae
-forestry:bee_larvae_ge:0, Modest Larvae
-forestry:bee_larvae_ge:0, Frugal Larvae
-forestry:bee_larvae_ge:0, Austere Larvae
-forestry:bee_larvae_ge:0, Tropical Larvae
-forestry:bee_larvae_ge:0, Exotic Larvae
-forestry:bee_larvae_ge:0, Edenic Larvae
-forestry:bee_larvae_ge:0, Ender Larvae
-forestry:bee_larvae_ge:0, Spectral Larvae
-forestry:bee_larvae_ge:0, Phantasmal Larvae
-forestry:bee_larvae_ge:0, Wintry Larvae
-forestry:bee_larvae_ge:0, Icy Larvae
-forestry:bee_larvae_ge:0, Glacial Larvae
-forestry:bee_larvae_ge:0, Vindictive Larvae
-forestry:bee_larvae_ge:0, Vengeful Larvae
-forestry:bee_larvae_ge:0, Avenging Larvae
-forestry:bee_larvae_ge:0, Rural Larvae
-forestry:bee_larvae_ge:0, Farmerly Larvae
-forestry:bee_larvae_ge:0, Agrarian Larvae
-forestry:bee_larvae_ge:0, Marshy Larvae
-forestry:bee_larvae_ge:0, Miry Larvae
-forestry:bee_larvae_ge:0, Boggy Larvae
-forestry:bee_larvae_ge:0, Monastic Larvae
-forestry:bee_larvae_ge:0, Secluded Larvae
-forestry:bee_larvae_ge:0, Hermitic Larvae
-forestry:habitat_locator, Habitat Locator
-forestry:imprinter, Imprinter
-forestry:cart.beehouse:0, Minecart with Bee House
-forestry:cart.beehouse:1, Minecart with Apiary
-forestry:frame_untreated, Untreated Frame
-forestry:frame_impregnated, Impregnated Frame
-forestry:frame_proven, Proven Frame
-forestry:honey_drop:0, Honey Drop
-forestry:pollen:0, Pollen Cluster
-forestry:pollen:1, Crystalline Pollen Cluster
-forestry:propolis:0, Propolis
-forestry:propolis:1, Sticky Propolis
-forestry:propolis:3, Silky Propolis
-forestry:honeydew, Honeydew
-forestry:royal_jelly, Royal Jelly
-forestry:wax_cast, Wax Cast
-forestry:bee_combs:0, Honey Comb
-forestry:bee_combs:2, Simmering Comb
-forestry:bee_combs:3, Stringy Comb
-forestry:bee_combs:4, Frozen Comb
-forestry:bee_combs:5, Dripping Comb
-forestry:bee_combs:6, Silky Comb
-forestry:bee_combs:7, Parched Comb
-forestry:bee_combs:15, Mossy Comb
-forestry:bee_combs:16, Mellow Comb
-forestry:apiarist_helmet, Apiarist's Hat
-forestry:apiarist_chest, Apiarist's Shirt
-forestry:apiarist_legs, Apiarist's Pants
-forestry:apiarist_boots, Apiarist's Shoes
-forestry:scoop, Scoop
-forestry:smoker, Bee Smoker
-forestry:apiary:0, Apiary
-forestry:bee_house:0, Bee House
-forestry:bee_chest:0, Apiarist's Chest
-forestry:beehives:0, Forest Hive
-forestry:beehives:1, Meadows Hive
-forestry:beehives:2, Modest Hive
-forestry:beehives:3, Tropical Hive
-forestry:beehives:4, Ender Hive
-forestry:beehives:5, Wintry Hive
-forestry:beehives:6, Marshy Hive
-forestry:candle:0, Unlit Candle
-forestry:stump:0, Candle Stump
-forestry:bee_combs_0:0, Honey Comb Block
-forestry:bee_combs_0:2, Simmering Comb Block
-forestry:bee_combs_0:3, Stringy Comb Block
-forestry:bee_combs_0:4, Frozen Comb Block
-forestry:bee_combs_0:5, Dripping Comb Block
-forestry:bee_combs_0:6, Silky Comb Block
-forestry:bee_combs_0:7, Parched Comb Block
-forestry:bee_combs_0:15, Mossy Comb Block
-forestry:bee_combs_1:0, Mellow Comb Block
-forestry:alveary.plain:0, Alveary
-forestry:alveary.swarmer:0, Alveary Swarmer
-forestry:alveary.fan:0, Alveary Fan
-forestry:alveary.heater:0, Alveary Heater
-forestry:alveary.hygro:0, Alveary Hygroregulator
-forestry:alveary.stabiliser:0, Alveary Stabiliser
-forestry:alveary.sieve:0, Alveary Sieve
-forestry:genetic_filter:0, Genetic Filter
-forestry:worktable:0, Worktable
-forestry:habitat_former:0, Habitat Former
-forestry:habitat_screen, Habitat Screen
 railcraft:tool_crowbar_iron, Iron Crowbar
 railcraft:tool_crowbar_steel, Steel Crowbar
 railcraft:tool_axe_steel, Steel Axe
@@ -4128,6 +4128,7 @@ genetics:lab_machine:2, Incubator
 genetics:lab_machine:3, Genepool
 genetics:lab_machine:4, Acclimatiser
 genetics:adv_machine:0, Splicer
+botany:machine:0, Tileworker
 botany:ceramic:0, Aquamarine Ceramic Block
 botany:ceramic:1, Black Ceramic Block
 botany:ceramic:2, Deep Blue Ceramic Block
@@ -4537,8 +4538,6 @@ botany:misc:5, Compost Powder
 botany:misc:6, Mortar
 botany:misc:7, Weedkiller
 botany:botanist_bag, Botanist's Backpack
-botany:database:0, Botanist Database
-botany:database:1, Master Botanist Database
 botany:insulated_tube:0, Copper Clay Insulated Electron Tube
 botany:insulated_tube:128, Copper Cobblestone Insulated Electron Tube
 botany:insulated_tube:256, Copper Sandstone Insulated Electron Tube
@@ -4563,7 +4562,8 @@ botany:insulated_tube:259, Iron Sandstone Insulated Electron Tube
 botany:insulated_tube:387, Iron Hardened Clay Insulated Electron Tube
 botany:insulated_tube:515, Iron Smooth Stone Insulated Electron Tube
 botany:insulated_tube:643, Iron Sandstone Insulated Electron Tube
-botany:machine:0, Tileworker
+botany:database:0, Botanist Database
+botany:database:1, Master Botanist Database
 extrabees:honey_crystal, item.honey_crystal.name
 extrabees:honey_drop:0, Energy Drop
 extrabees:honey_drop:1, Acidic Drop
@@ -4794,6 +4794,16 @@ extratrees:food:59, Candlenut
 extratrees:hammer, item.hammer.name
 extratrees:durable_hammer, item.durable_hammer.name
 extratrees:hops, item.hops.name
+extratrees:machine:0, Lumbermill
+extratrees:machine:1, Woodworker
+extratrees:machine:2, Panelworker
+extratrees:machine:4, Fruit Press
+extratrees:machine:5, Brewery
+extratrees:machine:6, Distillery
+extratrees:machine:7, Glassworker
+extratrees:carpentry, tile.null.name
+extratrees:carpentrypanel, tile.null.name
+extratrees:stainedglass, tile.null.name
 extratrees:databasetree, item.databaseTree.name
 extratrees:logs.0:0, Apple Wood
 extratrees:logs.0:1, Fig Wood
@@ -5370,6 +5380,7 @@ extratrees:leaves.decorative.5:14, Leaves
 extratrees:leaves.decorative.5:15, Leaves
 extratrees:leaves.decorative.6:0, Leaves
 extratrees:shrub_log:0, Shrub Wood
+extratrees:databaselepi, item.databaseLepi.name
 extratrees:drink:0, Beer Mug
 extratrees:drink:0, Pint Glass
 extratrees:drink:0, Snifter Glass
@@ -5386,17 +5397,6 @@ extratrees:drink:0, Shot Glass
 extratrees:drink:0, Sherry Glass
 extratrees:drink:0, Coupe Glass
 extratrees:drink:0, Glass of Red Wine
-extratrees:machine:0, Lumbermill
-extratrees:machine:1, Woodworker
-extratrees:machine:2, Panelworker
-extratrees:machine:4, Fruit Press
-extratrees:machine:5, Brewery
-extratrees:machine:6, Distillery
-extratrees:machine:7, Glassworker
-extratrees:carpentry, tile.null.name
-extratrees:carpentrypanel, tile.null.name
-extratrees:stainedglass, tile.null.name
-extratrees:databaselepi, item.databaseLepi.name
 extratrees:binnie.juice.apple, Apple Juice
 extratrees:binnie.juice.apricot, Apricot Juice
 extratrees:binnie.juice.banana, Banana Juice
@@ -6640,18 +6640,18 @@ extracells:pattern.fluid:0, ME Fluid Pattern: Resting Actualization
 extracells:pattern.fluid:0, ME Fluid Pattern: Hyperactive Actualization
 extracells:pattern.fluid:0, ME Fluid Pattern: Acting Actualization
 extracells:pattern.fluid:0, ME Fluid Pattern: Tale of Actualization
-extracells:pattern.fluid:0, ME Fluid Pattern: fluid.molten_sodium_fluoride
-extracells:pattern.fluid:0, ME Fluid Pattern: fluid.distillate_of_terran_values
-extracells:pattern.fluid:0, ME Fluid Pattern: fluid.voice_of_the_testificates
-extracells:pattern.fluid:0, ME Fluid Pattern: fluid.rarified_fluix_matter
-extracells:pattern.fluid:0, ME Fluid Pattern: fluid.minted_fluix_matter
-extracells:pattern.fluid:0, ME Fluid Pattern: fluid.light_of_the_one_power
-extracells:pattern.fluid:0, ME Fluid Pattern: fluid.fine_mineral_mix
-extracells:pattern.fluid:0, ME Fluid Pattern: fluid.matter_of_creative_inquiry
-extracells:pattern.fluid:0, ME Fluid Pattern: fluid.nethengeic_flame
-extracells:pattern.fluid:0, ME Fluid Pattern: fluid.harmonic_temporal_lattice
-extracells:pattern.fluid:0, ME Fluid Pattern: fluid.harmonic_draconian_lattice
-extracells:pattern.fluid:0, ME Fluid Pattern: fluid.harmonic_divine_lattice
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Sodium Fluoride
+extracells:pattern.fluid:0, ME Fluid Pattern: Distillate of Terran Values
+extracells:pattern.fluid:0, ME Fluid Pattern: Voice of the Testificates
+extracells:pattern.fluid:0, ME Fluid Pattern: Rarified Fluix Matter
+extracells:pattern.fluid:0, ME Fluid Pattern: Minted Fluix Matter
+extracells:pattern.fluid:0, ME Fluid Pattern: Light of the One Power
+extracells:pattern.fluid:0, ME Fluid Pattern: Fine Mineral Mix
+extracells:pattern.fluid:0, ME Fluid Pattern: Matter of Creative Inquiry
+extracells:pattern.fluid:0, ME Fluid Pattern: Nethengeic Flame
+extracells:pattern.fluid:0, ME Fluid Pattern: Harmonic Temporal Lattice
+extracells:pattern.fluid:0, ME Fluid Pattern: Harmonic Draconian Lattice
+extracells:pattern.fluid:0, ME Fluid Pattern: Harmonic Divine Lattice
 extracells:pattern.fluid:0, ME Fluid Pattern: Cleansing Balm
 extracells:pattern.fluid:0, ME Fluid Pattern: Demonic Elixir
 extracells:pattern.fluid:0, ME Fluid Pattern: Fiery Unguent
@@ -9286,6 +9286,16 @@ thermaldynamics:cover:0, Block of Tin Cover
 thermaldynamics:cover:0, Block of Bronze Cover
 thermaldynamics:cover:0, Ash Bricks Cover
 thermaldynamics:cover:0, Ash Brick Stairs Cover
+thermaldynamics:cover:0, Candle Stump Cover
+thermaldynamics:cover:0, Honey Comb Block Cover
+thermaldynamics:cover:0, Simmering Comb Block Cover
+thermaldynamics:cover:0, Stringy Comb Block Cover
+thermaldynamics:cover:0, Frozen Comb Block Cover
+thermaldynamics:cover:0, Dripping Comb Block Cover
+thermaldynamics:cover:0, Silky Comb Block Cover
+thermaldynamics:cover:0, Parched Comb Block Cover
+thermaldynamics:cover:0, Mossy Comb Block Cover
+thermaldynamics:cover:0, Mellow Comb Block Cover
 thermaldynamics:cover:0, Larch Wood Cover
 thermaldynamics:cover:0, Teak Wood Cover
 thermaldynamics:cover:0, Desert Acacia Wood Cover
@@ -9734,16 +9744,6 @@ thermaldynamics:cover:0, Sipiri Leaves Cover
 thermaldynamics:cover:0, Papaya Leaves Cover
 thermaldynamics:cover:0, Date Palm Leaves Cover
 thermaldynamics:cover:0, White Poplar Leaves Cover
-thermaldynamics:cover:0, Candle Stump Cover
-thermaldynamics:cover:0, Honey Comb Block Cover
-thermaldynamics:cover:0, Simmering Comb Block Cover
-thermaldynamics:cover:0, Stringy Comb Block Cover
-thermaldynamics:cover:0, Frozen Comb Block Cover
-thermaldynamics:cover:0, Dripping Comb Block Cover
-thermaldynamics:cover:0, Silky Comb Block Cover
-thermaldynamics:cover:0, Parched Comb Block Cover
-thermaldynamics:cover:0, Mossy Comb Block Cover
-thermaldynamics:cover:0, Mellow Comb Block Cover
 thermaldynamics:cover:0, Nickel-Iron Battery Cover
 thermaldynamics:cover:0, Nickel-Zinc Battery Cover
 thermaldynamics:cover:0, Zinc-Carbon Battery Cover
@@ -15019,257 +15019,6 @@ libvulpes:linker, Linker
 libvulpes:battery:0, Battery
 libvulpes:battery:1, Battery Pack
 libvulpes:holoprojector, Holo-Projector
-divinerpg:teleportation_crystal, Teleportation Crystal
-divinerpg:teleportation_star, Teleportation Star
-divinerpg:corrupted_shards, Corrupted Shards
-divinerpg:divine_shards, Divine Shards
-divinerpg:ender_shards, Ender Shards
-divinerpg:ice_shards, Ice Shards
-divinerpg:jungle_shards, Jungle Shards
-divinerpg:molten_shards, Molten Shards
-divinerpg:terran_shards, Terran Shards
-divinerpg:corrupted_stone, Corrupted Stone
-divinerpg:divine_stone, Divine Stone
-divinerpg:ender_stone, Ender Stone
-divinerpg:ice_stone, Ice Stone
-divinerpg:jungle_stone, Jungle Stone
-divinerpg:molten_stone, Molten Stone
-divinerpg:shadow_stone, Shadow Stone
-divinerpg:terran_stone, Terran Stone
-divinerpg:arlemite_ingot, Arlemite Ingot
-divinerpg:hellstone_ingot, Hellstone Ingot
-divinerpg:netherite_ingot, Netherite Ingot
-divinerpg:realmite_ingot, Realmite Ingot
-divinerpg:rupee_ingot, Rupee Ingot
-divinerpg:shadow_bar, Shadow Bar
-divinerpg:arlemite_nugget, Arlemite Nugget
-divinerpg:realmite_nugget, Realmite Nugget
-divinerpg:rupee_nugget, Rupee Nugget
-divinerpg:netherite_nugget, Netherite Nugget
-divinerpg:call_of_the_watcher, Call of the Watcher
-divinerpg:horde_horn, Horde Horn
-divinerpg:infernal_flame, Infernal Flame
-divinerpg:mysterious_clock, Mysterious Clock
-divinerpg:watching_eye, Watching Eye
-divinerpg:blue_diamond_chunk, Blue Diamond Chunk
-divinerpg:gray_diamond_chunk, Gray Diamond Chunk
-divinerpg:red_diamond_chunk, Red Diamond Chunk
-divinerpg:yellow_diamond_chunk, Yellow Diamond Chunk
-divinerpg:green_diamond_chunk, Green Diamond Chunk
-divinerpg:brown_grizzle_egg, Brown Grizzle Spawn Egg
-divinerpg:ehu_egg, Ehu Spawn Egg
-divinerpg:husk_egg, Husk Spawn Egg
-divinerpg:smelter_egg, Smelter Spawn Egg
-divinerpg:snapper_egg, Snapper Spawn Egg
-divinerpg:stone_golem_egg, Stone Golem Spawn Egg
-divinerpg:white_grizzle_egg, White Grizzle Spawn Egg
-divinerpg:aqua_ball, Aqua Ball
-divinerpg:aquatic_blaze_rod, Aquatic Blaze Rod
-divinerpg:aquatic_ingot, Aquatic Ingot
-divinerpg:aquatic_pellets, Aquatic Pellets
-divinerpg:bedrock_chunk, Bedrock Chunk
-divinerpg:bloodgem, Bloodgem
-divinerpg:bluefire_stone, Bluefire Stone
-divinerpg:corrupted_bullet, Corrupted Bullet
-divinerpg:crab_claw, Crab Claw
-divinerpg:cyclops_eye, Cyclops Eye
-divinerpg:cyclops_eye_shards, Cyclops Eye Shards
-divinerpg:fury_fire, Fury Fire
-divinerpg:healing_stone, Healing Stone
-divinerpg:kraken_scale, Kraken Scale
-divinerpg:kraken_skin, Kraken Skin
-divinerpg:legendary_ender_eye, Legendary Ender Eye
-divinerpg:liopleurodon_skull, Liopleurodon Skull
-divinerpg:liopleurodon_teeth, Liopleurodon Teeth
-divinerpg:netherite_chunk, Netherite Chunk
-divinerpg:pure_aquatic_pellets, Pure Aquatic Pellets
-divinerpg:purple_blaze, Purple Blaze
-divinerpg:shadow_coins, Shadow Coins
-divinerpg:shark_fin, Shark Fin
-divinerpg:whale_fin, Whale Fin
-divinerpg:snowflake, Snowflake
-divinerpg:snow_globe, Snow Globe
-divinerpg:advanced_mushroom_stew, Advanced Mushroom Stew
-divinerpg:bacon, Bacon
-divinerpg:boiled_egg, Boiled Egg
-divinerpg:cheese, Cheese
-divinerpg:chicken_dinner, Chicken Dinner
-divinerpg:chocolate_log, Chocolate Log
-divinerpg:donut, Donut
-divinerpg:egg_nog, Egg Nog
-divinerpg:raw_empowered_meat, Raw Empowered Meat
-divinerpg:empowered_meat, Empowered Meat
-divinerpg:enriched_magic_meat, Enriched Magic Meat
-divinerpg:forbidden_fruit, Forbidden Fruit
-divinerpg:fruit_cake, Fruit Cake
-divinerpg:hot_pumpkin_pie, Hot Pumpkin Pie
-divinerpg:magic_meat, Magic Meat
-divinerpg:moonbulb, Moonbulb
-divinerpg:peppermints, Peppermints
-divinerpg:pink_glowbone, Pink Glowbone
-divinerpg:purple_glowbone, Purple Glowbone
-divinerpg:sky_flower, Sky Flower
-divinerpg:snow_cones, Snow Cones
-divinerpg:tomato, Tomato
-divinerpg:white_mushroom, White Mushroom
-divinerpg:winterberry, Winterberry
-divinerpg:eden_soul, Eden Soul
-divinerpg:wildwood_soul, Wildwood Soul
-divinerpg:apalachia_soul, Apalachia Soul
-divinerpg:skythern_soul, Skythern Soul
-divinerpg:mortum_soul, Mortum Soul
-divinerpg:eden_heart, Eden Heart
-divinerpg:wildwood_heart, Wildwood Heart
-divinerpg:apalachia_heart, Apalachia Heart
-divinerpg:skythern_heart, Skythern Heart
-divinerpg:mortum_heart, Mortum Heart
-divinerpg:eden_fragments, Eden Fragments
-divinerpg:wildwood_fragments, Wildwood Fragments
-divinerpg:apalachia_fragments, Apalachia Fragments
-divinerpg:skythern_fragments, Skythern Fragments
-divinerpg:mortum_fragments, Mortum Fragments
-divinerpg:eden_gem, Eden Gem
-divinerpg:wildwood_gem, Wildwood Gem
-divinerpg:apalachia_gem, Apalachia Gem
-divinerpg:skythern_gem, Skythern Gem
-divinerpg:mortum_gem, Mortum Gem
-divinerpg:eden_chunk, Eden Chunk
-divinerpg:wildwood_chunk, Wildwood Chunk
-divinerpg:apalachia_chunk, Apalachia Chunk
-divinerpg:skythern_chunk, Skythern Chunk
-divinerpg:mortum_chunk, Mortum Chunk
-divinerpg:eden_dust, Eden Dust
-divinerpg:wildwood_dust, Wildwood Dust
-divinerpg:apalachia_dust, Apalachia Dust
-divinerpg:skythern_dust, Skythern Dust
-divinerpg:mortum_dust, Mortum Dust
-divinerpg:karot_crystal, Karot Crystal
-divinerpg:reyvor_crystal, Reyvor Crystal
-divinerpg:densos_crystal, Densos Crystal
-divinerpg:soul_fiend_crystal, Soul Fiend Crystal
-divinerpg:twilight_demon_crystal, Twilight Demon Crystal
-divinerpg:vamacheron_crystal, Vamacheron Crystal
-divinerpg:twilight_clock, Twilight Clock
-divinerpg:eden_arrow, Eden Arrow
-divinerpg:fury_arrow, Fury Arrow
-divinerpg:wildwood_arrow, Wildwood Arrow
-divinerpg:base_spawn_crystal, Base Spawn Crystal
-divinerpg:eden_sparkles, Eden Sparkles
-divinerpg:arcanium_attractor, Arcanium Attractor
-divinerpg:arcanium_reflector, Arcanium Reflector
-divinerpg:divine_accumulator, Divine Accumulator
-divinerpg:ghostbane, Ghostbane
-divinerpg:orb_of_light, Orb of Light
-divinerpg:staff_of_enrichment, Staff of Enrichment
-divinerpg:frozen_charge, Frozen Charge
-divinerpg:wizards_book, Wizards Book
-divinerpg:fyracryx_egg, Fyracryx Spawn Egg
-divinerpg:paratiku_egg, Paratiku Spawn Egg
-divinerpg:seimer_egg, Seimer Spawn Egg
-divinerpg:golem_of_rejuvenation_egg, Golem Of Rejuvenation Spawn Egg
-divinerpg:aquamarine, Aquamarine
-divinerpg:firestock, Firestock
-divinerpg:lamona, Lamona
-divinerpg:marsine, Marsine
-divinerpg:pinfly, Pinfly
-divinerpg:veilo, Veilo
-divinerpg:hitchak, Hitchak
-divinerpg:ancient_key, Ancient Key
-divinerpg:degraded_key, Degraded Key
-divinerpg:soul_key, Soul Key
-divinerpg:sludge_key, Sludge Key
-divinerpg:ancient_brick_door, Ancient Brick Door
-divinerpg:degraded_brick_door, Degraded Brick Door
-divinerpg:soul_sludge_door, Soul Sludge Door
-divinerpg:soul_stone_door, Soul Stone Door
-divinerpg:steel_door, Steel Door
-divinerpg:weak_arcana_potion, Weak Arcana Potion
-divinerpg:strong_arcana_potion, Strong Arcana Potion
-divinerpg:arcanium, Arcanium
-divinerpg:collector, Collector
-divinerpg:collector_fragments, Collector Fragments
-divinerpg:dungeon_tokens, Dungeon Tokens
-divinerpg:aquamarine_seeds, Aquamarine Seeds
-divinerpg:eucalyptus_root_seeds, Eucalyptus Root Seeds
-divinerpg:firestock_seeds, Firestock Seeds
-divinerpg:hitchak_seeds, Hitchak Seeds
-divinerpg:lamona_seeds, Lamona Seeds
-divinerpg:marsine_seeds, Marsine Seeds
-divinerpg:moonbulb_seeds, Moonbulb Seeds
-divinerpg:pinfly_seeds, Pinfly Seeds
-divinerpg:pink_glowbone_seeds, Pink Glowbone Seeds
-divinerpg:purple_glowbone_seeds, Purple Glowbone Seeds
-divinerpg:sky_plant_seeds, Sky Plant Seeds
-divinerpg:tomato_seeds, Tomato Seeds
-divinerpg:veilo_seeds, Veilo Seeds
-divinerpg:white_mushroom_seeds, White Mushroom Seeds
-divinerpg:dirty_pearls, Dirty Pearls
-divinerpg:clean_pearls, Clean Pearls
-divinerpg:polished_pearls, Polished Pearls
-divinerpg:shiny_pearls, Shiny Pearls
-divinerpg:teaker_lump, Teaker Lump
-divinerpg:amthirmis_lump, Amthirmis Lump
-divinerpg:darven_lump, Darven Lump
-divinerpg:cermile_lump, Cermile Lump
-divinerpg:pardimal_lump, Pardimal Lump
-divinerpg:quadrotic_lump, Quadrotic Lump
-divinerpg:karos_lump, Karos Lump
-divinerpg:heliosis_lump, Heliosis Lump
-divinerpg:arksiane_lump, Arksiane Lump
-divinerpg:backsword_template, Backsword Template
-divinerpg:bow_template, Bow Template
-divinerpg:cannon_template, Cannon Template
-divinerpg:claw_template, Claw Template
-divinerpg:disk_template, Disk Template
-divinerpg:hammer_template, Hammer Template
-divinerpg:staff_template, Staff Template
-divinerpg:degraded_template, Degraded Template
-divinerpg:finished_template, Finished Template
-divinerpg:glistening_template, Glistening Template
-divinerpg:demonized_template, Demonized Template
-divinerpg:tormented_template, Tormented Template
-divinerpg:dream_carrot, Dream Carrot
-divinerpg:dream_melon, Dream Melon
-divinerpg:dream_pie, Dream Pie
-divinerpg:dream_cake, Dream Cake
-divinerpg:dream_sweets, Dream Sweets
-divinerpg:dream_sours, Dream Sours
-divinerpg:honeysuckle, Honeysuckle
-divinerpg:honeychunk, Honeychunk
-divinerpg:dream_flint, Dream Flint
-divinerpg:moon_clock, Moon Clock
-divinerpg:teaker_arrow, Teaker Arrow
-divinerpg:darven_arrow, Darven Arrow
-divinerpg:pardimal_arrow, Pardimal Arrow
-divinerpg:karos_arrow, Karos Arrow
-divinerpg:ever_arrow, Ever Arrow
-divinerpg:nightmare_bed, Nightmare Bed
-divinerpg:barred_door, Barred Door
-divinerpg:acid, Acid
-divinerpg:band_of_heiva_hunting, Band of Heiva Hunting
-divinerpg:rock_chunks, Rock Chunks
-divinerpg:eden_slab:0, Eden Slab
-divinerpg:wildwood_slab:0, Wildwood Slab
-divinerpg:apalachia_slab:0, Apalachia Slab
-divinerpg:skythern_slab:0, Skythern Slab
-divinerpg:mortum_slab:0, Mortum Slab
-divinerpg:divine_slab:0, Divine Slab
-divinerpg:frozen_slab:0, Frozen Slab
-divinerpg:eucalyptus_slab:0, Eucalyptus Slab
-divinerpg:ancient_brick_slab:0, Ancient Brick Slab
-divinerpg:degraded_brick_slab:0, Degraded Brick Slab
-divinerpg:ancient_brick_slab_breakable:0, Ancient Brick Slab (Breakable)
-divinerpg:degraded_brick_slab_breakable:0, Degraded Brick Slab (Breakable)
-divinerpg:arlemite_shield, Arlemite Deflector
-divinerpg:realmite_shield, Realmite Shield
-divinerpg:rupee_shield, Rupee Reflector
-divinerpg:halite_shield, Halite Greatshield
-divinerpg:eden_shield, Eden Aegis
-divinerpg:wildwood_shield, Wildwood Guard
-divinerpg:apalachia_shield, Apalachia Shield
-divinerpg:skythern_shield, Scutum of the Skythern
-divinerpg:mortum_shield, Mortalos
-divinerpg:miners_amulet, Miner's Amulet
 divinerpg:arlemite_ore, Arlemite Ore
 divinerpg:realmite_ore, Realmite Ore
 divinerpg:rupee_ore, Rupee Ore
@@ -15675,6 +15424,257 @@ divinerpg:mortum_portal, Mortum Portal
 divinerpg:vethea_portal, Vethea Portal
 divinerpg:ancient_brick_wall, Ancient Brick Wall
 divinerpg:degraded_brick_wall, Degraded Brick Wall
+divinerpg:teleportation_crystal, Teleportation Crystal
+divinerpg:teleportation_star, Teleportation Star
+divinerpg:corrupted_shards, Corrupted Shards
+divinerpg:divine_shards, Divine Shards
+divinerpg:ender_shards, Ender Shards
+divinerpg:ice_shards, Ice Shards
+divinerpg:jungle_shards, Jungle Shards
+divinerpg:molten_shards, Molten Shards
+divinerpg:terran_shards, Terran Shards
+divinerpg:corrupted_stone, Corrupted Stone
+divinerpg:divine_stone, Divine Stone
+divinerpg:ender_stone, Ender Stone
+divinerpg:ice_stone, Ice Stone
+divinerpg:jungle_stone, Jungle Stone
+divinerpg:molten_stone, Molten Stone
+divinerpg:shadow_stone, Shadow Stone
+divinerpg:terran_stone, Terran Stone
+divinerpg:arlemite_ingot, Arlemite Ingot
+divinerpg:hellstone_ingot, Hellstone Ingot
+divinerpg:netherite_ingot, Netherite Ingot
+divinerpg:realmite_ingot, Realmite Ingot
+divinerpg:rupee_ingot, Rupee Ingot
+divinerpg:shadow_bar, Shadow Bar
+divinerpg:arlemite_nugget, Arlemite Nugget
+divinerpg:realmite_nugget, Realmite Nugget
+divinerpg:rupee_nugget, Rupee Nugget
+divinerpg:netherite_nugget, Netherite Nugget
+divinerpg:call_of_the_watcher, Call of the Watcher
+divinerpg:horde_horn, Horde Horn
+divinerpg:infernal_flame, Infernal Flame
+divinerpg:mysterious_clock, Mysterious Clock
+divinerpg:watching_eye, Watching Eye
+divinerpg:blue_diamond_chunk, Blue Diamond Chunk
+divinerpg:gray_diamond_chunk, Gray Diamond Chunk
+divinerpg:red_diamond_chunk, Red Diamond Chunk
+divinerpg:yellow_diamond_chunk, Yellow Diamond Chunk
+divinerpg:green_diamond_chunk, Green Diamond Chunk
+divinerpg:brown_grizzle_egg, Brown Grizzle Spawn Egg
+divinerpg:ehu_egg, Ehu Spawn Egg
+divinerpg:husk_egg, Husk Spawn Egg
+divinerpg:smelter_egg, Smelter Spawn Egg
+divinerpg:snapper_egg, Snapper Spawn Egg
+divinerpg:stone_golem_egg, Stone Golem Spawn Egg
+divinerpg:white_grizzle_egg, White Grizzle Spawn Egg
+divinerpg:aqua_ball, Aqua Ball
+divinerpg:aquatic_blaze_rod, Aquatic Blaze Rod
+divinerpg:aquatic_ingot, Aquatic Ingot
+divinerpg:aquatic_pellets, Aquatic Pellets
+divinerpg:bedrock_chunk, Bedrock Chunk
+divinerpg:bloodgem, Bloodgem
+divinerpg:bluefire_stone, Bluefire Stone
+divinerpg:corrupted_bullet, Corrupted Bullet
+divinerpg:crab_claw, Crab Claw
+divinerpg:cyclops_eye, Cyclops Eye
+divinerpg:cyclops_eye_shards, Cyclops Eye Shards
+divinerpg:fury_fire, Fury Fire
+divinerpg:healing_stone, Healing Stone
+divinerpg:kraken_scale, Kraken Scale
+divinerpg:kraken_skin, Kraken Skin
+divinerpg:legendary_ender_eye, Legendary Ender Eye
+divinerpg:liopleurodon_skull, Liopleurodon Skull
+divinerpg:liopleurodon_teeth, Liopleurodon Teeth
+divinerpg:netherite_chunk, Netherite Chunk
+divinerpg:pure_aquatic_pellets, Pure Aquatic Pellets
+divinerpg:purple_blaze, Purple Blaze
+divinerpg:shadow_coins, Shadow Coins
+divinerpg:shark_fin, Shark Fin
+divinerpg:whale_fin, Whale Fin
+divinerpg:snowflake, Snowflake
+divinerpg:snow_globe, Snow Globe
+divinerpg:advanced_mushroom_stew, Advanced Mushroom Stew
+divinerpg:bacon, Bacon
+divinerpg:boiled_egg, Boiled Egg
+divinerpg:cheese, Cheese
+divinerpg:chicken_dinner, Chicken Dinner
+divinerpg:chocolate_log, Chocolate Log
+divinerpg:donut, Donut
+divinerpg:egg_nog, Egg Nog
+divinerpg:raw_empowered_meat, Raw Empowered Meat
+divinerpg:empowered_meat, Empowered Meat
+divinerpg:enriched_magic_meat, Enriched Magic Meat
+divinerpg:forbidden_fruit, Forbidden Fruit
+divinerpg:fruit_cake, Fruit Cake
+divinerpg:hot_pumpkin_pie, Hot Pumpkin Pie
+divinerpg:magic_meat, Magic Meat
+divinerpg:moonbulb, Moonbulb
+divinerpg:peppermints, Peppermints
+divinerpg:pink_glowbone, Pink Glowbone
+divinerpg:purple_glowbone, Purple Glowbone
+divinerpg:sky_flower, Sky Flower
+divinerpg:snow_cones, Snow Cones
+divinerpg:tomato, Tomato
+divinerpg:white_mushroom, White Mushroom
+divinerpg:winterberry, Winterberry
+divinerpg:eden_soul, Eden Soul
+divinerpg:wildwood_soul, Wildwood Soul
+divinerpg:apalachia_soul, Apalachia Soul
+divinerpg:skythern_soul, Skythern Soul
+divinerpg:mortum_soul, Mortum Soul
+divinerpg:eden_heart, Eden Heart
+divinerpg:wildwood_heart, Wildwood Heart
+divinerpg:apalachia_heart, Apalachia Heart
+divinerpg:skythern_heart, Skythern Heart
+divinerpg:mortum_heart, Mortum Heart
+divinerpg:eden_fragments, Eden Fragments
+divinerpg:wildwood_fragments, Wildwood Fragments
+divinerpg:apalachia_fragments, Apalachia Fragments
+divinerpg:skythern_fragments, Skythern Fragments
+divinerpg:mortum_fragments, Mortum Fragments
+divinerpg:eden_gem, Eden Gem
+divinerpg:wildwood_gem, Wildwood Gem
+divinerpg:apalachia_gem, Apalachia Gem
+divinerpg:skythern_gem, Skythern Gem
+divinerpg:mortum_gem, Mortum Gem
+divinerpg:eden_chunk, Eden Chunk
+divinerpg:wildwood_chunk, Wildwood Chunk
+divinerpg:apalachia_chunk, Apalachia Chunk
+divinerpg:skythern_chunk, Skythern Chunk
+divinerpg:mortum_chunk, Mortum Chunk
+divinerpg:eden_dust, Eden Dust
+divinerpg:wildwood_dust, Wildwood Dust
+divinerpg:apalachia_dust, Apalachia Dust
+divinerpg:skythern_dust, Skythern Dust
+divinerpg:mortum_dust, Mortum Dust
+divinerpg:karot_crystal, Karot Crystal
+divinerpg:reyvor_crystal, Reyvor Crystal
+divinerpg:densos_crystal, Densos Crystal
+divinerpg:soul_fiend_crystal, Soul Fiend Crystal
+divinerpg:twilight_demon_crystal, Twilight Demon Crystal
+divinerpg:vamacheron_crystal, Vamacheron Crystal
+divinerpg:twilight_clock, Twilight Clock
+divinerpg:eden_arrow, Eden Arrow
+divinerpg:fury_arrow, Fury Arrow
+divinerpg:wildwood_arrow, Wildwood Arrow
+divinerpg:base_spawn_crystal, Base Spawn Crystal
+divinerpg:eden_sparkles, Eden Sparkles
+divinerpg:arcanium_attractor, Arcanium Attractor
+divinerpg:arcanium_reflector, Arcanium Reflector
+divinerpg:divine_accumulator, Divine Accumulator
+divinerpg:ghostbane, Ghostbane
+divinerpg:orb_of_light, Orb of Light
+divinerpg:staff_of_enrichment, Staff of Enrichment
+divinerpg:frozen_charge, Frozen Charge
+divinerpg:wizards_book, Wizards Book
+divinerpg:fyracryx_egg, Fyracryx Spawn Egg
+divinerpg:paratiku_egg, Paratiku Spawn Egg
+divinerpg:seimer_egg, Seimer Spawn Egg
+divinerpg:golem_of_rejuvenation_egg, Golem Of Rejuvenation Spawn Egg
+divinerpg:aquamarine, Aquamarine
+divinerpg:firestock, Firestock
+divinerpg:lamona, Lamona
+divinerpg:marsine, Marsine
+divinerpg:pinfly, Pinfly
+divinerpg:veilo, Veilo
+divinerpg:hitchak, Hitchak
+divinerpg:ancient_key, Ancient Key
+divinerpg:degraded_key, Degraded Key
+divinerpg:soul_key, Soul Key
+divinerpg:sludge_key, Sludge Key
+divinerpg:ancient_brick_door, Ancient Brick Door
+divinerpg:degraded_brick_door, Degraded Brick Door
+divinerpg:soul_sludge_door, Soul Sludge Door
+divinerpg:soul_stone_door, Soul Stone Door
+divinerpg:steel_door, Steel Door
+divinerpg:weak_arcana_potion, Weak Arcana Potion
+divinerpg:strong_arcana_potion, Strong Arcana Potion
+divinerpg:arcanium, Arcanium
+divinerpg:collector, Collector
+divinerpg:collector_fragments, Collector Fragments
+divinerpg:dungeon_tokens, Dungeon Tokens
+divinerpg:aquamarine_seeds, Aquamarine Seeds
+divinerpg:eucalyptus_root_seeds, Eucalyptus Root Seeds
+divinerpg:firestock_seeds, Firestock Seeds
+divinerpg:hitchak_seeds, Hitchak Seeds
+divinerpg:lamona_seeds, Lamona Seeds
+divinerpg:marsine_seeds, Marsine Seeds
+divinerpg:moonbulb_seeds, Moonbulb Seeds
+divinerpg:pinfly_seeds, Pinfly Seeds
+divinerpg:pink_glowbone_seeds, Pink Glowbone Seeds
+divinerpg:purple_glowbone_seeds, Purple Glowbone Seeds
+divinerpg:sky_plant_seeds, Sky Plant Seeds
+divinerpg:tomato_seeds, Tomato Seeds
+divinerpg:veilo_seeds, Veilo Seeds
+divinerpg:white_mushroom_seeds, White Mushroom Seeds
+divinerpg:dirty_pearls, Dirty Pearls
+divinerpg:clean_pearls, Clean Pearls
+divinerpg:polished_pearls, Polished Pearls
+divinerpg:shiny_pearls, Shiny Pearls
+divinerpg:teaker_lump, Teaker Lump
+divinerpg:amthirmis_lump, Amthirmis Lump
+divinerpg:darven_lump, Darven Lump
+divinerpg:cermile_lump, Cermile Lump
+divinerpg:pardimal_lump, Pardimal Lump
+divinerpg:quadrotic_lump, Quadrotic Lump
+divinerpg:karos_lump, Karos Lump
+divinerpg:heliosis_lump, Heliosis Lump
+divinerpg:arksiane_lump, Arksiane Lump
+divinerpg:backsword_template, Backsword Template
+divinerpg:bow_template, Bow Template
+divinerpg:cannon_template, Cannon Template
+divinerpg:claw_template, Claw Template
+divinerpg:disk_template, Disk Template
+divinerpg:hammer_template, Hammer Template
+divinerpg:staff_template, Staff Template
+divinerpg:degraded_template, Degraded Template
+divinerpg:finished_template, Finished Template
+divinerpg:glistening_template, Glistening Template
+divinerpg:demonized_template, Demonized Template
+divinerpg:tormented_template, Tormented Template
+divinerpg:dream_carrot, Dream Carrot
+divinerpg:dream_melon, Dream Melon
+divinerpg:dream_pie, Dream Pie
+divinerpg:dream_cake, Dream Cake
+divinerpg:dream_sweets, Dream Sweets
+divinerpg:dream_sours, Dream Sours
+divinerpg:honeysuckle, Honeysuckle
+divinerpg:honeychunk, Honeychunk
+divinerpg:dream_flint, Dream Flint
+divinerpg:moon_clock, Moon Clock
+divinerpg:teaker_arrow, Teaker Arrow
+divinerpg:darven_arrow, Darven Arrow
+divinerpg:pardimal_arrow, Pardimal Arrow
+divinerpg:karos_arrow, Karos Arrow
+divinerpg:ever_arrow, Ever Arrow
+divinerpg:nightmare_bed, Nightmare Bed
+divinerpg:barred_door, Barred Door
+divinerpg:acid, Acid
+divinerpg:band_of_heiva_hunting, Band of Heiva Hunting
+divinerpg:rock_chunks, Rock Chunks
+divinerpg:eden_slab:0, Eden Slab
+divinerpg:wildwood_slab:0, Wildwood Slab
+divinerpg:apalachia_slab:0, Apalachia Slab
+divinerpg:skythern_slab:0, Skythern Slab
+divinerpg:mortum_slab:0, Mortum Slab
+divinerpg:divine_slab:0, Divine Slab
+divinerpg:frozen_slab:0, Frozen Slab
+divinerpg:eucalyptus_slab:0, Eucalyptus Slab
+divinerpg:ancient_brick_slab:0, Ancient Brick Slab
+divinerpg:degraded_brick_slab:0, Degraded Brick Slab
+divinerpg:ancient_brick_slab_breakable:0, Ancient Brick Slab (Breakable)
+divinerpg:degraded_brick_slab_breakable:0, Degraded Brick Slab (Breakable)
+divinerpg:arlemite_shield, Arlemite Deflector
+divinerpg:realmite_shield, Realmite Shield
+divinerpg:rupee_shield, Rupee Reflector
+divinerpg:halite_shield, Halite Greatshield
+divinerpg:eden_shield, Eden Aegis
+divinerpg:wildwood_shield, Wildwood Guard
+divinerpg:apalachia_shield, Apalachia Shield
+divinerpg:skythern_shield, Scutum of the Skythern
+divinerpg:mortum_shield, Mortalos
+divinerpg:miners_amulet, Miner's Amulet
 advancedrocketry:wafer:0, Silicon Wafer
 advancedrocketry:itemcircuitplate:0, Basic Circuit Plate
 advancedrocketry:itemcircuitplate:1, Advanced Circuit Plate
@@ -17843,37 +17843,37 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Battery Cell Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Knife Blade Pattern
 tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Laser Medium Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
 tconstruct:pattern:0, Pipe Piece Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Tool Rod Pattern
 tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
 tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Laser Medium Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Battery Cell Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -18086,14 +18086,14 @@ tconstruct:shard:0, Corrupted Shard
 tconstruct:shard:0, Mirion Shard
 tconstruct:shard:0, Livingwood Shard
 tconstruct:shard:0, Elementium Shard
-tconstruct:shard:0, Emerald Shard
 tconstruct:shard:0, Wyvern Shard
 tconstruct:shard:0, Awakened Shard
 tconstruct:shard:0, Chaotic Shard
+tconstruct:shard:0, Emerald Shard
+tconstruct:shard:0, Slime Shard
 tconstruct:shard:0, Fusewood Shard
 tconstruct:shard:0, Ghostwood Shard
 tconstruct:shard:0, Darkwood Shard
-tconstruct:shard:0, Slime Shard
 tconstruct:sharpening_kit:0, Electrical Sharpening Kit
 tconstruct:sharpening_kit:0, Energetic Sharpening Kit
 tconstruct:sharpening_kit:0, Vibrant Sharpening Kit
@@ -18306,14 +18306,14 @@ tconstruct:sharpening_kit:0, Corrupted Sharpening Kit
 tconstruct:sharpening_kit:0, Mirion Sharpening Kit
 tconstruct:sharpening_kit:0, Livingwood Sharpening Kit
 tconstruct:sharpening_kit:0, Elementium Sharpening Kit
-tconstruct:sharpening_kit:0, Emerald Sharpening Kit
 tconstruct:sharpening_kit:0, Wyvern Sharpening Kit
 tconstruct:sharpening_kit:0, Awakened Sharpening Kit
 tconstruct:sharpening_kit:0, Chaotic Sharpening Kit
+tconstruct:sharpening_kit:0, Emerald Sharpening Kit
+tconstruct:sharpening_kit:0, Slime Sharpening Kit
 tconstruct:sharpening_kit:0, Fusewood Sharpening Kit
 tconstruct:sharpening_kit:0, Ghostwood Sharpening Kit
 tconstruct:sharpening_kit:0, Darkwood Sharpening Kit
-tconstruct:sharpening_kit:0, Slime Sharpening Kit
 tconstruct:pick_head:0, Electrical Pickaxe Head
 tconstruct:pick_head:0, Energetic Pickaxe Head
 tconstruct:pick_head:0, Vibrant Pickaxe Head
@@ -18526,14 +18526,14 @@ tconstruct:pick_head:0, Corrupted Pickaxe Head
 tconstruct:pick_head:0, Mirion Pickaxe Head
 tconstruct:pick_head:0, Livingwood Pickaxe Head
 tconstruct:pick_head:0, Elementium Pickaxe Head
-tconstruct:pick_head:0, Emerald Pickaxe Head
 tconstruct:pick_head:0, Wyvern Pickaxe Head
 tconstruct:pick_head:0, Awakened Pickaxe Head
 tconstruct:pick_head:0, Chaotic Pickaxe Head
+tconstruct:pick_head:0, Emerald Pickaxe Head
+tconstruct:pick_head:0, Slime Pickaxe Head
 tconstruct:pick_head:0, Fusewood Pickaxe Head
 tconstruct:pick_head:0, Ghostwood Pickaxe Head
 tconstruct:pick_head:0, Darkwood Pickaxe Head
-tconstruct:pick_head:0, Slime Pickaxe Head
 tconstruct:shovel_head:0, Electrical Shovel Head
 tconstruct:shovel_head:0, Energetic Shovel Head
 tconstruct:shovel_head:0, Vibrant Shovel Head
@@ -18746,14 +18746,14 @@ tconstruct:shovel_head:0, Corrupted Shovel Head
 tconstruct:shovel_head:0, Mirion Shovel Head
 tconstruct:shovel_head:0, Livingwood Shovel Head
 tconstruct:shovel_head:0, Elementium Shovel Head
-tconstruct:shovel_head:0, Emerald Shovel Head
 tconstruct:shovel_head:0, Wyvern Shovel Head
 tconstruct:shovel_head:0, Awakened Shovel Head
 tconstruct:shovel_head:0, Chaotic Shovel Head
+tconstruct:shovel_head:0, Emerald Shovel Head
+tconstruct:shovel_head:0, Slime Shovel Head
 tconstruct:shovel_head:0, Fusewood Shovel Head
 tconstruct:shovel_head:0, Ghostwood Shovel Head
 tconstruct:shovel_head:0, Darkwood Shovel Head
-tconstruct:shovel_head:0, Slime Shovel Head
 tconstruct:axe_head:0, Electrical Axe Head
 tconstruct:axe_head:0, Energetic Axe Head
 tconstruct:axe_head:0, Vibrant Axe Head
@@ -18966,14 +18966,14 @@ tconstruct:axe_head:0, Corrupted Axe Head
 tconstruct:axe_head:0, Mirion Axe Head
 tconstruct:axe_head:0, Livingwood Axe Head
 tconstruct:axe_head:0, Elementium Axe Head
-tconstruct:axe_head:0, Emerald Axe Head
 tconstruct:axe_head:0, Wyvern Axe Head
 tconstruct:axe_head:0, Awakened Axe Head
 tconstruct:axe_head:0, Chaotic Axe Head
+tconstruct:axe_head:0, Emerald Axe Head
+tconstruct:axe_head:0, Slime Axe Head
 tconstruct:axe_head:0, Fusewood Axe Head
 tconstruct:axe_head:0, Ghostwood Axe Head
 tconstruct:axe_head:0, Darkwood Axe Head
-tconstruct:axe_head:0, Slime Axe Head
 tconstruct:broad_axe_head:0, Electrical Broad Axe Head
 tconstruct:broad_axe_head:0, Energetic Broad Axe Head
 tconstruct:broad_axe_head:0, Vibrant Broad Axe Head
@@ -19186,14 +19186,14 @@ tconstruct:broad_axe_head:0, Corrupted Broad Axe Head
 tconstruct:broad_axe_head:0, Mirion Broad Axe Head
 tconstruct:broad_axe_head:0, Livingwood Broad Axe Head
 tconstruct:broad_axe_head:0, Elementium Broad Axe Head
-tconstruct:broad_axe_head:0, Emerald Broad Axe Head
 tconstruct:broad_axe_head:0, Wyvern Broad Axe Head
 tconstruct:broad_axe_head:0, Awakened Broad Axe Head
 tconstruct:broad_axe_head:0, Chaotic Broad Axe Head
+tconstruct:broad_axe_head:0, Emerald Broad Axe Head
+tconstruct:broad_axe_head:0, Slime Broad Axe Head
 tconstruct:broad_axe_head:0, Fusewood Broad Axe Head
 tconstruct:broad_axe_head:0, Ghostwood Broad Axe Head
 tconstruct:broad_axe_head:0, Darkwood Broad Axe Head
-tconstruct:broad_axe_head:0, Slime Broad Axe Head
 tconstruct:sword_blade:0, Electrical Sword Blade
 tconstruct:sword_blade:0, Energetic Sword Blade
 tconstruct:sword_blade:0, Vibrant Sword Blade
@@ -19406,14 +19406,14 @@ tconstruct:sword_blade:0, Corrupted Sword Blade
 tconstruct:sword_blade:0, Mirion Sword Blade
 tconstruct:sword_blade:0, Livingwood Sword Blade
 tconstruct:sword_blade:0, Elementium Sword Blade
-tconstruct:sword_blade:0, Emerald Sword Blade
 tconstruct:sword_blade:0, Wyvern Sword Blade
 tconstruct:sword_blade:0, Awakened Sword Blade
 tconstruct:sword_blade:0, Chaotic Sword Blade
+tconstruct:sword_blade:0, Emerald Sword Blade
+tconstruct:sword_blade:0, Slime Sword Blade
 tconstruct:sword_blade:0, Fusewood Sword Blade
 tconstruct:sword_blade:0, Ghostwood Sword Blade
 tconstruct:sword_blade:0, Darkwood Sword Blade
-tconstruct:sword_blade:0, Slime Sword Blade
 tconstruct:large_sword_blade:0, Electrical Large Sword Blade
 tconstruct:large_sword_blade:0, Energetic Large Sword Blade
 tconstruct:large_sword_blade:0, Vibrant Large Sword Blade
@@ -19626,14 +19626,14 @@ tconstruct:large_sword_blade:0, Corrupted Large Sword Blade
 tconstruct:large_sword_blade:0, Mirion Large Sword Blade
 tconstruct:large_sword_blade:0, Livingwood Large Sword Blade
 tconstruct:large_sword_blade:0, Elementium Large Sword Blade
-tconstruct:large_sword_blade:0, Emerald Large Sword Blade
 tconstruct:large_sword_blade:0, Wyvern Large Sword Blade
 tconstruct:large_sword_blade:0, Awakened Large Sword Blade
 tconstruct:large_sword_blade:0, Chaotic Large Sword Blade
+tconstruct:large_sword_blade:0, Emerald Large Sword Blade
+tconstruct:large_sword_blade:0, Slime Large Sword Blade
 tconstruct:large_sword_blade:0, Fusewood Large Sword Blade
 tconstruct:large_sword_blade:0, Ghostwood Large Sword Blade
 tconstruct:large_sword_blade:0, Darkwood Large Sword Blade
-tconstruct:large_sword_blade:0, Slime Large Sword Blade
 tconstruct:hammer_head:0, Electrical Hammer Head
 tconstruct:hammer_head:0, Energetic Hammer Head
 tconstruct:hammer_head:0, Vibrant Hammer Head
@@ -19846,14 +19846,14 @@ tconstruct:hammer_head:0, Corrupted Hammer Head
 tconstruct:hammer_head:0, Mirion Hammer Head
 tconstruct:hammer_head:0, Livingwood Hammer Head
 tconstruct:hammer_head:0, Elementium Hammer Head
-tconstruct:hammer_head:0, Emerald Hammer Head
 tconstruct:hammer_head:0, Wyvern Hammer Head
 tconstruct:hammer_head:0, Awakened Hammer Head
 tconstruct:hammer_head:0, Chaotic Hammer Head
+tconstruct:hammer_head:0, Emerald Hammer Head
+tconstruct:hammer_head:0, Slime Hammer Head
 tconstruct:hammer_head:0, Fusewood Hammer Head
 tconstruct:hammer_head:0, Ghostwood Hammer Head
 tconstruct:hammer_head:0, Darkwood Hammer Head
-tconstruct:hammer_head:0, Slime Hammer Head
 tconstruct:excavator_head:0, Electrical Excavator Head
 tconstruct:excavator_head:0, Energetic Excavator Head
 tconstruct:excavator_head:0, Vibrant Excavator Head
@@ -20066,14 +20066,14 @@ tconstruct:excavator_head:0, Corrupted Excavator Head
 tconstruct:excavator_head:0, Mirion Excavator Head
 tconstruct:excavator_head:0, Livingwood Excavator Head
 tconstruct:excavator_head:0, Elementium Excavator Head
-tconstruct:excavator_head:0, Emerald Excavator Head
 tconstruct:excavator_head:0, Wyvern Excavator Head
 tconstruct:excavator_head:0, Awakened Excavator Head
 tconstruct:excavator_head:0, Chaotic Excavator Head
+tconstruct:excavator_head:0, Emerald Excavator Head
+tconstruct:excavator_head:0, Slime Excavator Head
 tconstruct:excavator_head:0, Fusewood Excavator Head
 tconstruct:excavator_head:0, Ghostwood Excavator Head
 tconstruct:excavator_head:0, Darkwood Excavator Head
-tconstruct:excavator_head:0, Slime Excavator Head
 tconstruct:kama_head:0, Electrical Kama Head
 tconstruct:kama_head:0, Energetic Kama Head
 tconstruct:kama_head:0, Vibrant Kama Head
@@ -20286,14 +20286,14 @@ tconstruct:kama_head:0, Corrupted Kama Head
 tconstruct:kama_head:0, Mirion Kama Head
 tconstruct:kama_head:0, Livingwood Kama Head
 tconstruct:kama_head:0, Elementium Kama Head
-tconstruct:kama_head:0, Emerald Kama Head
 tconstruct:kama_head:0, Wyvern Kama Head
 tconstruct:kama_head:0, Awakened Kama Head
 tconstruct:kama_head:0, Chaotic Kama Head
+tconstruct:kama_head:0, Emerald Kama Head
+tconstruct:kama_head:0, Slime Kama Head
 tconstruct:kama_head:0, Fusewood Kama Head
 tconstruct:kama_head:0, Ghostwood Kama Head
 tconstruct:kama_head:0, Darkwood Kama Head
-tconstruct:kama_head:0, Slime Kama Head
 tconstruct:scythe_head:0, Electrical Scythe Head
 tconstruct:scythe_head:0, Energetic Scythe Head
 tconstruct:scythe_head:0, Vibrant Scythe Head
@@ -20506,14 +20506,14 @@ tconstruct:scythe_head:0, Corrupted Scythe Head
 tconstruct:scythe_head:0, Mirion Scythe Head
 tconstruct:scythe_head:0, Livingwood Scythe Head
 tconstruct:scythe_head:0, Elementium Scythe Head
-tconstruct:scythe_head:0, Emerald Scythe Head
 tconstruct:scythe_head:0, Wyvern Scythe Head
 tconstruct:scythe_head:0, Awakened Scythe Head
 tconstruct:scythe_head:0, Chaotic Scythe Head
+tconstruct:scythe_head:0, Emerald Scythe Head
+tconstruct:scythe_head:0, Slime Scythe Head
 tconstruct:scythe_head:0, Fusewood Scythe Head
 tconstruct:scythe_head:0, Ghostwood Scythe Head
 tconstruct:scythe_head:0, Darkwood Scythe Head
-tconstruct:scythe_head:0, Slime Scythe Head
 tconstruct:pan_head:0, Electrical Pan
 tconstruct:pan_head:0, Energetic Pan
 tconstruct:pan_head:0, Vibrant Pan
@@ -20726,14 +20726,14 @@ tconstruct:pan_head:0, Corrupted Pan
 tconstruct:pan_head:0, Mirion Pan
 tconstruct:pan_head:0, Livingwood Pan
 tconstruct:pan_head:0, Elementium Pan
-tconstruct:pan_head:0, Emerald Pan
 tconstruct:pan_head:0, Wyvern Pan
 tconstruct:pan_head:0, Awakened Pan
 tconstruct:pan_head:0, Chaotic Pan
+tconstruct:pan_head:0, Emerald Pan
+tconstruct:pan_head:0, Slime Pan
 tconstruct:pan_head:0, Fusewood Pan
 tconstruct:pan_head:0, Ghostwood Pan
 tconstruct:pan_head:0, Darkwood Pan
-tconstruct:pan_head:0, Slime Pan
 tconstruct:sign_head:0, Electrical Sign Plate
 tconstruct:sign_head:0, Energetic Sign Plate
 tconstruct:sign_head:0, Vibrant Sign Plate
@@ -20946,14 +20946,14 @@ tconstruct:sign_head:0, Corrupted Sign Plate
 tconstruct:sign_head:0, Mirion Sign Plate
 tconstruct:sign_head:0, Livingwood Sign Plate
 tconstruct:sign_head:0, Elementium Sign Plate
-tconstruct:sign_head:0, Emerald Sign Plate
 tconstruct:sign_head:0, Wyvern Sign Plate
 tconstruct:sign_head:0, Awakened Sign Plate
 tconstruct:sign_head:0, Chaotic Sign Plate
+tconstruct:sign_head:0, Emerald Sign Plate
+tconstruct:sign_head:0, Slime Sign Plate
 tconstruct:sign_head:0, Fusewood Sign Plate
 tconstruct:sign_head:0, Ghostwood Sign Plate
 tconstruct:sign_head:0, Darkwood Sign Plate
-tconstruct:sign_head:0, Slime Sign Plate
 tconstruct:tool_rod:0, Electrical Tool Rod
 tconstruct:tool_rod:0, Energetic Tool Rod
 tconstruct:tool_rod:0, Vibrant Tool Rod
@@ -21165,14 +21165,14 @@ tconstruct:tool_rod:0, Corrupted Tool Rod
 tconstruct:tool_rod:0, Mirion Tool Rod
 tconstruct:tool_rod:0, Livingwood Tool Rod
 tconstruct:tool_rod:0, Elementium Tool Rod
-tconstruct:tool_rod:0, Emerald Tool Rod
 tconstruct:tool_rod:0, Wyvern Tool Rod
 tconstruct:tool_rod:0, Awakened Tool Rod
 tconstruct:tool_rod:0, Chaotic Tool Rod
+tconstruct:tool_rod:0, Emerald Tool Rod
+tconstruct:tool_rod:0, Slime Tool Rod
 tconstruct:tool_rod:0, Fusewood Tool Rod
 tconstruct:tool_rod:0, Ghostwood Tool Rod
 tconstruct:tool_rod:0, Darkwood Tool Rod
-tconstruct:tool_rod:0, Slime Tool Rod
 tconstruct:tough_tool_rod:0, Electrical Tough Tool Rod
 tconstruct:tough_tool_rod:0, Energetic Tough Tool Rod
 tconstruct:tough_tool_rod:0, Vibrant Tough Tool Rod
@@ -21384,14 +21384,14 @@ tconstruct:tough_tool_rod:0, Corrupted Tough Tool Rod
 tconstruct:tough_tool_rod:0, Mirion Tough Tool Rod
 tconstruct:tough_tool_rod:0, Livingwood Tough Tool Rod
 tconstruct:tough_tool_rod:0, Elementium Tough Tool Rod
-tconstruct:tough_tool_rod:0, Emerald Tough Tool Rod
 tconstruct:tough_tool_rod:0, Wyvern Tough Tool Rod
 tconstruct:tough_tool_rod:0, Awakened Tough Tool Rod
 tconstruct:tough_tool_rod:0, Chaotic Tough Tool Rod
+tconstruct:tough_tool_rod:0, Emerald Tough Tool Rod
+tconstruct:tough_tool_rod:0, Slime Tough Tool Rod
 tconstruct:tough_tool_rod:0, Fusewood Tough Tool Rod
 tconstruct:tough_tool_rod:0, Ghostwood Tough Tool Rod
 tconstruct:tough_tool_rod:0, Darkwood Tough Tool Rod
-tconstruct:tough_tool_rod:0, Slime Tough Tool Rod
 tconstruct:binding:0, Electrical Binding
 tconstruct:binding:0, Energetic Binding
 tconstruct:binding:0, Vibrant Binding
@@ -21599,14 +21599,14 @@ tconstruct:binding:0, Corrupted Binding
 tconstruct:binding:0, Mirion Binding
 tconstruct:binding:0, Livingwood Binding
 tconstruct:binding:0, Elementium Binding
-tconstruct:binding:0, Emerald Binding
 tconstruct:binding:0, Wyvern Binding
 tconstruct:binding:0, Awakened Binding
 tconstruct:binding:0, Chaotic Binding
+tconstruct:binding:0, Emerald Binding
+tconstruct:binding:0, Slime Binding
 tconstruct:binding:0, Fusewood Binding
 tconstruct:binding:0, Ghostwood Binding
 tconstruct:binding:0, Darkwood Binding
-tconstruct:binding:0, Slime Binding
 tconstruct:tough_binding:0, Electrical Tough Binding
 tconstruct:tough_binding:0, Energetic Tough Binding
 tconstruct:tough_binding:0, Vibrant Tough Binding
@@ -21814,14 +21814,14 @@ tconstruct:tough_binding:0, Corrupted Tough Binding
 tconstruct:tough_binding:0, Mirion Tough Binding
 tconstruct:tough_binding:0, Livingwood Tough Binding
 tconstruct:tough_binding:0, Elementium Tough Binding
-tconstruct:tough_binding:0, Emerald Tough Binding
 tconstruct:tough_binding:0, Wyvern Tough Binding
 tconstruct:tough_binding:0, Awakened Tough Binding
 tconstruct:tough_binding:0, Chaotic Tough Binding
+tconstruct:tough_binding:0, Emerald Tough Binding
+tconstruct:tough_binding:0, Slime Tough Binding
 tconstruct:tough_binding:0, Fusewood Tough Binding
 tconstruct:tough_binding:0, Ghostwood Tough Binding
 tconstruct:tough_binding:0, Darkwood Tough Binding
-tconstruct:tough_binding:0, Slime Tough Binding
 tconstruct:wide_guard:0, Electrical Wide Guard
 tconstruct:wide_guard:0, Energetic Wide Guard
 tconstruct:wide_guard:0, Vibrant Wide Guard
@@ -22029,14 +22029,14 @@ tconstruct:wide_guard:0, Corrupted Wide Guard
 tconstruct:wide_guard:0, Mirion Wide Guard
 tconstruct:wide_guard:0, Livingwood Wide Guard
 tconstruct:wide_guard:0, Elementium Wide Guard
-tconstruct:wide_guard:0, Emerald Wide Guard
 tconstruct:wide_guard:0, Wyvern Wide Guard
 tconstruct:wide_guard:0, Awakened Wide Guard
 tconstruct:wide_guard:0, Chaotic Wide Guard
+tconstruct:wide_guard:0, Emerald Wide Guard
+tconstruct:wide_guard:0, Slime Wide Guard
 tconstruct:wide_guard:0, Fusewood Wide Guard
 tconstruct:wide_guard:0, Ghostwood Wide Guard
 tconstruct:wide_guard:0, Darkwood Wide Guard
-tconstruct:wide_guard:0, Slime Wide Guard
 tconstruct:hand_guard:0, Electrical Hand Guard
 tconstruct:hand_guard:0, Energetic Hand Guard
 tconstruct:hand_guard:0, Vibrant Hand Guard
@@ -22244,14 +22244,14 @@ tconstruct:hand_guard:0, Corrupted Hand Guard
 tconstruct:hand_guard:0, Mirion Hand Guard
 tconstruct:hand_guard:0, Livingwood Hand Guard
 tconstruct:hand_guard:0, Elementium Hand Guard
-tconstruct:hand_guard:0, Emerald Hand Guard
 tconstruct:hand_guard:0, Wyvern Hand Guard
 tconstruct:hand_guard:0, Awakened Hand Guard
 tconstruct:hand_guard:0, Chaotic Hand Guard
+tconstruct:hand_guard:0, Emerald Hand Guard
+tconstruct:hand_guard:0, Slime Hand Guard
 tconstruct:hand_guard:0, Fusewood Hand Guard
 tconstruct:hand_guard:0, Ghostwood Hand Guard
 tconstruct:hand_guard:0, Darkwood Hand Guard
-tconstruct:hand_guard:0, Slime Hand Guard
 tconstruct:cross_guard:0, Electrical Cross Guard
 tconstruct:cross_guard:0, Energetic Cross Guard
 tconstruct:cross_guard:0, Vibrant Cross Guard
@@ -22459,14 +22459,14 @@ tconstruct:cross_guard:0, Corrupted Cross Guard
 tconstruct:cross_guard:0, Mirion Cross Guard
 tconstruct:cross_guard:0, Livingwood Cross Guard
 tconstruct:cross_guard:0, Elementium Cross Guard
-tconstruct:cross_guard:0, Emerald Cross Guard
 tconstruct:cross_guard:0, Wyvern Cross Guard
 tconstruct:cross_guard:0, Awakened Cross Guard
 tconstruct:cross_guard:0, Chaotic Cross Guard
+tconstruct:cross_guard:0, Emerald Cross Guard
+tconstruct:cross_guard:0, Slime Cross Guard
 tconstruct:cross_guard:0, Fusewood Cross Guard
 tconstruct:cross_guard:0, Ghostwood Cross Guard
 tconstruct:cross_guard:0, Darkwood Cross Guard
-tconstruct:cross_guard:0, Slime Cross Guard
 tconstruct:large_plate:0, Electrical Large Plate
 tconstruct:large_plate:0, Energetic Large Plate
 tconstruct:large_plate:0, Vibrant Large Plate
@@ -22679,14 +22679,14 @@ tconstruct:large_plate:0, Corrupted Large Plate
 tconstruct:large_plate:0, Mirion Large Plate
 tconstruct:large_plate:0, Livingwood Large Plate
 tconstruct:large_plate:0, Elementium Large Plate
-tconstruct:large_plate:0, Emerald Large Plate
 tconstruct:large_plate:0, Wyvern Large Plate
 tconstruct:large_plate:0, Awakened Large Plate
 tconstruct:large_plate:0, Chaotic Large Plate
+tconstruct:large_plate:0, Emerald Large Plate
+tconstruct:large_plate:0, Slime Large Plate
 tconstruct:large_plate:0, Fusewood Large Plate
 tconstruct:large_plate:0, Ghostwood Large Plate
 tconstruct:large_plate:0, Darkwood Large Plate
-tconstruct:large_plate:0, Slime Large Plate
 tconstruct:knife_blade:0, Electrical Knife Blade
 tconstruct:knife_blade:0, Energetic Knife Blade
 tconstruct:knife_blade:0, Vibrant Knife Blade
@@ -22894,14 +22894,14 @@ tconstruct:knife_blade:0, Corrupted Knife Blade
 tconstruct:knife_blade:0, Mirion Knife Blade
 tconstruct:knife_blade:0, Livingwood Knife Blade
 tconstruct:knife_blade:0, Elementium Knife Blade
-tconstruct:knife_blade:0, Emerald Knife Blade
 tconstruct:knife_blade:0, Wyvern Knife Blade
 tconstruct:knife_blade:0, Awakened Knife Blade
 tconstruct:knife_blade:0, Chaotic Knife Blade
+tconstruct:knife_blade:0, Emerald Knife Blade
+tconstruct:knife_blade:0, Slime Knife Blade
 tconstruct:knife_blade:0, Fusewood Knife Blade
 tconstruct:knife_blade:0, Ghostwood Knife Blade
 tconstruct:knife_blade:0, Darkwood Knife Blade
-tconstruct:knife_blade:0, Slime Knife Blade
 tconstruct:bow_limb:0, Electrical Bowlimb
 tconstruct:bow_limb:0, Energetic Bowlimb
 tconstruct:bow_limb:0, Vibrant Bowlimb
@@ -23090,14 +23090,14 @@ tconstruct:bow_limb:0, Starmetal Bowlimb
 tconstruct:bow_limb:0, Mirion Bowlimb
 tconstruct:bow_limb:0, Livingwood Bowlimb
 tconstruct:bow_limb:0, Elementium Bowlimb
-tconstruct:bow_limb:0, Emerald Bowlimb
 tconstruct:bow_limb:0, Wyvern Bowlimb
 tconstruct:bow_limb:0, Awakened Bowlimb
 tconstruct:bow_limb:0, Chaotic Bowlimb
+tconstruct:bow_limb:0, Emerald Bowlimb
+tconstruct:bow_limb:0, Slime Bowlimb
 tconstruct:bow_limb:0, Fusewood Bowlimb
 tconstruct:bow_limb:0, Ghostwood Bowlimb
 tconstruct:bow_limb:0, Darkwood Bowlimb
-tconstruct:bow_limb:0, Slime Bowlimb
 tconstruct:bow_string:0, Souled Bowstring
 tconstruct:bow_string:0, String Bowstring
 tconstruct:bow_string:0, Blue Slimevine Bowstring
@@ -23316,14 +23316,14 @@ tconstruct:arrow_head:0, Corrupted Arrow Head
 tconstruct:arrow_head:0, Mirion Arrow Head
 tconstruct:arrow_head:0, Livingwood Arrow Head
 tconstruct:arrow_head:0, Elementium Arrow Head
-tconstruct:arrow_head:0, Emerald Arrow Head
 tconstruct:arrow_head:0, Wyvern Arrow Head
 tconstruct:arrow_head:0, Awakened Arrow Head
 tconstruct:arrow_head:0, Chaotic Arrow Head
+tconstruct:arrow_head:0, Emerald Arrow Head
+tconstruct:arrow_head:0, Slime Arrow Head
 tconstruct:arrow_head:0, Fusewood Arrow Head
 tconstruct:arrow_head:0, Ghostwood Arrow Head
 tconstruct:arrow_head:0, Darkwood Arrow Head
-tconstruct:arrow_head:0, Slime Arrow Head
 tconstruct:arrow_shaft:0, Naga Scale Arrow Shaft
 tconstruct:arrow_shaft:0, Steeleaf Arrow Shaft
 tconstruct:arrow_shaft:0, Fiery Arrow Shaft
@@ -24055,72 +24055,72 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Battery Cell Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Knife Blade Cast
 tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Laser Medium Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Arrow Shaft Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Hand Guard Cast
 tconstruct:cast:0, Pipe Piece Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Tool Rod Cast
 tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Arrow Shaft Cast
 tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Laser Medium Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Battery Cell Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Broad Axe Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Battery Cell Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
 tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Laser Medium Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Arrow Shaft Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
 tconstruct:clay_cast:0, Pipe Piece Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
 tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Arrow Shaft Clay Cast
 tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Laser Medium Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Battery Cell Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -25295,6 +25295,15 @@ appliedenergistics2:facade:0, Cable Facade - Block of Copper
 appliedenergistics2:facade:0, Cable Facade - Block of Tin
 appliedenergistics2:facade:0, Cable Facade - Block of Bronze
 appliedenergistics2:facade:0, Cable Facade - Ash Bricks
+appliedenergistics2:facade:0, Cable Facade - Honey Comb Block
+appliedenergistics2:facade:0, Cable Facade - Simmering Comb Block
+appliedenergistics2:facade:0, Cable Facade - Stringy Comb Block
+appliedenergistics2:facade:0, Cable Facade - Frozen Comb Block
+appliedenergistics2:facade:0, Cable Facade - Dripping Comb Block
+appliedenergistics2:facade:0, Cable Facade - Silky Comb Block
+appliedenergistics2:facade:0, Cable Facade - Parched Comb Block
+appliedenergistics2:facade:0, Cable Facade - Mossy Comb Block
+appliedenergistics2:facade:0, Cable Facade - Mellow Comb Block
 appliedenergistics2:facade:0, Cable Facade - Larch Wood
 appliedenergistics2:facade:0, Cable Facade - Teak Wood
 appliedenergistics2:facade:0, Cable Facade - Desert Acacia Wood
@@ -25458,15 +25467,6 @@ appliedenergistics2:facade:0, Cable Facade - Sipiri Leaves
 appliedenergistics2:facade:0, Cable Facade - Papaya Leaves
 appliedenergistics2:facade:0, Cable Facade - Date Palm Leaves
 appliedenergistics2:facade:0, Cable Facade - White Poplar Leaves
-appliedenergistics2:facade:0, Cable Facade - Honey Comb Block
-appliedenergistics2:facade:0, Cable Facade - Simmering Comb Block
-appliedenergistics2:facade:0, Cable Facade - Stringy Comb Block
-appliedenergistics2:facade:0, Cable Facade - Frozen Comb Block
-appliedenergistics2:facade:0, Cable Facade - Dripping Comb Block
-appliedenergistics2:facade:0, Cable Facade - Silky Comb Block
-appliedenergistics2:facade:0, Cable Facade - Parched Comb Block
-appliedenergistics2:facade:0, Cable Facade - Mossy Comb Block
-appliedenergistics2:facade:0, Cable Facade - Mellow Comb Block
 appliedenergistics2:facade:0, Cable Facade - Nickel-Iron Battery
 appliedenergistics2:facade:0, Cable Facade - Nickel-Zinc Battery
 appliedenergistics2:facade:0, Cable Facade - Zinc-Carbon Battery
@@ -29352,65 +29352,6 @@ appliedenergistics2:facade:0, Cable Facade - Gilded Birch Wood
 appliedenergistics2:facade:0, Cable Facade - Gilded Jungle Wood
 appliedenergistics2:facade:0, Cable Facade - Gilded Acacia Wood
 appliedenergistics2:facade:0, Cable Facade - Gilded Dark Oak Wood
-appliedenergistics2:facade:0, Cable Facade - Block of Smokey Quartz
-appliedenergistics2:facade:0, Cable Facade - Chiseled Smokey Quartz Block
-appliedenergistics2:facade:0, Cable Facade - Pillar Smokey Quartz Block
-appliedenergistics2:facade:0, Cable Facade - Block of Mana Quartz
-appliedenergistics2:facade:0, Cable Facade - Chiseled Mana Quartz Block
-appliedenergistics2:facade:0, Cable Facade - Pillar Mana Quartz Block
-appliedenergistics2:facade:0, Cable Facade - Block of Blaze Quartz
-appliedenergistics2:facade:0, Cable Facade - Chiseled Blaze Quartz Block
-appliedenergistics2:facade:0, Cable Facade - Pillar Blaze Quartz Block
-appliedenergistics2:facade:0, Cable Facade - Block of Lavender Quartz
-appliedenergistics2:facade:0, Cable Facade - Chiseled Lavender Quartz Block
-appliedenergistics2:facade:0, Cable Facade - Pillar Lavender Quartz Block
-appliedenergistics2:facade:0, Cable Facade - Block of Redquartz
-appliedenergistics2:facade:0, Cable Facade - Chiseled Redquartz Block
-appliedenergistics2:facade:0, Cable Facade - Pillar Redquartz Block
-appliedenergistics2:facade:0, Cable Facade - Block of Elven Quartz
-appliedenergistics2:facade:0, Cable Facade - Chiseled Elven Quartz Block
-appliedenergistics2:facade:0, Cable Facade - Pillar Elven Quartz Block
-appliedenergistics2:facade:0, Cable Facade - Block of Sunny Quartz
-appliedenergistics2:facade:0, Cable Facade - Chiseled Sunny Quartz Block
-appliedenergistics2:facade:0, Cable Facade - Pillar Sunny Quartz Block
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Forest Stone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Plains Stone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Mountain Stone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Fungal Stone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Swamp Stone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Desert Stone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Taiga Stone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Mesa Stone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Forest Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Plains Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Mountain Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Fungal Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Swamp Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Desert Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Taiga Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Mesa Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Forest Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Plains Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Mountain Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Fungal Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Swamp Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Desert Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Taiga Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Mesa Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Forest Stone Brick
-appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Plains Stone Brick
-appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Mountain Stone Brick
-appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Fungal Stone Brick
-appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Swamp Stone Brick
-appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Desert Stone Brick
-appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Taiga Stone Brick
-appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Mesa Stone Brick
-appliedenergistics2:facade:0, Cable Facade - White Portuguese Pavement
-appliedenergistics2:facade:0, Cable Facade - Black Portuguese Pavement
-appliedenergistics2:facade:0, Cable Facade - Blue Portuguese Pavement
-appliedenergistics2:facade:0, Cable Facade - Red Portuguese Pavement
-appliedenergistics2:facade:0, Cable Facade - Yellow Portuguese Pavement
-appliedenergistics2:facade:0, Cable Facade - Green Portuguese Pavement
 appliedenergistics2:facade:0, Cable Facade - Livingrock
 appliedenergistics2:facade:0, Cable Facade - Livingrock Brick
 appliedenergistics2:facade:0, Cable Facade - Mossy Livingrock Brick
@@ -29481,6 +29422,65 @@ appliedenergistics2:facade:0, Cable Facade - Vivid Grass
 appliedenergistics2:facade:0, Cable Facade - Scorched Grass
 appliedenergistics2:facade:0, Cable Facade - Infused Grass
 appliedenergistics2:facade:0, Cable Facade - Mutated Grass
+appliedenergistics2:facade:0, Cable Facade - Block of Smokey Quartz
+appliedenergistics2:facade:0, Cable Facade - Chiseled Smokey Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Pillar Smokey Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Block of Mana Quartz
+appliedenergistics2:facade:0, Cable Facade - Chiseled Mana Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Pillar Mana Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Block of Blaze Quartz
+appliedenergistics2:facade:0, Cable Facade - Chiseled Blaze Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Pillar Blaze Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Block of Lavender Quartz
+appliedenergistics2:facade:0, Cable Facade - Chiseled Lavender Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Pillar Lavender Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Block of Redquartz
+appliedenergistics2:facade:0, Cable Facade - Chiseled Redquartz Block
+appliedenergistics2:facade:0, Cable Facade - Pillar Redquartz Block
+appliedenergistics2:facade:0, Cable Facade - Block of Elven Quartz
+appliedenergistics2:facade:0, Cable Facade - Chiseled Elven Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Pillar Elven Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Block of Sunny Quartz
+appliedenergistics2:facade:0, Cable Facade - Chiseled Sunny Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Pillar Sunny Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Forest Stone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Plains Stone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Mountain Stone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Fungal Stone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Swamp Stone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Desert Stone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Taiga Stone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Mesa Stone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Forest Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Plains Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Mountain Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Fungal Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Swamp Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Desert Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Taiga Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Mesa Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Forest Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Plains Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Mountain Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Fungal Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Swamp Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Desert Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Taiga Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Mesa Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Forest Stone Brick
+appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Plains Stone Brick
+appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Mountain Stone Brick
+appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Fungal Stone Brick
+appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Swamp Stone Brick
+appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Desert Stone Brick
+appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Taiga Stone Brick
+appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Mesa Stone Brick
+appliedenergistics2:facade:0, Cable Facade - White Portuguese Pavement
+appliedenergistics2:facade:0, Cable Facade - Black Portuguese Pavement
+appliedenergistics2:facade:0, Cable Facade - Blue Portuguese Pavement
+appliedenergistics2:facade:0, Cable Facade - Red Portuguese Pavement
+appliedenergistics2:facade:0, Cable Facade - Yellow Portuguese Pavement
+appliedenergistics2:facade:0, Cable Facade - Green Portuguese Pavement
 appliedenergistics2:facade:0, Cable Facade - Painted Acacia Wood
 appliedenergistics2:facade:0, Cable Facade - Blessed Stone
 appliedenergistics2:facade:0, Cable Facade - Block of Amethyst
@@ -31035,20 +31035,20 @@ appliedenergistics2:facade:0, Cable Facade - Bluefire Divine Ore
 appliedenergistics2:facade:0, Cable Facade - Place a Basic Machine Frame Here ;)
 appliedenergistics2:facade:0, Cable Facade - Place Stone Here :)
 appliedenergistics2:facade:0, Cable Facade - Unleashed Divine Ore
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.ore_of_the_projected_constellation.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.time_lords_core_of_definition.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.sacred_cinders_lumber_apiary.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.litherite_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.erodium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.kyronite_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.pladium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.ionite_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.aethium_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.lonsdaleite_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.sednanite_sheetmetal.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.perfected_imbuement_essence.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.pale_ore.name
-appliedenergistics2:facade:0, Cable Facade - tile.contenttweaker.totally_real_tardis.name
+appliedenergistics2:facade:0, Cable Facade - Ore of the Projected Constellation
+appliedenergistics2:facade:0, Cable Facade - Time Lords Core of Definition
+appliedenergistics2:facade:0, Cable Facade - Sacred Cinders Lumber Apiary
+appliedenergistics2:facade:0, Cable Facade - Litherite Ore
+appliedenergistics2:facade:0, Cable Facade - Erodium Ore
+appliedenergistics2:facade:0, Cable Facade - Kyronite Ore
+appliedenergistics2:facade:0, Cable Facade - Pladium Ore
+appliedenergistics2:facade:0, Cable Facade - Ionite Ore
+appliedenergistics2:facade:0, Cable Facade - Aethium Ore
+appliedenergistics2:facade:0, Cable Facade - Lonsdaleite Ore
+appliedenergistics2:facade:0, Cable Facade - Sednanite Sheetmetal
+appliedenergistics2:facade:0, Cable Facade - Perfected Imbuement Essence
+appliedenergistics2:facade:0, Cable Facade - Pale Ore
+appliedenergistics2:facade:0, Cable Facade - Totally Real TARDIS
 appliedenergistics2:facade:0, Cable Facade - Miniature Star
 appliedenergistics2:facade:0, Cable Facade - Miniature Pulsar
 appliedenergistics2:facade:0, Cable Facade - Miniature Black Hole
@@ -31902,6 +31902,11 @@ ae2exttable:wireless_basic_crafting_terminal, Wireless Basic Crafting Terminal
 ae2exttable:wireless_advanced_crafting_terminal, Wireless Advanced Crafting Terminal
 ae2exttable:wireless_elite_crafting_terminal, Wireless Elite Crafting Terminal
 ae2exttable:wireless_ultimate_crafting_terminal, Wireless Ultimate Crafting Terminal
+ae2powertools:better_level_maintainer, Better Level Maintainer
+ae2powertools:auto_crafter, AE2 AutoCrafter
+ae2powertools:storage_level_emitter, ME Storage Level Emitter
+ae2powertools:storage_display, ME Storage Display
+ae2powertools:level_monitor_alarm, Level Monitor Alarm
 ae2powertools:network_health_scanner, Network Health Scanner
 ae2powertools:network_component_locator, Network Advanced Component Locator
 ae2powertools:priority_tuner, Priority Tuner
@@ -31916,11 +31921,6 @@ ae2powertools:storage_level_emitter_part, ME Storage Level Emitter
 ae2powertools:storage_display_part, ME Storage Display
 ae2powertools:storage_display_part_smaller, ME Storage Display (Smaller)
 ae2powertools:storage_display_part_smallerer, ME Storage Display (Smallerer)
-ae2powertools:better_level_maintainer, Better Level Maintainer
-ae2powertools:auto_crafter, AE2 AutoCrafter
-ae2powertools:storage_level_emitter, ME Storage Level Emitter
-ae2powertools:storage_display, ME Storage Display
-ae2powertools:level_monitor_alarm, Level Monitor Alarm
 agricraft:seed_analyzer, Seed Analyzer
 agricraft:peripheral, Computer Controlled Seed Analyzer
 agricraft:sprinkler, Sprinkler
@@ -33014,45 +33014,6 @@ aoa3:thorny_plant_seeds, Thorny Plant Seeds
 aoa3:trilliad_seeds, Trilliad Seeds
 aoa3:outlaw_disc, Music Disc
 aoa3:caverns_disc, Music Disc
-aoa3:amethyst_pickaxe, Amethyst Pickaxe
-aoa3:emberstone_pickaxe, Emberstone Pickaxe
-aoa3:energistic_pickaxe, Energistic Pickaxe
-aoa3:gemcracker, Gemcracker
-aoa3:goofy_pickaxe, Goofy Pickaxe
-aoa3:jade_pickaxe, Jade Pickaxe
-aoa3:limonite_pickaxe, Limonite Pickaxe
-aoa3:occult_pickaxe, Occult Pickaxe
-aoa3:ornamyte_pickaxe, Ornamyte Pickaxe
-aoa3:pickmax, Pickmax
-aoa3:rosite_pickaxe, Rosite Pickaxe
-aoa3:sapphire_pickaxe, Sapphire Pickaxe
-aoa3:skeletal_pickaxe, Skeletal Pickaxe
-aoa3:soulstone_pickaxe, Soulstone Pickaxe
-aoa3:amethyst_shovel, Amethyst Shovel
-aoa3:emberstone_shovel, Emberstone Shovel
-aoa3:energistic_shovel, Energistic Shovel
-aoa3:goofy_shovel, Goofy Shovel
-aoa3:jade_shovel, Jade Shovel
-aoa3:limonite_shovel, Limonite Shovel
-aoa3:occult_shovel, Occult Shovel
-aoa3:ornamyte_shovel, Ornamyte Shovel
-aoa3:rosite_shovel, Rosite Shovel
-aoa3:sapphire_shovel, Sapphire Shovel
-aoa3:skeletal_shovel, Skeletal Shovel
-aoa3:soulstone_shovel, Soulstone Shovel
-aoa3:amethyst_axe, Amethyst Axe
-aoa3:emberstone_axe, Emberstone Axe
-aoa3:energistic_axe, Energistic Axe
-aoa3:goofy_axe, Goofy Axe
-aoa3:jade_axe, Jade Axe
-aoa3:limonite_axe, Limonite Axe
-aoa3:occult_axe, Occult Axe
-aoa3:ornamyte_axe, Ornamyte Axe
-aoa3:rosite_axe, Rosite Axe
-aoa3:sapphire_axe, Sapphire Axe
-aoa3:skeletal_axe, Skeletal Axe
-aoa3:soulstone_axe, Soulstone Axe
-aoa3:chainsaw, Chainsaw
 aoa3:abyss_stone, Abyssal Stone
 aoa3:barathos_hellstone, Barathos Hellstone
 aoa3:baron_stone, Baron Stone
@@ -35027,6 +34988,45 @@ aoa3:zargonite_boots, Zargonite Boots
 aoa3:zargonite_legs, Zargonite Leggings
 aoa3:zargonite_chestplate, Zargonite Chestplate
 aoa3:zargonite_helmet, Zargonite Helmet
+aoa3:amethyst_pickaxe, Amethyst Pickaxe
+aoa3:emberstone_pickaxe, Emberstone Pickaxe
+aoa3:energistic_pickaxe, Energistic Pickaxe
+aoa3:gemcracker, Gemcracker
+aoa3:goofy_pickaxe, Goofy Pickaxe
+aoa3:jade_pickaxe, Jade Pickaxe
+aoa3:limonite_pickaxe, Limonite Pickaxe
+aoa3:occult_pickaxe, Occult Pickaxe
+aoa3:ornamyte_pickaxe, Ornamyte Pickaxe
+aoa3:pickmax, Pickmax
+aoa3:rosite_pickaxe, Rosite Pickaxe
+aoa3:sapphire_pickaxe, Sapphire Pickaxe
+aoa3:skeletal_pickaxe, Skeletal Pickaxe
+aoa3:soulstone_pickaxe, Soulstone Pickaxe
+aoa3:amethyst_shovel, Amethyst Shovel
+aoa3:emberstone_shovel, Emberstone Shovel
+aoa3:energistic_shovel, Energistic Shovel
+aoa3:goofy_shovel, Goofy Shovel
+aoa3:jade_shovel, Jade Shovel
+aoa3:limonite_shovel, Limonite Shovel
+aoa3:occult_shovel, Occult Shovel
+aoa3:ornamyte_shovel, Ornamyte Shovel
+aoa3:rosite_shovel, Rosite Shovel
+aoa3:sapphire_shovel, Sapphire Shovel
+aoa3:skeletal_shovel, Skeletal Shovel
+aoa3:soulstone_shovel, Soulstone Shovel
+aoa3:amethyst_axe, Amethyst Axe
+aoa3:emberstone_axe, Emberstone Axe
+aoa3:energistic_axe, Energistic Axe
+aoa3:goofy_axe, Goofy Axe
+aoa3:jade_axe, Jade Axe
+aoa3:limonite_axe, Limonite Axe
+aoa3:occult_axe, Occult Axe
+aoa3:ornamyte_axe, Ornamyte Axe
+aoa3:rosite_axe, Rosite Axe
+aoa3:sapphire_axe, Sapphire Axe
+aoa3:skeletal_axe, Skeletal Axe
+aoa3:soulstone_axe, Soulstone Axe
+aoa3:chainsaw, Chainsaw
 ebwizardry:arcane_workbench, Wizard's Workbench
 ebwizardry:crystal_ore, Crystal Ore
 ebwizardry:crystal_flower, Crystal Flower
@@ -35887,8 +35887,8 @@ bhc:blue_heart_canister, Blue Heart Canister
 bhc:relic_apple, Relic Apple
 bhc:wither_bone, Wither Bone
 bhc:heart_amulet, Heart Amulet
-bc_ex_laser:ex_laser_mk5, EX Laser MK5
 bc_ex_laser:ex_laser_mk2, EX Laser MK2
+bc_ex_laser:ex_laser_mk5, EX Laser MK5
 bc_ex_laser:ex_laser_mk4, EX Laser MK4
 bc_ex_laser:ex_laser_mk3, EX Laser MK3
 bc_ex_laser:heatproof_diamond_powder, Heatproof Diamond Powder
@@ -35904,169 +35904,6 @@ betterquesting:guide_book, Better Questing Starter Guide
 bq_standard:loot_chest, Loot Chest
 betterquesting:quest_book, Quest Book
 betterquesting:submit_station, Object Submission Station (OSS)
-botania:livingwood0stairs, tile.livingwood0Stairs.name
-botania:livingwood0slab:0, Livingwood Slab
-botania:livingwood0wall, tile.livingwood0Wall.name
-botania:livingwood1stairs, tile.livingwood1Stairs.name
-botania:livingwood1slab:0, Livingwood Plank Slab
-botania:livingrock0stairs, tile.livingrock0Stairs.name
-botania:livingrock0slab:0, Livingrock Slab
-botania:livingrock0wall, tile.livingrock0Wall.name
-botania:livingrock1stairs, tile.livingrock1Stairs.name
-botania:livingrock1slab:0, Livingrock Brick Slab
-botania:dreamwood0stairs, tile.dreamwood0Stairs.name
-botania:dreamwood0slab:0, Dreamwood Slab
-botania:dreamwood0wall, tile.dreamwood0Wall.name
-botania:dreamwood1stairs, tile.dreamwood1Stairs.name
-botania:dreamwood1slab:0, Dreamwood Plank Slab
-botania:quartztypedark:0, Block of Smokey Quartz
-botania:quartztypedark:1, Chiseled Smokey Quartz Block
-botania:quartztypedark:2, Pillar Smokey Quartz Block
-botania:quartzslabdarkhalf:0, Smokey Quartz Slab
-botania:quartzstairsdark, tile.quartzStairsDark.name
-botania:quartztypemana:0, Block of Mana Quartz
-botania:quartztypemana:1, Chiseled Mana Quartz Block
-botania:quartztypemana:2, Pillar Mana Quartz Block
-botania:quartzslabmanahalf:0, Mana Quartz Slab
-botania:quartzstairsmana, tile.quartzStairsMana.name
-botania:quartztypeblaze:0, Block of Blaze Quartz
-botania:quartztypeblaze:1, Chiseled Blaze Quartz Block
-botania:quartztypeblaze:2, Pillar Blaze Quartz Block
-botania:quartzslabblazehalf:0, Blaze Quartz Slab
-botania:quartzstairsblaze, tile.quartzStairsBlaze.name
-botania:quartztypelavender:0, Block of Lavender Quartz
-botania:quartztypelavender:1, Chiseled Lavender Quartz Block
-botania:quartztypelavender:2, Pillar Lavender Quartz Block
-botania:quartzslablavenderhalf:0, Lavender Quartz Slab
-botania:quartzstairslavender, tile.quartzStairsLavender.name
-botania:quartztypered:0, Block of Redquartz
-botania:quartztypered:1, Chiseled Redquartz Block
-botania:quartztypered:2, Pillar Redquartz Block
-botania:quartzslabredhalf:0, Redquartz Slab
-botania:quartzstairsred, tile.quartzStairsRed.name
-botania:quartztypeelf:0, Block of Elven Quartz
-botania:quartztypeelf:1, Chiseled Elven Quartz Block
-botania:quartztypeelf:2, Pillar Elven Quartz Block
-botania:quartzslabelfhalf:0, Elven Quartz Slab
-botania:quartzstairself, tile.quartzStairsElf.name
-botania:quartztypesunny:0, Block of Sunny Quartz
-botania:quartztypesunny:1, Chiseled Sunny Quartz Block
-botania:quartztypesunny:2, Pillar Sunny Quartz Block
-botania:quartzslabsunnyhalf:0, Sunny Quartz Slab
-botania:quartzstairssunny, tile.quartzStairsSunny.name
-botania:biomestonea:0, Metamorphic Forest Stone
-botania:biomestonea:1, Metamorphic Plains Stone
-botania:biomestonea:2, Metamorphic Mountain Stone
-botania:biomestonea:3, Metamorphic Fungal Stone
-botania:biomestonea:4, Metamorphic Swamp Stone
-botania:biomestonea:5, Metamorphic Desert Stone
-botania:biomestonea:6, Metamorphic Taiga Stone
-botania:biomestonea:7, Metamorphic Mesa Stone
-botania:biomestonea:8, Metamorphic Forest Cobblestone
-botania:biomestonea:9, Metamorphic Plains Cobblestone
-botania:biomestonea:10, Metamorphic Mountain Cobblestone
-botania:biomestonea:11, Metamorphic Fungal Cobblestone
-botania:biomestonea:12, Metamorphic Swamp Cobblestone
-botania:biomestonea:13, Metamorphic Desert Cobblestone
-botania:biomestonea:14, Metamorphic Taiga Cobblestone
-botania:biomestonea:15, Metamorphic Mesa Cobblestone
-botania:biomestoneb:0, Metamorphic Forest Stone Bricks
-botania:biomestoneb:1, Metamorphic Plains Stone Bricks
-botania:biomestoneb:2, Metamorphic Mountain Stone Bricks
-botania:biomestoneb:3, Metamorphic Fungal Stone Bricks
-botania:biomestoneb:4, Metamorphic Swamp Stone Bricks
-botania:biomestoneb:5, Metamorphic Desert Stone Bricks
-botania:biomestoneb:6, Metamorphic Taiga Stone Bricks
-botania:biomestoneb:7, Metamorphic Mesa Stone Bricks
-botania:biomestoneb:8, Chiseled Metamorphic Forest Stone Brick
-botania:biomestoneb:9, Chiseled Metamorphic Plains Stone Brick
-botania:biomestoneb:10, Chiseled Metamorphic Mountain Stone Brick
-botania:biomestoneb:11, Chiseled Metamorphic Fungal Stone Brick
-botania:biomestoneb:12, Chiseled Metamorphic Swamp Stone Brick
-botania:biomestoneb:13, Chiseled Metamorphic Desert Stone Brick
-botania:biomestoneb:14, Chiseled Metamorphic Taiga Stone Brick
-botania:biomestoneb:15, Chiseled Metamorphic Mesa Stone Brick
-botania:pavement:0, White Portuguese Pavement
-botania:pavement:1, Black Portuguese Pavement
-botania:pavement:2, Blue Portuguese Pavement
-botania:pavement:3, Red Portuguese Pavement
-botania:pavement:4, Yellow Portuguese Pavement
-botania:pavement:5, Green Portuguese Pavement
-botania:biomestonea0stairs, tile.biomeStoneA0Stairs.name
-botania:biomestonea0slab:0, Metamorphic Forest Stone Slab
-botania:biomestonea1stairs, tile.biomeStoneA1Stairs.name
-botania:biomestonea1slab:0, Metamorphic Plains Stone Slab
-botania:biomestonea2stairs, tile.biomeStoneA2Stairs.name
-botania:biomestonea2slab:0, Metamorphic Mountain Stone Slab
-botania:biomestonea3stairs, tile.biomeStoneA3Stairs.name
-botania:biomestonea3slab:0, Metamorphic Fungal Stone Slab
-botania:biomestonea4stairs, tile.biomeStoneA4Stairs.name
-botania:biomestonea4slab:0, Metamorphic Swamp Stone Slab
-botania:biomestonea5stairs, tile.biomeStoneA5Stairs.name
-botania:biomestonea5slab:0, Metamorphic Desert Stone Slab
-botania:biomestonea6stairs, tile.biomeStoneA6Stairs.name
-botania:biomestonea6slab:0, Metamorphic Taiga Stone Slab
-botania:biomestonea7stairs, tile.biomeStoneA7Stairs.name
-botania:biomestonea7slab:0, Metamorphic Mesa Stone Slab
-botania:biomestonea8stairs, tile.biomeStoneA8Stairs.name
-botania:biomestonea8slab:0, Metamorphic Forest Cobblestone Slab
-botania:biomestonea9stairs, tile.biomeStoneA9Stairs.name
-botania:biomestonea9slab:0, Metamorphic Plains Cobblestone Slab
-botania:biomestonea10stairs, tile.biomeStoneA10Stairs.name
-botania:biomestonea10slab:0, Metamorphic Mountain Cobblestone Slab
-botania:biomestonea11stairs, tile.biomeStoneA11Stairs.name
-botania:biomestonea11slab:0, Metamorphic Fungal Cobblestone Slab
-botania:biomestonea12stairs, tile.biomeStoneA12Stairs.name
-botania:biomestonea12slab:0, Metamorphic Swamp Cobblestone Slab
-botania:biomestonea13stairs, tile.biomeStoneA13Stairs.name
-botania:biomestonea13slab:0, Metamorphic Desert Cobblestone Slab
-botania:biomestonea14stairs, tile.biomeStoneA14Stairs.name
-botania:biomestonea14slab:0, Metamorphic Taiga Cobblestone Slab
-botania:biomestonea15stairs, tile.biomeStoneA15Stairs.name
-botania:biomestonea15slab:0, Metamorphic Mesa Cobblestone Slab
-botania:biomestoneb0stairs, tile.biomeStoneB0Stairs.name
-botania:biomestoneb0slab:0, Metamorphic Forest Stone Brick Slab
-botania:biomestoneb1stairs, tile.biomeStoneB1Stairs.name
-botania:biomestoneb1slab:0, Metamorphic Plains Stone Brick Slab
-botania:biomestoneb2stairs, tile.biomeStoneB2Stairs.name
-botania:biomestoneb2slab:0, Metamorphic Mountain Stone Brick Slab
-botania:biomestoneb3stairs, tile.biomeStoneB3Stairs.name
-botania:biomestoneb3slab:0, Metamorphic Fungal Stone Brick Slab
-botania:biomestoneb4stairs, tile.biomeStoneB4Stairs.name
-botania:biomestoneb4slab:0, Metamorphic Swamp Stone Brick Slab
-botania:biomestoneb5stairs, tile.biomeStoneB5Stairs.name
-botania:biomestoneb5slab:0, Metamorphic Desert Stone Brick Slab
-botania:biomestoneb6stairs, tile.biomeStoneB6Stairs.name
-botania:biomestoneb6slab:0, Metamorphic Taiga Stone Brick Slab
-botania:biomestoneb7stairs, tile.biomeStoneB7Stairs.name
-botania:biomestoneb7slab:0, Metamorphic Mesa Stone Bricks Slab
-botania:biomestonea0wall:0, Metamorphic Forest Cobblestone Wall
-botania:biomestonea0wall:1, Metamorphic Plains Cobblestone Wall
-botania:biomestonea0wall:2, Metamorphic Mountain Cobblestone Wall
-botania:biomestonea0wall:3, Metamorphic Fungal Cobblestone Wall
-botania:biomestonea0wall:4, Metamorphic Swamp Cobblestone Wall
-botania:biomestonea0wall:5, Metamorphic Desert Cobblestone Wall
-botania:biomestonea0wall:6, Metamorphic Taiga Cobblestone Wall
-botania:biomestonea0wall:7, Metamorphic Mesa Cobblestone Wall
-botania:pavement0stairs, tile.pavement0Stairs.name
-botania:pavement0slab:0, White Portuguese Pavement Slab
-botania:pavement1stairs, tile.pavement1Stairs.name
-botania:pavement1slab:0, Black Portuguese Pavement Slab
-botania:pavement2stairs, tile.pavement2Stairs.name
-botania:pavement2slab:0, Blue Portuguese Pavement Slab
-botania:pavement3stairs, tile.pavement3Stairs.name
-botania:pavement3slab:0, Red Portuguese Pavement Slab
-botania:pavement4stairs, tile.pavement4Stairs.name
-botania:pavement4slab:0, Yellow Portuguese Pavement Slab
-botania:pavement5stairs, tile.pavement5Stairs.name
-botania:pavement5slab:0, Green Portuguese Pavement Slab
-botania:shimmerrock0slab:0, Shimmerrock Slab
-botania:shimmerrock0stairs, tile.shimmerrock0Stairs.name
-botania:shimmerwoodplanks0slab:0, Shimmerwood Plank Slab
-botania:shimmerwoodplanks0stairs, tile.shimmerwoodPlanks0Stairs.name
-botania:managlasspane, tile.manaGlassPane.name
-botania:elfglasspane, tile.elfGlassPane.name
-botania:bifrostpermpane, tile.bifrostPermPane.name
 botania:flower:0, Mystical White Flower
 botania:flower:1, Mystical Orange Flower
 botania:flower:2, Mystical Magenta Flower
@@ -36733,6 +36570,169 @@ botania:supercloudpendant, item.superCloudPendant.name
 botania:thirdeye, item.thirdEye.name
 botania:astrolabe, item.astrolabe.name
 botania:goddesscharm, item.goddessCharm.name
+botania:livingwood0stairs, tile.livingwood0Stairs.name
+botania:livingwood0slab:0, Livingwood Slab
+botania:livingwood0wall, tile.livingwood0Wall.name
+botania:livingwood1stairs, tile.livingwood1Stairs.name
+botania:livingwood1slab:0, Livingwood Plank Slab
+botania:livingrock0stairs, tile.livingrock0Stairs.name
+botania:livingrock0slab:0, Livingrock Slab
+botania:livingrock0wall, tile.livingrock0Wall.name
+botania:livingrock1stairs, tile.livingrock1Stairs.name
+botania:livingrock1slab:0, Livingrock Brick Slab
+botania:dreamwood0stairs, tile.dreamwood0Stairs.name
+botania:dreamwood0slab:0, Dreamwood Slab
+botania:dreamwood0wall, tile.dreamwood0Wall.name
+botania:dreamwood1stairs, tile.dreamwood1Stairs.name
+botania:dreamwood1slab:0, Dreamwood Plank Slab
+botania:quartztypedark:0, Block of Smokey Quartz
+botania:quartztypedark:1, Chiseled Smokey Quartz Block
+botania:quartztypedark:2, Pillar Smokey Quartz Block
+botania:quartzslabdarkhalf:0, Smokey Quartz Slab
+botania:quartzstairsdark, tile.quartzStairsDark.name
+botania:quartztypemana:0, Block of Mana Quartz
+botania:quartztypemana:1, Chiseled Mana Quartz Block
+botania:quartztypemana:2, Pillar Mana Quartz Block
+botania:quartzslabmanahalf:0, Mana Quartz Slab
+botania:quartzstairsmana, tile.quartzStairsMana.name
+botania:quartztypeblaze:0, Block of Blaze Quartz
+botania:quartztypeblaze:1, Chiseled Blaze Quartz Block
+botania:quartztypeblaze:2, Pillar Blaze Quartz Block
+botania:quartzslabblazehalf:0, Blaze Quartz Slab
+botania:quartzstairsblaze, tile.quartzStairsBlaze.name
+botania:quartztypelavender:0, Block of Lavender Quartz
+botania:quartztypelavender:1, Chiseled Lavender Quartz Block
+botania:quartztypelavender:2, Pillar Lavender Quartz Block
+botania:quartzslablavenderhalf:0, Lavender Quartz Slab
+botania:quartzstairslavender, tile.quartzStairsLavender.name
+botania:quartztypered:0, Block of Redquartz
+botania:quartztypered:1, Chiseled Redquartz Block
+botania:quartztypered:2, Pillar Redquartz Block
+botania:quartzslabredhalf:0, Redquartz Slab
+botania:quartzstairsred, tile.quartzStairsRed.name
+botania:quartztypeelf:0, Block of Elven Quartz
+botania:quartztypeelf:1, Chiseled Elven Quartz Block
+botania:quartztypeelf:2, Pillar Elven Quartz Block
+botania:quartzslabelfhalf:0, Elven Quartz Slab
+botania:quartzstairself, tile.quartzStairsElf.name
+botania:quartztypesunny:0, Block of Sunny Quartz
+botania:quartztypesunny:1, Chiseled Sunny Quartz Block
+botania:quartztypesunny:2, Pillar Sunny Quartz Block
+botania:quartzslabsunnyhalf:0, Sunny Quartz Slab
+botania:quartzstairssunny, tile.quartzStairsSunny.name
+botania:biomestonea:0, Metamorphic Forest Stone
+botania:biomestonea:1, Metamorphic Plains Stone
+botania:biomestonea:2, Metamorphic Mountain Stone
+botania:biomestonea:3, Metamorphic Fungal Stone
+botania:biomestonea:4, Metamorphic Swamp Stone
+botania:biomestonea:5, Metamorphic Desert Stone
+botania:biomestonea:6, Metamorphic Taiga Stone
+botania:biomestonea:7, Metamorphic Mesa Stone
+botania:biomestonea:8, Metamorphic Forest Cobblestone
+botania:biomestonea:9, Metamorphic Plains Cobblestone
+botania:biomestonea:10, Metamorphic Mountain Cobblestone
+botania:biomestonea:11, Metamorphic Fungal Cobblestone
+botania:biomestonea:12, Metamorphic Swamp Cobblestone
+botania:biomestonea:13, Metamorphic Desert Cobblestone
+botania:biomestonea:14, Metamorphic Taiga Cobblestone
+botania:biomestonea:15, Metamorphic Mesa Cobblestone
+botania:biomestoneb:0, Metamorphic Forest Stone Bricks
+botania:biomestoneb:1, Metamorphic Plains Stone Bricks
+botania:biomestoneb:2, Metamorphic Mountain Stone Bricks
+botania:biomestoneb:3, Metamorphic Fungal Stone Bricks
+botania:biomestoneb:4, Metamorphic Swamp Stone Bricks
+botania:biomestoneb:5, Metamorphic Desert Stone Bricks
+botania:biomestoneb:6, Metamorphic Taiga Stone Bricks
+botania:biomestoneb:7, Metamorphic Mesa Stone Bricks
+botania:biomestoneb:8, Chiseled Metamorphic Forest Stone Brick
+botania:biomestoneb:9, Chiseled Metamorphic Plains Stone Brick
+botania:biomestoneb:10, Chiseled Metamorphic Mountain Stone Brick
+botania:biomestoneb:11, Chiseled Metamorphic Fungal Stone Brick
+botania:biomestoneb:12, Chiseled Metamorphic Swamp Stone Brick
+botania:biomestoneb:13, Chiseled Metamorphic Desert Stone Brick
+botania:biomestoneb:14, Chiseled Metamorphic Taiga Stone Brick
+botania:biomestoneb:15, Chiseled Metamorphic Mesa Stone Brick
+botania:pavement:0, White Portuguese Pavement
+botania:pavement:1, Black Portuguese Pavement
+botania:pavement:2, Blue Portuguese Pavement
+botania:pavement:3, Red Portuguese Pavement
+botania:pavement:4, Yellow Portuguese Pavement
+botania:pavement:5, Green Portuguese Pavement
+botania:biomestonea0stairs, tile.biomeStoneA0Stairs.name
+botania:biomestonea0slab:0, Metamorphic Forest Stone Slab
+botania:biomestonea1stairs, tile.biomeStoneA1Stairs.name
+botania:biomestonea1slab:0, Metamorphic Plains Stone Slab
+botania:biomestonea2stairs, tile.biomeStoneA2Stairs.name
+botania:biomestonea2slab:0, Metamorphic Mountain Stone Slab
+botania:biomestonea3stairs, tile.biomeStoneA3Stairs.name
+botania:biomestonea3slab:0, Metamorphic Fungal Stone Slab
+botania:biomestonea4stairs, tile.biomeStoneA4Stairs.name
+botania:biomestonea4slab:0, Metamorphic Swamp Stone Slab
+botania:biomestonea5stairs, tile.biomeStoneA5Stairs.name
+botania:biomestonea5slab:0, Metamorphic Desert Stone Slab
+botania:biomestonea6stairs, tile.biomeStoneA6Stairs.name
+botania:biomestonea6slab:0, Metamorphic Taiga Stone Slab
+botania:biomestonea7stairs, tile.biomeStoneA7Stairs.name
+botania:biomestonea7slab:0, Metamorphic Mesa Stone Slab
+botania:biomestonea8stairs, tile.biomeStoneA8Stairs.name
+botania:biomestonea8slab:0, Metamorphic Forest Cobblestone Slab
+botania:biomestonea9stairs, tile.biomeStoneA9Stairs.name
+botania:biomestonea9slab:0, Metamorphic Plains Cobblestone Slab
+botania:biomestonea10stairs, tile.biomeStoneA10Stairs.name
+botania:biomestonea10slab:0, Metamorphic Mountain Cobblestone Slab
+botania:biomestonea11stairs, tile.biomeStoneA11Stairs.name
+botania:biomestonea11slab:0, Metamorphic Fungal Cobblestone Slab
+botania:biomestonea12stairs, tile.biomeStoneA12Stairs.name
+botania:biomestonea12slab:0, Metamorphic Swamp Cobblestone Slab
+botania:biomestonea13stairs, tile.biomeStoneA13Stairs.name
+botania:biomestonea13slab:0, Metamorphic Desert Cobblestone Slab
+botania:biomestonea14stairs, tile.biomeStoneA14Stairs.name
+botania:biomestonea14slab:0, Metamorphic Taiga Cobblestone Slab
+botania:biomestonea15stairs, tile.biomeStoneA15Stairs.name
+botania:biomestonea15slab:0, Metamorphic Mesa Cobblestone Slab
+botania:biomestoneb0stairs, tile.biomeStoneB0Stairs.name
+botania:biomestoneb0slab:0, Metamorphic Forest Stone Brick Slab
+botania:biomestoneb1stairs, tile.biomeStoneB1Stairs.name
+botania:biomestoneb1slab:0, Metamorphic Plains Stone Brick Slab
+botania:biomestoneb2stairs, tile.biomeStoneB2Stairs.name
+botania:biomestoneb2slab:0, Metamorphic Mountain Stone Brick Slab
+botania:biomestoneb3stairs, tile.biomeStoneB3Stairs.name
+botania:biomestoneb3slab:0, Metamorphic Fungal Stone Brick Slab
+botania:biomestoneb4stairs, tile.biomeStoneB4Stairs.name
+botania:biomestoneb4slab:0, Metamorphic Swamp Stone Brick Slab
+botania:biomestoneb5stairs, tile.biomeStoneB5Stairs.name
+botania:biomestoneb5slab:0, Metamorphic Desert Stone Brick Slab
+botania:biomestoneb6stairs, tile.biomeStoneB6Stairs.name
+botania:biomestoneb6slab:0, Metamorphic Taiga Stone Brick Slab
+botania:biomestoneb7stairs, tile.biomeStoneB7Stairs.name
+botania:biomestoneb7slab:0, Metamorphic Mesa Stone Bricks Slab
+botania:biomestonea0wall:0, Metamorphic Forest Cobblestone Wall
+botania:biomestonea0wall:1, Metamorphic Plains Cobblestone Wall
+botania:biomestonea0wall:2, Metamorphic Mountain Cobblestone Wall
+botania:biomestonea0wall:3, Metamorphic Fungal Cobblestone Wall
+botania:biomestonea0wall:4, Metamorphic Swamp Cobblestone Wall
+botania:biomestonea0wall:5, Metamorphic Desert Cobblestone Wall
+botania:biomestonea0wall:6, Metamorphic Taiga Cobblestone Wall
+botania:biomestonea0wall:7, Metamorphic Mesa Cobblestone Wall
+botania:pavement0stairs, tile.pavement0Stairs.name
+botania:pavement0slab:0, White Portuguese Pavement Slab
+botania:pavement1stairs, tile.pavement1Stairs.name
+botania:pavement1slab:0, Black Portuguese Pavement Slab
+botania:pavement2stairs, tile.pavement2Stairs.name
+botania:pavement2slab:0, Blue Portuguese Pavement Slab
+botania:pavement3stairs, tile.pavement3Stairs.name
+botania:pavement3slab:0, Red Portuguese Pavement Slab
+botania:pavement4stairs, tile.pavement4Stairs.name
+botania:pavement4slab:0, Yellow Portuguese Pavement Slab
+botania:pavement5stairs, tile.pavement5Stairs.name
+botania:pavement5slab:0, Green Portuguese Pavement Slab
+botania:shimmerrock0slab:0, Shimmerrock Slab
+botania:shimmerrock0stairs, tile.shimmerrock0Stairs.name
+botania:shimmerwoodplanks0slab:0, Shimmerwood Plank Slab
+botania:shimmerwoodplanks0stairs, tile.shimmerwoodPlanks0Stairs.name
+botania:managlasspane, tile.manaGlassPane.name
+botania:elfglasspane, tile.elfGlassPane.name
+botania:bifrostpermpane, tile.bifrostPermPane.name
 mowziesmobs:foliaath_seed, Foliaath Seed
 mowziesmobs:test_structure, Test Structures
 mowziesmobs:mob_remover, Mob Remover
@@ -37610,13 +37610,13 @@ danknull:dank_null_panel_3, Gold /dank/null Panel
 danknull:dank_null_panel_4, Diamond /dank/null Panel
 danknull:dank_null_panel_5, Emerald /dank/null Panel
 danknull:danknull_dock, /dank/null Docking Station
-dankstorage:dank_3, Dank Chest 3
 dankstorage:dank_2, Dank Chest 2
-dankstorage:dank_6, Dank Chest 6
+dankstorage:dank_3, Dank Chest 3
+dankstorage:dank_5, Dank Chest 5
 dankstorage:dank_4, Dank Chest 4
 dankstorage:dank_7, Dank Chest 7
 dankstorage:dank_1, Dank Chest 1
-dankstorage:dank_5, Dank Chest 5
+dankstorage:dank_6, Dank Chest 6
 deepmoblearning:polymer_clay, Polymer Clay
 deepmoblearning:data_model_blank, Blank Data Model
 deepmoblearning:deep_learner, Deep Learner
@@ -37775,210 +37775,6 @@ deepmoblearningbm:blood_infused_glitch_ingot, §cBlood Infused Glitch Ingot§r
 deepmoblearningbm:blood_infused_glitch_nugget, §cBlood Infused Glitch Nugget§r
 demagnetize:demagnetizer, Demagnetizer
 demagnetize:demagnetizer_advanced, Advanced Demagnetizer
-divinerpg:aquatic_dagger, Aquatic Dagger
-divinerpg:aquatic_maul, Aquatic Maul
-divinerpg:aquatic_trident, Aquatic Trident
-divinerpg:aquaton, Aquaton
-divinerpg:aquatooth_maul, Aquatooth Maul
-divinerpg:aquatooth_sword, Aquatooth Sword
-divinerpg:arlemite_stabber, Arlemite Stabber
-divinerpg:bedrock_sword, Bedrock Sword
-divinerpg:bedrock_maul, Bedrock Maul
-divinerpg:bloodgem_sword, Bloodgem Sword
-divinerpg:bluefire_sword, Bluefire Sword
-divinerpg:corrupted_maul, Corrupted Maul
-divinerpg:crabclaw_maul, Crabclaw Maul
-divinerpg:cyclopsian_sword, Cyclopsian Sword
-divinerpg:death_bringer, Death Bringer
-divinerpg:blue_divine_sword, Blue Divine Sword
-divinerpg:divine_sword, Divine Sword
-divinerpg:gray_divine_sword, Gray Divine Sword
-divinerpg:green_divine_sword, Green Divine Sword
-divinerpg:red_divine_sword, Red Divine Sword
-divinerpg:yellow_divine_sword, Yellow Divine Sword
-divinerpg:dual_claw, Dual Claw
-divinerpg:black_ender_sword, Black Ender Sword
-divinerpg:blue_ender_sword, Blue Ender Sword
-divinerpg:ender_sword, Ender Sword
-divinerpg:green_ender_sword, Green Ender Sword
-divinerpg:red_ender_sword, Red Ender Sword
-divinerpg:yellow_ender_sword, Yellow Ender Sword
-divinerpg:frost_sword, Frost Sword
-divinerpg:flaming_fury, Flaming Fury
-divinerpg:fury_maul, Fury Maul
-divinerpg:inferno_sword, Inferno Sword
-divinerpg:jungle_knife, Jungle Knife
-divinerpg:jungle_rapier, Jungle Rapier
-divinerpg:molten_sword, Molten Sword
-divinerpg:ocean_knife, Ocean Knife
-divinerpg:poison_saber, Poison Saber
-divinerpg:realmite_sword, Realmite Sword
-divinerpg:rupee_rapier, Rupee Rapier
-divinerpg:sandslash, Sandslash
-divinerpg:scorching_sword, Scorching Sword
-divinerpg:shark_sword, Shark Sword
-divinerpg:slime_sword, Slime Sword
-divinerpg:terran_dagger, Terran Dagger
-divinerpg:terran_knife, Terran Knife
-divinerpg:terran_maul, Terran Maul
-divinerpg:bluefire_bow, Bluefire Bow
-divinerpg:ender_bow, Ender Bow
-divinerpg:hunter_bow, Hunter Bow
-divinerpg:inferno_bow, Inferno Bow
-divinerpg:shadow_bow, Shadow Bow
-divinerpg:scythe, Scythe
-divinerpg:shuriken, Shuriken
-divinerpg:vile_storm, Vile Storm
-divinerpg:bowhead_anchor, Bowhead Anchor
-divinerpg:bowhead_cannon, Bowhead Cannon
-divinerpg:corrupted_cannon, Corrupted Cannon
-divinerpg:crab_anchor, Crab Anchor
-divinerpg:crabclaw_cannon, Crabclaw Cannon
-divinerpg:cyclopsian_staff, Cyclopsian Staff
-divinerpg:frost_cannon, Frost Cannon
-divinerpg:ghast_cannon, Ghast Cannon
-divinerpg:golden_fury, Golden Fury
-divinerpg:liopleurodon_anchor, Liopleurodon Anchor
-divinerpg:maelstrom, Maelstrom
-divinerpg:shark_anchor, Shark Anchor
-divinerpg:serenade_of_death, Serenade of Death
-divinerpg:serenade_of_health, Serenade of Health
-divinerpg:serenade_of_infusion, Serenade of Infusion
-divinerpg:serenade_striker, Serenade Striker
-divinerpg:massivence, Massivence
-divinerpg:palavence, Palavence
-divinerpg:enderice, Enderice
-divinerpg:frostking_sword, Frostking Sword
-divinerpg:frozen_maul, Frozen Maul
-divinerpg:glacier_sword, Glacier Sword
-divinerpg:icine_sword, Icine Sword
-divinerpg:snowslash, Snowslash
-divinerpg:icicle_bane, Icicle Bane
-divinerpg:frossivence, Frossivence
-divinerpg:snowstorm_bow, Snowstorm Bow
-divinerpg:icicle_bow, Icicle Bow
-divinerpg:snowflake_shuriken, Snowflake Shuriken
-divinerpg:fractite_cannon, Fractite Cannon
-divinerpg:frostclaw_cannon, Frostclaw Cannon
-divinerpg:sound_of_music, Sound of Music
-divinerpg:sound_of_carols, Sound of Carols
-divinerpg:serenade_of_ice, Serenade of Ice
-divinerpg:eden_blade, Eden Blade
-divinerpg:wildwood_blade, Wildwood Blade
-divinerpg:apalachia_blade, Apalachia Blade
-divinerpg:skythern_blade, Skythern Blade
-divinerpg:mortum_blade, Mortum Blade
-divinerpg:halite_blade, Halite Blade
-divinerpg:eden_bow, Eden Bow
-divinerpg:wildwood_bow, Wildwood Bow
-divinerpg:apalachia_bow, Apalachia Bow
-divinerpg:skythern_bow, Skythern Bow
-divinerpg:mortum_bow, Mortum Bow
-divinerpg:halite_bow, Halite Bow
-divinerpg:twilight_bow, Twilight Bow
-divinerpg:eden_slicer, Eden Slicer
-divinerpg:wildwood_slicer, Wildwood Slicer
-divinerpg:apalachia_slicer, Apalachia Slicer
-divinerpg:skythern_slicer, Skythern Slicer
-divinerpg:mortum_slicer, Mortum Slicer
-divinerpg:halite_slicer, Halite Slicer
-divinerpg:eden_blitz, Eden Blitz
-divinerpg:wildwood_blitz, Wildwood Blitz
-divinerpg:apalachia_blitz, Apalachia Blitz
-divinerpg:skythern_blitz, Skythern Blitz
-divinerpg:mortum_blitz, Mortum Blitz
-divinerpg:halite_blitz, Halite Blitz
-divinerpg:eden_phaser, Eden Phaser
-divinerpg:wildwood_phaser, Wildwood Phaser
-divinerpg:apalachia_phaser, Apalachia Phaser
-divinerpg:skythern_phaser, Skythern Phaser
-divinerpg:mortum_phaser, Mortum Phaser
-divinerpg:halite_phaser, Halite Phaser
-divinerpg:arcanite_blade, Arcanite Blade
-divinerpg:arcanium_saber, Arcanium Saber
-divinerpg:ender_scepter, Ender Scepter
-divinerpg:livicia_sword, Livicia Sword
-divinerpg:storm_sword, Storm Sword
-divinerpg:shadow_saber, Shadow Saber
-divinerpg:arcanite_blaster, Arcanite Blaster
-divinerpg:captains_sparkler, Captains Sparkler
-divinerpg:firefly, Firefly
-divinerpg:generals_staff, General's Staff
-divinerpg:la_vekor, La Vekor
-divinerpg:meriks_missile, Meriks Missile
-divinerpg:meteor_mash, Meteor Mash
-divinerpg:starlight, Starlight
-divinerpg:staff_of_starlight, Staff of Starlight
-divinerpg:grenade, Grenade
-divinerpg:teaker_backsword, Teaker Backsword
-divinerpg:amthirmis_backsword, Amthirmis Backsword
-divinerpg:darven_backsword, Darven Backsword
-divinerpg:cermile_backsword, Cermile Backsword
-divinerpg:pardimal_backsword, Pardimal Backsword
-divinerpg:quadrotic_backsword, Quadrotic Backsword
-divinerpg:karos_backsword, Karos Backsword
-divinerpg:heliosis_backsword, Heliosis Backsword
-divinerpg:arksiane_backsword, Arksiane Backsword
-divinerpg:teaker_bow, Teaker Bow
-divinerpg:amthirmis_bow, Amthirmis Bow
-divinerpg:darven_bow, Darven Bow
-divinerpg:cermile_bow, Cermile Bow
-divinerpg:pardimal_bow, Pardimal Bow
-divinerpg:quadrotic_bow, Quadrotic Bow
-divinerpg:karos_bow, Karos Bow
-divinerpg:heliosis_bow, Heliosis Bow
-divinerpg:arksiane_bow, Arksiane Bow
-divinerpg:everfright, Everfright
-divinerpg:teaker_cannon, Teaker Cannon
-divinerpg:amthirmis_cannon, Amthirmis Cannon
-divinerpg:darven_cannon, Darven Cannon
-divinerpg:cermile_cannon, Cermile Cannon
-divinerpg:pardimal_cannon, Pardimal Cannon
-divinerpg:quadrotic_cannon, Quadrotic Cannon
-divinerpg:karos_cannon, Karos Cannon
-divinerpg:heliosis_cannon, Heliosis Cannon
-divinerpg:arksiane_cannon, Arksiane Cannon
-divinerpg:eversight, Eversight
-divinerpg:teaker_claw, Teaker Claw
-divinerpg:amthirmis_claw, Amthirmis Claw
-divinerpg:darven_claw, Darven Claw
-divinerpg:cermile_claw, Cermile Claw
-divinerpg:pardimal_claw, Pardimal Claw
-divinerpg:quadrotic_claw, Quadrotic Claw
-divinerpg:karos_claw, Karos Claw
-divinerpg:heliosis_claw, Heliosis Claw
-divinerpg:arksiane_claw, Arksiane Claw
-divinerpg:everbright, Everbright
-divinerpg:teaker_disk, Teaker Disk
-divinerpg:amthirmis_disk, Amthirmis Disk
-divinerpg:darven_disk, Darven Disk
-divinerpg:cermile_disk, Cermile Disk
-divinerpg:pardimal_disk, Pardimal Disk
-divinerpg:quadrotic_disk, Quadrotic Disk
-divinerpg:karos_disk, Karos Disk
-divinerpg:heliosis_disk, Heliosis Disk
-divinerpg:arksiane_disk, Arksiane Disk
-divinerpg:teaker_hammer, Teaker Hammer
-divinerpg:amthirmis_hammer, Amthirmis Hammer
-divinerpg:darven_hammer, Darven Hammer
-divinerpg:cermile_hammer, Cermile Hammer
-divinerpg:pardimal_hammer, Pardimal Hammer
-divinerpg:quadrotic_hammer, Quadrotic Hammer
-divinerpg:karos_hammer, Karos Hammer
-divinerpg:heliosis_hammer, Heliosis Hammer
-divinerpg:arksiane_hammer, Arksiane Hammer
-divinerpg:everlight, Everlight
-divinerpg:karos_rockmaul, Karos Rockmaul
-divinerpg:teaker_staff, Teaker Staff
-divinerpg:amthirmis_staff, Amthirmis Staff
-divinerpg:darven_staff, Darven Staff
-divinerpg:cermile_staff, Cermile Staff
-divinerpg:pardimal_staff, Pardimal Staff
-divinerpg:quadrotic_staff, Quadrotic Staff
-divinerpg:karos_staff, Karos Staff
-divinerpg:heliosis_staff, Heliosis Staff
-divinerpg:arksiane_staff, Arksiane Staff
-divinerpg:evernight, Evernight
 divinerpg:arlemite_shovel, Arlemite Shovel
 divinerpg:arlemite_pickaxe, Arlemite Pickaxe
 divinerpg:arlemite_axe, Arlemite Axe
@@ -38211,6 +38007,210 @@ divinerpg:tormented_mask, Tormented Mask
 divinerpg:tormented_chestplate, Tormented Chestplate
 divinerpg:tormented_leggings, Tormented Leggings
 divinerpg:tormented_boots, Tormented Boots
+divinerpg:aquatic_dagger, Aquatic Dagger
+divinerpg:aquatic_maul, Aquatic Maul
+divinerpg:aquatic_trident, Aquatic Trident
+divinerpg:aquaton, Aquaton
+divinerpg:aquatooth_maul, Aquatooth Maul
+divinerpg:aquatooth_sword, Aquatooth Sword
+divinerpg:arlemite_stabber, Arlemite Stabber
+divinerpg:bedrock_sword, Bedrock Sword
+divinerpg:bedrock_maul, Bedrock Maul
+divinerpg:bloodgem_sword, Bloodgem Sword
+divinerpg:bluefire_sword, Bluefire Sword
+divinerpg:corrupted_maul, Corrupted Maul
+divinerpg:crabclaw_maul, Crabclaw Maul
+divinerpg:cyclopsian_sword, Cyclopsian Sword
+divinerpg:death_bringer, Death Bringer
+divinerpg:blue_divine_sword, Blue Divine Sword
+divinerpg:divine_sword, Divine Sword
+divinerpg:gray_divine_sword, Gray Divine Sword
+divinerpg:green_divine_sword, Green Divine Sword
+divinerpg:red_divine_sword, Red Divine Sword
+divinerpg:yellow_divine_sword, Yellow Divine Sword
+divinerpg:dual_claw, Dual Claw
+divinerpg:black_ender_sword, Black Ender Sword
+divinerpg:blue_ender_sword, Blue Ender Sword
+divinerpg:ender_sword, Ender Sword
+divinerpg:green_ender_sword, Green Ender Sword
+divinerpg:red_ender_sword, Red Ender Sword
+divinerpg:yellow_ender_sword, Yellow Ender Sword
+divinerpg:frost_sword, Frost Sword
+divinerpg:flaming_fury, Flaming Fury
+divinerpg:fury_maul, Fury Maul
+divinerpg:inferno_sword, Inferno Sword
+divinerpg:jungle_knife, Jungle Knife
+divinerpg:jungle_rapier, Jungle Rapier
+divinerpg:molten_sword, Molten Sword
+divinerpg:ocean_knife, Ocean Knife
+divinerpg:poison_saber, Poison Saber
+divinerpg:realmite_sword, Realmite Sword
+divinerpg:rupee_rapier, Rupee Rapier
+divinerpg:sandslash, Sandslash
+divinerpg:scorching_sword, Scorching Sword
+divinerpg:shark_sword, Shark Sword
+divinerpg:slime_sword, Slime Sword
+divinerpg:terran_dagger, Terran Dagger
+divinerpg:terran_knife, Terran Knife
+divinerpg:terran_maul, Terran Maul
+divinerpg:bluefire_bow, Bluefire Bow
+divinerpg:ender_bow, Ender Bow
+divinerpg:hunter_bow, Hunter Bow
+divinerpg:inferno_bow, Inferno Bow
+divinerpg:shadow_bow, Shadow Bow
+divinerpg:scythe, Scythe
+divinerpg:shuriken, Shuriken
+divinerpg:vile_storm, Vile Storm
+divinerpg:bowhead_anchor, Bowhead Anchor
+divinerpg:bowhead_cannon, Bowhead Cannon
+divinerpg:corrupted_cannon, Corrupted Cannon
+divinerpg:crab_anchor, Crab Anchor
+divinerpg:crabclaw_cannon, Crabclaw Cannon
+divinerpg:cyclopsian_staff, Cyclopsian Staff
+divinerpg:frost_cannon, Frost Cannon
+divinerpg:ghast_cannon, Ghast Cannon
+divinerpg:golden_fury, Golden Fury
+divinerpg:liopleurodon_anchor, Liopleurodon Anchor
+divinerpg:maelstrom, Maelstrom
+divinerpg:shark_anchor, Shark Anchor
+divinerpg:serenade_of_death, Serenade of Death
+divinerpg:serenade_of_health, Serenade of Health
+divinerpg:serenade_of_infusion, Serenade of Infusion
+divinerpg:serenade_striker, Serenade Striker
+divinerpg:massivence, Massivence
+divinerpg:palavence, Palavence
+divinerpg:enderice, Enderice
+divinerpg:frostking_sword, Frostking Sword
+divinerpg:frozen_maul, Frozen Maul
+divinerpg:glacier_sword, Glacier Sword
+divinerpg:icine_sword, Icine Sword
+divinerpg:snowslash, Snowslash
+divinerpg:icicle_bane, Icicle Bane
+divinerpg:frossivence, Frossivence
+divinerpg:snowstorm_bow, Snowstorm Bow
+divinerpg:icicle_bow, Icicle Bow
+divinerpg:snowflake_shuriken, Snowflake Shuriken
+divinerpg:fractite_cannon, Fractite Cannon
+divinerpg:frostclaw_cannon, Frostclaw Cannon
+divinerpg:sound_of_music, Sound of Music
+divinerpg:sound_of_carols, Sound of Carols
+divinerpg:serenade_of_ice, Serenade of Ice
+divinerpg:eden_blade, Eden Blade
+divinerpg:wildwood_blade, Wildwood Blade
+divinerpg:apalachia_blade, Apalachia Blade
+divinerpg:skythern_blade, Skythern Blade
+divinerpg:mortum_blade, Mortum Blade
+divinerpg:halite_blade, Halite Blade
+divinerpg:eden_bow, Eden Bow
+divinerpg:wildwood_bow, Wildwood Bow
+divinerpg:apalachia_bow, Apalachia Bow
+divinerpg:skythern_bow, Skythern Bow
+divinerpg:mortum_bow, Mortum Bow
+divinerpg:halite_bow, Halite Bow
+divinerpg:twilight_bow, Twilight Bow
+divinerpg:eden_slicer, Eden Slicer
+divinerpg:wildwood_slicer, Wildwood Slicer
+divinerpg:apalachia_slicer, Apalachia Slicer
+divinerpg:skythern_slicer, Skythern Slicer
+divinerpg:mortum_slicer, Mortum Slicer
+divinerpg:halite_slicer, Halite Slicer
+divinerpg:eden_blitz, Eden Blitz
+divinerpg:wildwood_blitz, Wildwood Blitz
+divinerpg:apalachia_blitz, Apalachia Blitz
+divinerpg:skythern_blitz, Skythern Blitz
+divinerpg:mortum_blitz, Mortum Blitz
+divinerpg:halite_blitz, Halite Blitz
+divinerpg:eden_phaser, Eden Phaser
+divinerpg:wildwood_phaser, Wildwood Phaser
+divinerpg:apalachia_phaser, Apalachia Phaser
+divinerpg:skythern_phaser, Skythern Phaser
+divinerpg:mortum_phaser, Mortum Phaser
+divinerpg:halite_phaser, Halite Phaser
+divinerpg:arcanite_blade, Arcanite Blade
+divinerpg:arcanium_saber, Arcanium Saber
+divinerpg:ender_scepter, Ender Scepter
+divinerpg:livicia_sword, Livicia Sword
+divinerpg:storm_sword, Storm Sword
+divinerpg:shadow_saber, Shadow Saber
+divinerpg:arcanite_blaster, Arcanite Blaster
+divinerpg:captains_sparkler, Captains Sparkler
+divinerpg:firefly, Firefly
+divinerpg:generals_staff, General's Staff
+divinerpg:la_vekor, La Vekor
+divinerpg:meriks_missile, Meriks Missile
+divinerpg:meteor_mash, Meteor Mash
+divinerpg:starlight, Starlight
+divinerpg:staff_of_starlight, Staff of Starlight
+divinerpg:grenade, Grenade
+divinerpg:teaker_backsword, Teaker Backsword
+divinerpg:amthirmis_backsword, Amthirmis Backsword
+divinerpg:darven_backsword, Darven Backsword
+divinerpg:cermile_backsword, Cermile Backsword
+divinerpg:pardimal_backsword, Pardimal Backsword
+divinerpg:quadrotic_backsword, Quadrotic Backsword
+divinerpg:karos_backsword, Karos Backsword
+divinerpg:heliosis_backsword, Heliosis Backsword
+divinerpg:arksiane_backsword, Arksiane Backsword
+divinerpg:teaker_bow, Teaker Bow
+divinerpg:amthirmis_bow, Amthirmis Bow
+divinerpg:darven_bow, Darven Bow
+divinerpg:cermile_bow, Cermile Bow
+divinerpg:pardimal_bow, Pardimal Bow
+divinerpg:quadrotic_bow, Quadrotic Bow
+divinerpg:karos_bow, Karos Bow
+divinerpg:heliosis_bow, Heliosis Bow
+divinerpg:arksiane_bow, Arksiane Bow
+divinerpg:everfright, Everfright
+divinerpg:teaker_cannon, Teaker Cannon
+divinerpg:amthirmis_cannon, Amthirmis Cannon
+divinerpg:darven_cannon, Darven Cannon
+divinerpg:cermile_cannon, Cermile Cannon
+divinerpg:pardimal_cannon, Pardimal Cannon
+divinerpg:quadrotic_cannon, Quadrotic Cannon
+divinerpg:karos_cannon, Karos Cannon
+divinerpg:heliosis_cannon, Heliosis Cannon
+divinerpg:arksiane_cannon, Arksiane Cannon
+divinerpg:eversight, Eversight
+divinerpg:teaker_claw, Teaker Claw
+divinerpg:amthirmis_claw, Amthirmis Claw
+divinerpg:darven_claw, Darven Claw
+divinerpg:cermile_claw, Cermile Claw
+divinerpg:pardimal_claw, Pardimal Claw
+divinerpg:quadrotic_claw, Quadrotic Claw
+divinerpg:karos_claw, Karos Claw
+divinerpg:heliosis_claw, Heliosis Claw
+divinerpg:arksiane_claw, Arksiane Claw
+divinerpg:everbright, Everbright
+divinerpg:teaker_disk, Teaker Disk
+divinerpg:amthirmis_disk, Amthirmis Disk
+divinerpg:darven_disk, Darven Disk
+divinerpg:cermile_disk, Cermile Disk
+divinerpg:pardimal_disk, Pardimal Disk
+divinerpg:quadrotic_disk, Quadrotic Disk
+divinerpg:karos_disk, Karos Disk
+divinerpg:heliosis_disk, Heliosis Disk
+divinerpg:arksiane_disk, Arksiane Disk
+divinerpg:teaker_hammer, Teaker Hammer
+divinerpg:amthirmis_hammer, Amthirmis Hammer
+divinerpg:darven_hammer, Darven Hammer
+divinerpg:cermile_hammer, Cermile Hammer
+divinerpg:pardimal_hammer, Pardimal Hammer
+divinerpg:quadrotic_hammer, Quadrotic Hammer
+divinerpg:karos_hammer, Karos Hammer
+divinerpg:heliosis_hammer, Heliosis Hammer
+divinerpg:arksiane_hammer, Arksiane Hammer
+divinerpg:everlight, Everlight
+divinerpg:karos_rockmaul, Karos Rockmaul
+divinerpg:teaker_staff, Teaker Staff
+divinerpg:amthirmis_staff, Amthirmis Staff
+divinerpg:darven_staff, Darven Staff
+divinerpg:cermile_staff, Cermile Staff
+divinerpg:pardimal_staff, Pardimal Staff
+divinerpg:quadrotic_staff, Quadrotic Staff
+divinerpg:karos_staff, Karos Staff
+divinerpg:heliosis_staff, Heliosis Staff
+divinerpg:arksiane_staff, Arksiane Staff
+divinerpg:evernight, Evernight
 projectex:energy_link, Basic Energy EMC Link
 projectex:personal_link, Personal EMC Link
 projectex:refined_link, Refined EMC Link
@@ -38310,6 +38310,41 @@ projectex:final_star, The Final Star
 projectex:knowledge_sharing_book, Knowledge Sharing Book
 projectex:arcane_tablet, Arcane Transmutation Tablet
 enchlib:enchantment_library, Enchantment Library
+enderutilities:asu:0, Adjustable Storage Unit
+enderutilities:barrel:0, Barrel
+enderutilities:draw_bridge:0, Drawbridge
+enderutilities:draw_bridge:1, Advanced Drawbridge
+enderutilities:ender_elevator:0, Ender Elevator (white)
+enderutilities:ender_elevator_slab:0, Ender Elevator Slab (white)
+enderutilities:ender_elevator_layer:0, Ender Elevator Layer (white)
+enderutilities:inserter:0, Inserter
+enderutilities:inserter:1, Inserter (Filtered)
+enderutilities:floor:0, Floor
+enderutilities:floor:1, Cracked Floor
+enderutilities:energy_bridge:0, Energy Bridge Resonator
+enderutilities:energy_bridge:1, Energy Bridge Receiver
+enderutilities:energy_bridge:2, Energy Bridge Transmitter
+enderutilities:machine_0:0, Ender Furnace
+enderutilities:machine_1:0, Ender Infuser
+enderutilities:machine_1:1, Tool Workstation
+enderutilities:machine_1:2, Creation Station
+enderutilities:machine_1:3, Advanced Quick Stacker
+enderutilities:molecular_exciter, tile.null.name
+enderutilities:msu:0, Massive Storage Unit
+enderutilities:msu:1, Massive Storage Bundle
+enderutilities:phasing:0, Phasing Block
+enderutilities:phasing:1, Phasing Block (inverted)
+enderutilities:frame, tile.null.name
+enderutilities:portal_panel, tile.null.name
+enderutilities:sound_block:0, Sound Block
+enderutilities:storage_0:0, Small Memory Chest
+enderutilities:storage_0:1, Memory Chest
+enderutilities:storage_0:2, Large Memory Chest
+enderutilities:storage_0:3, Handy Chest (Small)
+enderutilities:storage_0:4, Handy Chest (Normal)
+enderutilities:storage_0:5, Handy Chest (Large)
+enderutilities:storage_0:6, Handy Chest (Extended)
+enderutilities:storage_0:7, Junk Storage Unit
 enderutilities:endercapacitor:0, Ender Capacitor (Basic)
 enderutilities:endercapacitor:0, Ender Capacitor (Basic)
 enderutilities:endercapacitor:1, Ender Capacitor (Enhanced)
@@ -38381,41 +38416,6 @@ enderutilities:syringe:1, Paralyzer Syringe
 enderutilities:syringe:2, Stimulant Syringe
 enderutilities:syringe:3, Passifier Syringe
 enderutilities:void_pickaxe, Void Pickaxe
-enderutilities:asu:0, Adjustable Storage Unit
-enderutilities:barrel:0, Barrel
-enderutilities:draw_bridge:0, Drawbridge
-enderutilities:draw_bridge:1, Advanced Drawbridge
-enderutilities:ender_elevator:0, Ender Elevator (white)
-enderutilities:ender_elevator_slab:0, Ender Elevator Slab (white)
-enderutilities:ender_elevator_layer:0, Ender Elevator Layer (white)
-enderutilities:inserter:0, Inserter
-enderutilities:inserter:1, Inserter (Filtered)
-enderutilities:floor:0, Floor
-enderutilities:floor:1, Cracked Floor
-enderutilities:energy_bridge:0, Energy Bridge Resonator
-enderutilities:energy_bridge:1, Energy Bridge Receiver
-enderutilities:energy_bridge:2, Energy Bridge Transmitter
-enderutilities:machine_0:0, Ender Furnace
-enderutilities:machine_1:0, Ender Infuser
-enderutilities:machine_1:1, Tool Workstation
-enderutilities:machine_1:2, Creation Station
-enderutilities:machine_1:3, Advanced Quick Stacker
-enderutilities:molecular_exciter, tile.null.name
-enderutilities:msu:0, Massive Storage Unit
-enderutilities:msu:1, Massive Storage Bundle
-enderutilities:phasing:0, Phasing Block
-enderutilities:phasing:1, Phasing Block (inverted)
-enderutilities:frame, tile.null.name
-enderutilities:portal_panel, tile.null.name
-enderutilities:sound_block:0, Sound Block
-enderutilities:storage_0:0, Small Memory Chest
-enderutilities:storage_0:1, Memory Chest
-enderutilities:storage_0:2, Large Memory Chest
-enderutilities:storage_0:3, Handy Chest (Small)
-enderutilities:storage_0:4, Handy Chest (Normal)
-enderutilities:storage_0:5, Handy Chest (Large)
-enderutilities:storage_0:6, Handy Chest (Extended)
-enderutilities:storage_0:7, Junk Storage Unit
 erebus:erebus_food:0, Beetle Larva
 erebus:erebus_food:1, Cooked Beetle Larva
 erebus:erebus_food:2, Grasshopper Leg
@@ -38929,20 +38929,6 @@ erebus:stairs_varnished, Varnished Stairs
 erebus:slab_planks_varnished, Varnished Slab
 erebus:fence_varnished, Varnished Fence
 erebus:fence_gate_varnished, Varnished Fence Gate
-extrabotany:pedestal, tile.pedestal.name
-extrabotany:blockorichalcos, tile.blockorichalcos.name
-extrabotany:manabarrel, tile.manabarrel.name
-extrabotany:cocoondesire, tile.cocoondesire.name
-extrabotany:managenerator, tile.managenerator.name
-extrabotany:manaliquefaction, tile.manaliquefaction.name
-extrabotany:fluidedmana, Fluided Mana
-extrabotany:elfjar, tile.elfjar.name
-extrabotany:trophy, tile.trophy.name
-extrabotany:quantummanabuffer, tile.quantummanabuffer.name
-extrabotany:dimensioncatalyst, tile.dimensioncatalyst.name
-extrabotany:blockshadowium, tile.blockshadowium.name
-extrabotany:blockphotonium, tile.blockphotonium.name
-extrabotany:chargepad, tile.chargepad.name
 extrabotany:manareader, item.manareader.name
 extrabotany:spiritfuel, item.spiritfuel.name
 extrabotany:nightmarefuel, item.nightmarefuel.name
@@ -39062,6 +39048,20 @@ extrabotany:magicfinger, item.magicfinger.name
 extrabotany:silenteternity, item.silenteternity.name
 extrabotany:specialbag, item.specialbag.name
 extrabotany:firstfractal, item.firstfractal.name
+extrabotany:pedestal, tile.pedestal.name
+extrabotany:blockorichalcos, tile.blockorichalcos.name
+extrabotany:manabarrel, tile.manabarrel.name
+extrabotany:cocoondesire, tile.cocoondesire.name
+extrabotany:managenerator, tile.managenerator.name
+extrabotany:manaliquefaction, tile.manaliquefaction.name
+extrabotany:fluidedmana, Fluided Mana
+extrabotany:elfjar, tile.elfjar.name
+extrabotany:trophy, tile.trophy.name
+extrabotany:quantummanabuffer, tile.quantummanabuffer.name
+extrabotany:dimensioncatalyst, tile.dimensioncatalyst.name
+extrabotany:blockshadowium, tile.blockshadowium.name
+extrabotany:blockphotonium, tile.blockphotonium.name
+extrabotany:chargepad, tile.chargepad.name
 zerocore:debugtool, Debug Tool
 bigreactors:ingotyellorium, Yellorium Ingot
 bigreactors:ingotcyanite, Cyanite Ingot
@@ -40889,24 +40889,6 @@ rftools:ender_monitor, Ender Monitor
 rftools:storage_scanner, Storage Scanner
 rftools:elevator, Elevator
 rftools:booster, Booster
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -41027,6 +41009,24 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 itemfilters:filter, Item Filter
 itemfilters:missing, Missing Item
 jecalculation:item_calculator:0, Crafting Calculator
@@ -41305,8 +41305,8 @@ modularmachinery:blockmanaprovideroutput, Mana Output Hatch
 modularmachinery:mythical_resource_miner_tier4_controller, tile.null.name
 modularmachinery:mythical_resource_miner_tier3_controller, tile.null.name
 modularmachinery:mythic_processor_gravitite_controller, tile.null.name
-modularmachinery:lp_harvester_controller, tile.null.name
 modularmachinery:mythical_resource_miner_tier2_controller, tile.null.name
+modularmachinery:lp_harvester_controller, tile.null.name
 modularmachinery:mythical_resource_miner_tier1_controller, tile.null.name
 modularmachinery:relic_of_the_fallen_tower_controller, tile.null.name
 modularmachinery:hypergrowth_insolator_controller, tile.null.name
@@ -41317,19 +41317,20 @@ modularmachinery:mythical_resource_miner_tier9_controller, tile.null.name
 modularmachinery:mythical_resource_miner_tier8_controller, tile.null.name
 modularmachinery:mythical_resource_miner_tier7_controller, tile.null.name
 modularmachinery:infinity_furnace_controller, tile.null.name
-modularmachinery:dyson_revolver_controller, tile.null.name
 modularmachinery:mythical_resource_miner_tier6_controller, tile.null.name
-modularmachinery:creation_altar_controller, tile.null.name
 modularmachinery:twelve_gates_of_heaven_controller, tile.null.name
-modularmachinery:gaia_altar_controller, tile.null.name
+modularmachinery:creation_altar_controller, tile.null.name
+modularmachinery:dyson_revolver_controller, tile.null.name
 modularmachinery:mythical_resource_miner_tier5_controller, tile.null.name
+modularmachinery:gaia_altar_controller, tile.null.name
 modularmachinery:safe_fission_amfm_controller, tile.null.name
 modularmachinery:chaotic_striker_controller, tile.null.name
-modularmachinery:lilith_altar_controller, tile.null.name
+modularmachinery:mythic_processor_enricher_controller, tile.null.name
 modularmachinery:cold_iron_forge_controller, tile.null.name
+modularmachinery:lilith_altar_controller, tile.null.name
 modularmachinery:recursive_brain_in_a_vat_verdith_anath_controller, tile.null.name
-modularmachinery:safe_fission_lees_controller, tile.null.name
 modularmachinery:warren_extractor_self_controller, tile.null.name
+modularmachinery:safe_fission_lees_controller, tile.null.name
 modularmachinery:recursive_brain_in_a_vat_controller, tile.null.name
 modularmachinery:mythic_processor_alloy_furnace_controller, tile.null.name
 modularmachinery:plasmatic_condenser_controller, tile.null.name
@@ -41363,47 +41364,47 @@ modularmachinery:mythical_resource_miner_tier14_controller, tile.null.name
 modularmachinery:mythical_resource_miner_tier15_controller, tile.null.name
 modularmachinery:warren_extractor_ichor_controller, tile.null.name
 modularmachinery:mythical_resource_miner_tier18_controller, tile.null.name
-modularmachinery:carminite_empowerer_controller, tile.null.name
 modularmachinery:mythical_resource_miner_tier19_controller, tile.null.name
+modularmachinery:carminite_empowerer_controller, tile.null.name
 modularmachinery:gravitite_enchanter_controller, tile.null.name
 modularmachinery:wormhole_field_generator_controller, tile.null.name
 modularmachinery:moloch_altar_controller, tile.null.name
 modularmachinery:mythic_processor_pulverizer_controller, tile.null.name
 modularmachinery:mythic_processor_resonator_controller, tile.null.name
 modularmachinery:terrestrial_cauldron_controller, tile.null.name
-modularmachinery:gravitational_collapser_controller, tile.null.name
 modularmachinery:mythic_processor_purifier_controller, tile.null.name
+modularmachinery:gravitational_collapser_controller, tile.null.name
 modularmachinery:safe_fission_heuf_controller, tile.null.name
 modularmachinery:warren_extractor_silkyjewel_controller, tile.null.name
 modularmachinery:corrupted_library_controller, tile.null.name
 modularmachinery:shadow_fracturer_controller, tile.null.name
 modularmachinery:cursed_meatballium_radiation_scrubber_controller, tile.null.name
 modularmachinery:safe_fission_len236_controller, tile.null.name
-modularmachinery:dyson_compressor_controller, tile.null.name
-modularmachinery:enchanted_greenhouse_controller, tile.null.name
 modularmachinery:meteoric_befaller_controller, tile.null.name
+modularmachinery:enchanted_greenhouse_controller, tile.null.name
+modularmachinery:dyson_compressor_controller, tile.null.name
 modularmachinery:ziggurat_of_life_controller, tile.null.name
-modularmachinery:dragonfire_forge_controller, tile.null.name
 modularmachinery:blood_god_altar_controller, tile.null.name
+modularmachinery:dragonfire_forge_controller, tile.null.name
 modularmachinery:mythic_processor_assembling_machine_controller, tile.null.name
 modularmachinery:warren_extractor_actualizing_stone_controller, tile.null.name
 modularmachinery:berserker_crucible_controller, tile.null.name
 modularmachinery:active_cooled_polonium_controller, tile.null.name
 modularmachinery:neutronium_bombarder_controller, tile.null.name
 modularmachinery:mythical_resource_miner_tier30_controller, tile.null.name
-modularmachinery:t4_woot_farm_controller, tile.null.name
 modularmachinery:iron_centrifuge_controller, tile.null.name
+modularmachinery:t4_woot_farm_controller, tile.null.name
 modularmachinery:sacred_cinders_apiary_controller, tile.null.name
 modularmachinery:mythic_processor_wiremill_controller, tile.null.name
 modularmachinery:mythic_processor_isotope_separator_controller, tile.null.name
 modularmachinery:mythic_processor_muon_extractor_controller, tile.null.name
 modularmachinery:blood_altar_ziggurat_controller, tile.null.name
 modularmachinery:sparkled_spinning_wheel_controller, tile.null.name
-modularmachinery:safe_fission_hefm_controller, tile.null.name
 modularmachinery:inertial_confinement_reactor_controller, tile.null.name
+modularmachinery:safe_fission_hefm_controller, tile.null.name
 modularmachinery:processor_clean_room_controller, tile.null.name
-modularmachinery:mythic_processor_electrolyzer_controller, tile.null.name
 modularmachinery:token_totem_controller, tile.null.name
+modularmachinery:mythic_processor_electrolyzer_controller, tile.null.name
 modularmachinery:aesir_resonator_controller, tile.null.name
 modularmachinery:mythical_resource_miner_tier20_controller, tile.null.name
 modularmachinery:mythical_resource_miner_tier23_controller, tile.null.name
@@ -41415,14 +41416,14 @@ modularmachinery:mythical_resource_miner_tier28_controller, tile.null.name
 modularmachinery:mythical_resource_miner_tier25_controller, tile.null.name
 modularmachinery:mythical_resource_miner_tier26_controller, tile.null.name
 modularmachinery:compression_engine_controller, tile.null.name
-modularmachinery:catalyst_of_balance_controller, tile.null.name
 modularmachinery:mythical_resource_miner_tier29_controller, tile.null.name
+modularmachinery:catalyst_of_balance_controller, tile.null.name
 modularmachinery:safe_fission_lep239_controller, tile.null.name
 modularmachinery:forge_of_the_wyvern_controller, tile.null.name
 modularmachinery:dyson_discharger_t5_controller, tile.null.name
 modularmachinery:meatballium_radiation_scrubber_controller, tile.null.name
-modularmachinery:dyson_discharger_t6_controller, tile.null.name
 modularmachinery:xp_assimilator_controller, tile.null.name
+modularmachinery:dyson_discharger_t6_controller, tile.null.name
 modularmachinery:safe_fission_herrr_controller, tile.null.name
 modularmachinery:dyson_discharger_t3_controller, tile.null.name
 modularmachinery:honeysmelter_oven_controller, tile.null.name
@@ -41431,10 +41432,10 @@ modularmachinery:nightmare_electrolyzer_controller, tile.null.name
 modularmachinery:dyson_discharger_t2_controller, tile.null.name
 modularmachinery:mythic_processor_furnace_controller, tile.null.name
 modularmachinery:safe_nuke_environment_controller, tile.null.name
-modularmachinery:pe_sterilizer_controller, tile.null.name
 modularmachinery:whispering_infusion_fountain_controller, tile.null.name
-modularmachinery:seared_caster_controller, tile.null.name
+modularmachinery:pe_sterilizer_controller, tile.null.name
 modularmachinery:safe_fission_leu235_controller, tile.null.name
+modularmachinery:seared_caster_controller, tile.null.name
 modularmachinery:mythic_excavation_computer_multiblock_controller, tile.null.name
 modularmachinery:utopic_spires_controller, tile.null.name
 modularmachinery:active_cooled_hecm245_controller, tile.null.name
@@ -41450,21 +41451,21 @@ modularmachinery:warren_extractor_rhenia_controller, tile.null.name
 modularmachinery:everburning_forge_controller, tile.null.name
 modularmachinery:neutronium_cannon_controller, tile.null.name
 modularmachinery:cryolattice_tbu_controller, tile.null.name
-modularmachinery:me_entropic_sythesizer_controller, tile.null.name
 modularmachinery:mythic_excavation_lattice_controller, tile.null.name
+modularmachinery:me_entropic_sythesizer_controller, tile.null.name
 modularmachinery:relativistic_collapser_controller, tile.null.name
 modularmachinery:abyssal_entropic_catalyzer_controller, tile.null.name
 modularmachinery:sentient_meatball_monument_controller, tile.null.name
 modularmachinery:recurrent_nightmare_synthesizer_controller, tile.null.name
 modularmachinery:mythic_processor_drying_rack_controller, tile.null.name
 modularmachinery:warren_extractor_mythic_shell_controller, tile.null.name
-modularmachinery:dyson_dynamizer_controller, tile.null.name
 modularmachinery:mythic_processor_arkencrusher_controller, tile.null.name
+modularmachinery:dyson_dynamizer_controller, tile.null.name
 modularmachinery:warren_extractor_botania_controller, tile.null.name
 modularmachinery:essentia_solidifier_controller, tile.null.name
-modularmachinery:linear_fusion_accelerator_controller, tile.null.name
 modularmachinery:impetus_syphon_controller, tile.null.name
 modularmachinery:dreading_crucible_controller, tile.null.name
+modularmachinery:linear_fusion_accelerator_controller, tile.null.name
 modularmachinery:matter_reprocessor_controller, tile.null.name
 modularmachinery:the_cube_controller, tile.null.name
 modularmachinery:active_meatballium_scrubbing_unit_controller, tile.null.name
@@ -41479,11 +41480,11 @@ modularmachinery:recursive_brain_in_a_vat_donaeth_rusen_controller, tile.null.na
 modularmachinery:safe_fission_mox241_controller, tile.null.name
 modularmachinery:safe_fission_tbu_controller, tile.null.name
 modularmachinery:divine_combiner_controller, tile.null.name
-modularmachinery:recursive_brain_in_a_vat_kurald_galain_controller, tile.null.name
 modularmachinery:sterilized_altar_controller, tile.null.name
+modularmachinery:recursive_brain_in_a_vat_kurald_galain_controller, tile.null.name
 modularmachinery:herne_altar_controller, tile.null.name
-modularmachinery:mythic_processor_empowerer_controller, tile.null.name
 modularmachinery:uncorrupted_library_controller, tile.null.name
+modularmachinery:mythic_processor_empowerer_controller, tile.null.name
 modularmachinery:safe_fission_hea242_controller, tile.null.name
 modularmachinery:salt_repolarizer_controller, tile.null.name
 modularmachinery:megelium_detonator_controller, tile.null.name
@@ -41493,8 +41494,8 @@ modularmachinery:definer_two_controller, tile.null.name
 modularmachinery:elemental_altar_controller, tile.null.name
 modularmachinery:altar_to_the_name_of_names_controller, tile.null.name
 modularmachinery:baphomet_altar_controller, tile.null.name
-modularmachinery:thaumic_replicator_controller, tile.null.name
 modularmachinery:spatial_crucible_controller, tile.null.name
+modularmachinery:thaumic_replicator_controller, tile.null.name
 modularmachinery:safe_fission_lecm243_controller, tile.null.name
 modularmachinery:dyson_abater_controller, tile.null.name
 modularmachinery:safe_fission_hecf249_controller, tile.null.name
@@ -41502,8 +41503,8 @@ modularmachinery:recursive_brain_in_a_vat_thel_controller, tile.null.name
 modularmachinery:active_cooled_herrr_controller, tile.null.name
 modularmachinery:particle_accelerator_controller, tile.null.name
 modularmachinery:soul_accumulator_controller, tile.null.name
-modularmachinery:dyson_irradiator_bottom_controller, tile.null.name
 modularmachinery:arcane_autoworkbench_controller, tile.null.name
+modularmachinery:dyson_irradiator_bottom_controller, tile.null.name
 modularmachinery:mythic_processor_centrifuge_controller, tile.null.name
 modularmachinery:eldritch_impetus_catalyzer_controller, tile.null.name
 modularmachinery:mythic_processor_blaster_controller, tile.null.name
@@ -41518,8 +41519,8 @@ modularmachinery:sentient_coagulator_controller, tile.null.name
 modularmachinery:illuminated_enchanter_controller, tile.null.name
 modularmachinery:dyson_discharger_controller, tile.null.name
 modularmachinery:valonite_gateway_controller, tile.null.name
-modularmachinery:bloodmaster_crucible_controller, tile.null.name
 modularmachinery:warren_extractor_dimensional_shards_controller, tile.null.name
+modularmachinery:bloodmaster_crucible_controller, tile.null.name
 modularmachinery:warren_extractor_naquadah_controller, tile.null.name
 modularmachinery:blood_reprocessor_controller, tile.null.name
 modularmachinery:advanced_compression_engine_controller, tile.null.name
@@ -41557,11 +41558,11 @@ modularmachinery:safe_fission_hep239_controller, tile.null.name
 modularmachinery:dyson_extruder_controller, tile.null.name
 modularmachinery:compression_turbine_controller, tile.null.name
 modularmachinery:recursive_brain_in_a_vat_tellan_controller, tile.null.name
-modularmachinery:fluid_matrix_plasma_collider_controller, tile.null.name
 modularmachinery:definer_controller, tile.null.name
+modularmachinery:fluid_matrix_plasma_collider_controller, tile.null.name
 modularmachinery:safe_fission_hecm245_controller, tile.null.name
-modularmachinery:innerved_essenceifier_controller, tile.null.name
 modularmachinery:safe_fission_radiant_controller, tile.null.name
+modularmachinery:innerved_essenceifier_controller, tile.null.name
 modularmachinery:crushing_wheels:0, Crushing Wheels
 thaumicenergistics:essentia_cell_1k, 1k ME Essentia Storage Cell
 thaumicenergistics:essentia_cell_4k, 4k ME Essentia Storage Cell
@@ -41571,9 +41572,11 @@ thaumicenergistics:essentia_cell_creative, Creative ME Essentia Storage Cell
 thaumicenergistics:essentia_import, ME Essentia Import Bus
 thaumicenergistics:essentia_export, ME Essentia Export Bus
 thaumicenergistics:essentia_storage, ME Essentia Storage Bus
+thaumicenergistics:essentia_level_emitter, ME Essentia Level Emitter
 thaumicenergistics:essentia_terminal, ME Essentia Terminal
 thaumicenergistics:arcane_terminal, Arcane Crafting Terminal
 thaumicenergistics:arcane_inscriber, Arcane Inscriber
+thaumicenergistics:wireless_essentia_terminal, Wireless Essentia Terminal
 thaumicenergistics:diffusion_core, Diffusion Core
 thaumicenergistics:coalescence_core, Coalescence Core
 thaumicenergistics:essentia_component_1k, 1k ME Essentia Storage Component
@@ -41586,6 +41589,7 @@ thaumicenergistics:blank_knowledge_core, Blank Knowledge Core
 thaumicenergistics:dummy_aspect, item.thaumicenergistics.dummy_aspect.name
 thaumicenergistics:infusion_provider, Essentia Infusion Provider
 thaumicenergistics:arcane_assembler, Arcane Assembler
+thaumicenergistics:essentia_interface, Essentia Interface
 naturescompass:naturescompass, Nature's Compass
 xnet:xnet_manual, XNet Manual
 xnet:connector_upgrade, Connector Upgrade Kit
@@ -41844,14 +41848,14 @@ plustic:pipe_piece:0, Corrupted Pipe Piece
 plustic:pipe_piece:0, Mirion Pipe Piece
 plustic:pipe_piece:0, Livingwood Pipe Piece
 plustic:pipe_piece:0, Elementium Pipe Piece
-plustic:pipe_piece:0, Emerald Pipe Piece
 plustic:pipe_piece:0, Wyvern Pipe Piece
 plustic:pipe_piece:0, Awakened Pipe Piece
 plustic:pipe_piece:0, Chaotic Pipe Piece
+plustic:pipe_piece:0, Emerald Pipe Piece
+plustic:pipe_piece:0, Slime Pipe Piece
 plustic:pipe_piece:0, Fusewood Pipe Piece
 plustic:pipe_piece:0, Ghostwood Pipe Piece
 plustic:pipe_piece:0, Darkwood Pipe Piece
-plustic:pipe_piece:0, Slime Pipe Piece
 plustic:laser_medium:0, Stone Laser Medium
 plustic:laser_medium:0, Prismarine Laser Medium
 plustic:laser_medium:0, Blazerod Laser Medium
@@ -41875,44 +41879,6 @@ plustic:battery_cell:0, Enori Battery Cell
 plustic:battery_cell:0, Fluix Crystal Battery Cell
 plustic:laser_gun, Laser Gun
 plustic:katana, Katana
-xreliquary:altar, Altar
-xreliquary:apothecary_cauldron, tile.apothecary_cauldron.name
-xreliquary:apothecary_mortar, tile.apothecary_mortar.name
-xreliquary:fertile_lilypad, tile.fertile_lilypad.name
-xreliquary:interdiction_torch, tile.interdiction_torch.name
-xreliquary:wraith_node, tile.wraith_node.name
-xreliquary:pedestal:0, Pedestal
-xreliquary:pedestal:1, Pedestal
-xreliquary:pedestal:2, Pedestal
-xreliquary:pedestal:3, Pedestal
-xreliquary:pedestal:4, Pedestal
-xreliquary:pedestal:5, Pedestal
-xreliquary:pedestal:6, Pedestal
-xreliquary:pedestal:7, Pedestal
-xreliquary:pedestal:8, Pedestal
-xreliquary:pedestal:9, Pedestal
-xreliquary:pedestal:10, Pedestal
-xreliquary:pedestal:11, Pedestal
-xreliquary:pedestal:12, Pedestal
-xreliquary:pedestal:13, Pedestal
-xreliquary:pedestal:14, Pedestal
-xreliquary:pedestal:15, Pedestal
-xreliquary:pedestal_passive:0, Pedestal (Display only)
-xreliquary:pedestal_passive:1, Pedestal (Display only)
-xreliquary:pedestal_passive:2, Pedestal (Display only)
-xreliquary:pedestal_passive:3, Pedestal (Display only)
-xreliquary:pedestal_passive:4, Pedestal (Display only)
-xreliquary:pedestal_passive:5, Pedestal (Display only)
-xreliquary:pedestal_passive:6, Pedestal (Display only)
-xreliquary:pedestal_passive:7, Pedestal (Display only)
-xreliquary:pedestal_passive:8, Pedestal (Display only)
-xreliquary:pedestal_passive:9, Pedestal (Display only)
-xreliquary:pedestal_passive:10, Pedestal (Display only)
-xreliquary:pedestal_passive:11, Pedestal (Display only)
-xreliquary:pedestal_passive:12, Pedestal (Display only)
-xreliquary:pedestal_passive:13, Pedestal (Display only)
-xreliquary:pedestal_passive:14, Pedestal (Display only)
-xreliquary:pedestal_passive:15, Pedestal (Display only)
 xreliquary:alkahestry_tome, item.alkahestry_tome.name
 xreliquary:mob_ingredient:0, Rib Bone
 xreliquary:mob_ingredient:1, Withered Rib
@@ -42021,6 +41987,44 @@ xreliquary:attraction_potion, item.attraction_potion.name
 xreliquary:fertile_potion, item.fertile_potion.name
 xreliquary:potion:0, Condensed Potion Vial
 xreliquary:tipped_arrow, Tipped Arrow
+xreliquary:altar, Altar
+xreliquary:apothecary_cauldron, tile.apothecary_cauldron.name
+xreliquary:apothecary_mortar, tile.apothecary_mortar.name
+xreliquary:fertile_lilypad, tile.fertile_lilypad.name
+xreliquary:interdiction_torch, tile.interdiction_torch.name
+xreliquary:wraith_node, tile.wraith_node.name
+xreliquary:pedestal:0, Pedestal
+xreliquary:pedestal:1, Pedestal
+xreliquary:pedestal:2, Pedestal
+xreliquary:pedestal:3, Pedestal
+xreliquary:pedestal:4, Pedestal
+xreliquary:pedestal:5, Pedestal
+xreliquary:pedestal:6, Pedestal
+xreliquary:pedestal:7, Pedestal
+xreliquary:pedestal:8, Pedestal
+xreliquary:pedestal:9, Pedestal
+xreliquary:pedestal:10, Pedestal
+xreliquary:pedestal:11, Pedestal
+xreliquary:pedestal:12, Pedestal
+xreliquary:pedestal:13, Pedestal
+xreliquary:pedestal:14, Pedestal
+xreliquary:pedestal:15, Pedestal
+xreliquary:pedestal_passive:0, Pedestal (Display only)
+xreliquary:pedestal_passive:1, Pedestal (Display only)
+xreliquary:pedestal_passive:2, Pedestal (Display only)
+xreliquary:pedestal_passive:3, Pedestal (Display only)
+xreliquary:pedestal_passive:4, Pedestal (Display only)
+xreliquary:pedestal_passive:5, Pedestal (Display only)
+xreliquary:pedestal_passive:6, Pedestal (Display only)
+xreliquary:pedestal_passive:7, Pedestal (Display only)
+xreliquary:pedestal_passive:8, Pedestal (Display only)
+xreliquary:pedestal_passive:9, Pedestal (Display only)
+xreliquary:pedestal_passive:10, Pedestal (Display only)
+xreliquary:pedestal_passive:11, Pedestal (Display only)
+xreliquary:pedestal_passive:12, Pedestal (Display only)
+xreliquary:pedestal_passive:13, Pedestal (Display only)
+xreliquary:pedestal_passive:14, Pedestal (Display only)
+xreliquary:pedestal_passive:15, Pedestal (Display only)
 rftoolsdim:dimlet_base, Dimlet Base Part
 rftoolsdim:dimlet_control_circuit:0, Dimlet Control Circuit Rarity 0
 rftoolsdim:dimlet_control_circuit:1, Dimlet Control Circuit Rarity 1
@@ -42062,31 +42066,31 @@ rftoolsdim:structure_essence:8, Structure Swamp Hut Essence
 rftoolsdim:structure_essence:9, Structure Desert Temple Essence
 rftoolsdim:structure_essence:10, Structure Jungle Temple Essence
 rftoolsdim:structure_essence:11, Structure Igloo Essence
-rftoolsdim:known_dimlet:2, Material Dimlet (Stone)
-rftoolsdim:known_dimlet:12, Controller Dimlet (Single)
-rftoolsdim:known_dimlet:6, Terrain Dimlet (Flat)
-rftoolsdim:known_dimlet:5, Structure Dimlet (None)
-rftoolsdim:known_dimlet:13, Weather Dimlet (Default)
-rftoolsdim:known_dimlet:12, Controller Dimlet (Default)
-rftoolsdim:known_dimlet:9, Digit Dimlet (4)
-rftoolsdim:known_dimlet:9, Digit Dimlet (5)
-rftoolsdim:known_dimlet:9, Digit Dimlet (6)
-rftoolsdim:known_dimlet:9, Digit Dimlet (7)
-rftoolsdim:known_dimlet:9, Digit Dimlet (8)
-rftoolsdim:known_dimlet:7, Feature Dimlet (None)
-rftoolsdim:known_dimlet:6, Terrain Dimlet (Void)
-rftoolsdim:known_dimlet:9, Digit Dimlet (9)
-rftoolsdim:known_dimlet:4, Sky Dimlet (Normal)
-rftoolsdim:known_dimlet:4, Sky Dimlet (Normal day)
 rftoolsdim:known_dimlet:3, Mob Dimlet (Default)
 rftoolsdim:known_dimlet:1, Liquid Dimlet (Water)
-rftoolsdim:known_dimlet:8, Time Dimlet (Normal)
-rftoolsdim:known_dimlet:4, Sky Dimlet (Normal night)
-rftoolsdim:known_dimlet:9, Digit Dimlet (0)
+rftoolsdim:known_dimlet:13, Weather Dimlet (Default)
+rftoolsdim:known_dimlet:4, Sky Dimlet (Normal day)
 rftoolsdim:known_dimlet:9, Digit Dimlet (1)
-rftoolsdim:known_dimlet:9, Digit Dimlet (2)
+rftoolsdim:known_dimlet:9, Digit Dimlet (0)
 rftoolsdim:known_dimlet:9, Digit Dimlet (3)
+rftoolsdim:known_dimlet:6, Terrain Dimlet (Flat)
+rftoolsdim:known_dimlet:9, Digit Dimlet (2)
+rftoolsdim:known_dimlet:12, Controller Dimlet (Default)
+rftoolsdim:known_dimlet:9, Digit Dimlet (9)
+rftoolsdim:known_dimlet:6, Terrain Dimlet (Void)
+rftoolsdim:known_dimlet:9, Digit Dimlet (8)
+rftoolsdim:known_dimlet:12, Controller Dimlet (Single)
+rftoolsdim:known_dimlet:9, Digit Dimlet (5)
+rftoolsdim:known_dimlet:9, Digit Dimlet (4)
+rftoolsdim:known_dimlet:9, Digit Dimlet (7)
+rftoolsdim:known_dimlet:2, Material Dimlet (Stone)
+rftoolsdim:known_dimlet:4, Sky Dimlet (Normal)
+rftoolsdim:known_dimlet:9, Digit Dimlet (6)
+rftoolsdim:known_dimlet:5, Structure Dimlet (None)
+rftoolsdim:known_dimlet:7, Feature Dimlet (None)
+rftoolsdim:known_dimlet:8, Time Dimlet (Normal)
 rftoolsdim:known_dimlet:10, Effect Dimlet (None)
+rftoolsdim:known_dimlet:4, Sky Dimlet (Normal night)
 rftoolsdim:efficiency_essence, Efficiency Essence
 rftoolsdim:mediocre_efficiency_essence, Mediocre Efficiency Essence
 rftoolsdim:empty_dimension_tab, Empty Dimension Tab
@@ -43007,29 +43011,29 @@ thaumictinkerer:infused_terra_fruit, Imbued Grain
 thaumictinkerer:infused_aer_fruit, Imbued Grain
 thaumictinkerer:infused_aqua_fruit, Imbued Grain
 thaumictinkerer:infused_ignis_fruit, Imbued Grain
-thaumicwonders:alkahest_vat, Alkahest Vat
 thaumicwonders:coalescence_matrix_precursor, Coalescence Matrix
-thaumicwonders:everburning_urn, Everburning Urn
-thaumicwonders:portal_anchor, Portal Anchor
-thaumicwonders:flux_capacitor, Flux Capacitor
-thaumicwonders:flux_distiller, Flux Distiller
-thaumicwonders:dimensional_ripper, Dimensional Ripper
-thaumicwonders:placeholder_obsidian, Catalyzation Chamber
-thaumicwonders:placeholder_arcane_stone, Catalyzation Chamber
-thaumicwonders:inspiration_engine, Inspiration Engine
-thaumicwonders:catalyzation_chamber, Catalyzation Chamber
-thaumicwonders:primordial_siphon, Primordial Siphon
-thaumicwonders:vis_capacitor, Vis Capacitor
 thaumicwonders:madness_engine, Madness Engine
-thaumicwonders:portal_generator, Portal Generator
-thaumicwonders:meaty_orb, Meaty Orb
+thaumicwonders:dimensional_ripper, Dimensional Ripper
+thaumicwonders:creative_essentia_jar, Creative Essentia Jar
 thaumicwonders:hexamite, Hexamite
+thaumicwonders:ore_diviner, Ore Diviner
+thaumicwonders:inspiration_engine, Inspiration Engine
+thaumicwonders:portal_anchor, Portal Anchor
 thaumicwonders:meteorb, Meteorb
 thaumicwonders:oblivion_essentia_jar, Oblivion Essentia Jar
-thaumicwonders:creative_essentia_jar, Creative Essentia Jar
-thaumicwonders:ore_diviner, Ore Diviner
-thaumicwonders:void_beacon, Void Beacon
+thaumicwonders:flux_distiller, Flux Distiller
 thaumicwonders:coalescence_matrix, Coalescence Matrix
+thaumicwonders:placeholder_arcane_stone, Catalyzation Chamber
+thaumicwonders:catalyzation_chamber, Catalyzation Chamber
+thaumicwonders:void_beacon, Void Beacon
+thaumicwonders:alkahest_vat, Alkahest Vat
+thaumicwonders:flux_capacitor, Flux Capacitor
+thaumicwonders:primordial_siphon, Primordial Siphon
+thaumicwonders:everburning_urn, Everburning Urn
+thaumicwonders:portal_generator, Portal Generator
+thaumicwonders:meaty_orb, Meaty Orb
+thaumicwonders:placeholder_obsidian, Catalyzation Chamber
+thaumicwonders:vis_capacitor, Vis Capacitor
 thaumicwonders:bone_bow, Empowered Bow of Bone
 thaumicwonders:primal_arrow:0, Air Arrow
 thaumicwonders:primal_arrow:1, Earth Arrow
@@ -46482,7 +46486,7 @@ contenttweaker:holy_sludge_callstone, Holy Sludge Callstone
 contenttweaker:forsaken_priests_callstone, Forgotten Faith Callstone
 contenttweaker:summons_to_the_army_of_darkness, Summons to the Army of Darkness
 contenttweaker:beekeper_archive, Beekeeper's Archives
-contenttweaker:cleanroom_certificate, item.contenttweaker.cleanroom_certificate.name
+contenttweaker:cleanroom_certificate, Cleanroom Certificate
 contenttweaker:summons_of_the_cursed_wyvern, Summons of the Cursed Wyvern
 contenttweaker:dying_constellation_callstone, Dying Constellation Callstone
 contenttweaker:hopeful_return_callstone, Hopeful Return Callstone 
@@ -46506,7 +46510,7 @@ contenttweaker:key_of_actualization, Key of Actualization
 contenttweaker:magicbane_callstone, Magicbane Callstone
 contenttweaker:time_lords_callstone, Time Lords Callstone
 contenttweaker:silencing_nothingness, Silencing Nothingness
-contenttweaker:emerald_compass, item.contenttweaker.emerald_compass.name
+contenttweaker:emerald_compass, Emerald Compass
 contenttweaker:singular_gravity_honey, Singular Gravity Honey
 contenttweaker:black_hole_honey, Black Hole Honey
 contenttweaker:nethersky_amber:0, Nethersky Amber
@@ -46967,20 +46971,20 @@ contenttweaker:bluefire_divine_ore:0, Bluefire Divine Ore
 contenttweaker:basic_machine_frame_ghost:0, Place a Basic Machine Frame Here ;)
 contenttweaker:strange_stone_ghost:0, Place Stone Here :)
 contenttweaker:unleashed_divine_ore:0, Unleashed Divine Ore
-contenttweaker:ore_of_the_projected_constellation:0, tile.contenttweaker.ore_of_the_projected_constellation.name
-contenttweaker:time_lords_core_of_definition:0, tile.contenttweaker.time_lords_core_of_definition.name
-contenttweaker:sacred_cinders_lumber_apiary:0, tile.contenttweaker.sacred_cinders_lumber_apiary.name
-contenttweaker:litherite_ore:0, tile.contenttweaker.litherite_ore.name
-contenttweaker:erodium_ore:0, tile.contenttweaker.erodium_ore.name
-contenttweaker:kyronite_ore:0, tile.contenttweaker.kyronite_ore.name
-contenttweaker:pladium_ore:0, tile.contenttweaker.pladium_ore.name
-contenttweaker:ionite_ore:0, tile.contenttweaker.ionite_ore.name
-contenttweaker:aethium_ore:0, tile.contenttweaker.aethium_ore.name
-contenttweaker:lonsdaleite_ore:0, tile.contenttweaker.lonsdaleite_ore.name
-contenttweaker:sednanite_sheetmetal:0, tile.contenttweaker.sednanite_sheetmetal.name
-contenttweaker:perfected_imbuement_essence:0, tile.contenttweaker.perfected_imbuement_essence.name
-contenttweaker:pale_ore:0, tile.contenttweaker.pale_ore.name
-contenttweaker:totally_real_tardis:0, tile.contenttweaker.totally_real_tardis.name
+contenttweaker:ore_of_the_projected_constellation:0, Ore of the Projected Constellation
+contenttweaker:time_lords_core_of_definition:0, Time Lords Core of Definition
+contenttweaker:sacred_cinders_lumber_apiary:0, Sacred Cinders Lumber Apiary
+contenttweaker:litherite_ore:0, Litherite Ore
+contenttweaker:erodium_ore:0, Erodium Ore
+contenttweaker:kyronite_ore:0, Kyronite Ore
+contenttweaker:pladium_ore:0, Pladium Ore
+contenttweaker:ionite_ore:0, Ionite Ore
+contenttweaker:aethium_ore:0, Aethium Ore
+contenttweaker:lonsdaleite_ore:0, Lonsdaleite Ore
+contenttweaker:sednanite_sheetmetal:0, Sednanite Sheetmetal
+contenttweaker:perfected_imbuement_essence:0, Perfected Imbuement Essence
+contenttweaker:pale_ore:0, Pale Ore
+contenttweaker:totally_real_tardis:0, Totally Real TARDIS
 contenttweaker:jade_egg, Jade Egg
 contenttweaker:amethyst_egg, Amethyst Egg
 contenttweaker:rosite_egg, Rosite Egg
@@ -49148,44 +49152,44 @@ contenttweaker:history_of_natural_law, History of Natural Law
 contenttweaker:one_power_unleashed_emerald, One Power Unleashed Emerald
 contenttweaker:pure_fluix_geode, Pure Fluix Geode
 contenttweaker:supertranslucent_catalyzer, Supertranslucent Catalyzer
-contenttweaker:crystevia_geode, item.contenttweaker.crystevia_geode.name
-contenttweaker:paradoxical_honey, item.contenttweaker.paradoxical_honey.name
-contenttweaker:paradoxical_stone, item.contenttweaker.paradoxical_stone.name
-contenttweaker:light_of_the_one_power, item.contenttweaker.light_of_the_one_power.name
-contenttweaker:threefold_oath, item.contenttweaker.threefold_oath.name
-contenttweaker:screaming_slate, item.contenttweaker.screaming_slate.name
-contenttweaker:screaming_bloodstone, item.contenttweaker.screaming_bloodstone.name
-contenttweaker:screaming_fabric, item.contenttweaker.screaming_fabric.name
-contenttweaker:sacred_cinders_moss, item.contenttweaker.sacred_cinders_moss.name
-contenttweaker:pure_incense, item.contenttweaker.pure_incense.name
-contenttweaker:rod_of_valhalla, item.contenttweaker.rod_of_valhalla.name
-contenttweaker:found_in_villages, item.contenttweaker.found_in_villages.name
-contenttweaker:jei_info_box, item.contenttweaker.jei_info_box.name
-contenttweaker:kobblin_earth, item.contenttweaker.kobblin_earth.name
-contenttweaker:kobblin_seedling, item.contenttweaker.kobblin_seedling.name
-contenttweaker:balanced_plating, item.contenttweaker.balanced_plating.name
-contenttweaker:void_calling_fabrial, item.contenttweaker.void_calling_fabrial.name
-contenttweaker:sacred_cinders_lumber, item.contenttweaker.sacred_cinders_lumber.name
-contenttweaker:perfected_imbuement_fabrial, item.contenttweaker.perfected_imbuement_fabrial.name
-contenttweaker:eye_of_dustopia, item.contenttweaker.eye_of_dustopia.name
-contenttweaker:chu_ci_foot, item.contenttweaker.chu_ci_foot.name
-contenttweaker:nanabozho_foot, item.contenttweaker.nanabozho_foot.name
-contenttweaker:wenet_foot, item.contenttweaker.wenet_foot.name
-contenttweaker:puca_foot, item.contenttweaker.puca_foot.name
-contenttweaker:gear_of_worthiness, item.contenttweaker.gear_of_worthiness.name
-contenttweaker:spirit_of_worthiness, item.contenttweaker.spirit_of_worthiness.name
-contenttweaker:voice_of_the_sunken_city, item.contenttweaker.voice_of_the_sunken_city.name
-contenttweaker:spinoledon_crest, item.contenttweaker.spinoledon_crest.name
-contenttweaker:giant_leaf, item.contenttweaker.giant_leaf.name
-contenttweaker:webby_cap, item.contenttweaker.webby_cap.name
-contenttweaker:runic_shield, item.contenttweaker.runic_shield.name
-contenttweaker:abyssal_bone, item.contenttweaker.abyssal_bone.name
-contenttweaker:server_rack, item.contenttweaker.server_rack.name
-contenttweaker:chunky_sand_pile, item.contenttweaker.chunky_sand_pile.name
-contenttweaker:investiture_of_fenrir, item.contenttweaker.investiture_of_fenrir.name
-contenttweaker:crimson_metal_ingot, item.contenttweaker.crimson_metal_ingot.name
-contenttweaker:fabrial_of_reclaimed_time, item.contenttweaker.fabrial_of_reclaimed_time.name
-contenttweaker:tiny_brick_wall, item.contenttweaker.tiny_brick_wall.name
+contenttweaker:crystevia_geode, Crystevia Geode
+contenttweaker:paradoxical_honey, Paradoxical Honey
+contenttweaker:paradoxical_stone, Paradoxical Stone
+contenttweaker:light_of_the_one_power, Light of the One Power
+contenttweaker:threefold_oath, Threefold Oath
+contenttweaker:screaming_slate, Screaming Slate
+contenttweaker:screaming_bloodstone, Screaming Bloodstone
+contenttweaker:screaming_fabric, Screaming Fabric
+contenttweaker:sacred_cinders_moss, Sacred Cinders Moss
+contenttweaker:pure_incense, Pure Incense
+contenttweaker:rod_of_valhalla, Rod of Valhalla
+contenttweaker:found_in_villages, Found in Villages
+contenttweaker:jei_info_box, JEI Info Box
+contenttweaker:kobblin_earth, Kobblin Earth
+contenttweaker:kobblin_seedling, Kobblin Seedling
+contenttweaker:balanced_plating, Balanced Plating
+contenttweaker:void_calling_fabrial, Void Calling Fabrial
+contenttweaker:sacred_cinders_lumber, Sacred Cinders Lumber Automation
+contenttweaker:perfected_imbuement_fabrial, Perfected Imbuement Fabrial
+contenttweaker:eye_of_dustopia, Eye of Dustopia
+contenttweaker:chu_ci_foot, Chu-Ci Foot
+contenttweaker:nanabozho_foot, Nanabozho Foot
+contenttweaker:wenet_foot, Wenet Foot
+contenttweaker:puca_foot, Puca Foot
+contenttweaker:gear_of_worthiness, Gear of Worthiness
+contenttweaker:spirit_of_worthiness, Spirit of Worthiness
+contenttweaker:voice_of_the_sunken_city, Voice of the Sunken City
+contenttweaker:spinoledon_crest, Spinoledon Crest
+contenttweaker:giant_leaf, Giant Leaf
+contenttweaker:webby_cap, Webby Cap
+contenttweaker:runic_shield, Runic Shield
+contenttweaker:abyssal_bone, Abyssal Bone
+contenttweaker:server_rack, Server Rack
+contenttweaker:chunky_sand_pile, Chunky Sand Pile
+contenttweaker:investiture_of_fenrir, Investiture of Fenrir
+contenttweaker:crimson_metal_ingot, Crimson Metal Ingot
+contenttweaker:fabrial_of_reclaimed_time, Fabrial of Reclaimed Time
+contenttweaker:tiny_brick_wall, Tiny Brick Wall
 contenttweaker:alchemical_petrification, Alchemical Petrification
 contenttweaker:compressed_alchemical_petrification, Compressed Alchemical Petrification
 contenttweaker:double_compressed_alchemical_petrification, Double Compressed Alchemical Petrification
@@ -49544,9 +49548,9 @@ contenttweaker:enchdesc_aerial_affinity, Enchantment Description Aerial Affinity
 contenttweaker:enchdesc_blessing, Enchantment Description: Blessing
 contenttweaker:enchdesc_curse_bones, Enchantment Description: Curse of Bones
 contenttweaker:enchdesc_flaming_touch, Enchantment Description: Flaming Touch
-contenttweaker:enchdesc_vampirism, item.contenttweaker.enchdesc_vampirism.name
-contenttweaker:enchdesc_critical_boost, item.contenttweaker.enchdesc_critical_boost.name
-contenttweaker:enchdesc_focused_strike, item.contenttweaker.enchdesc_focused_strike.name
+contenttweaker:enchdesc_vampirism, Enchantment Description: Vampirism
+contenttweaker:enchdesc_critical_boost, Enchantment Description: Critical Boost
+contenttweaker:enchdesc_focused_strike, Enchantment Description: Focused Strike
 contenttweaker:sensus_vis_condensate, Sensus Vis Condensate
 contenttweaker:machina_vis_condensate, Machina Vis Condensate
 contenttweaker:alkimia_vis_condensate, Alkimia Vis Condensate
@@ -49904,11 +49908,11 @@ contenttweaker:master_spell_tenebrae, Master Spell Tenebrae
 contenttweaker:master_spell_bestia, Master Spell: Bestia
 contenttweaker:master_spell_vinculum, Master Spell: Vinculum
 contenttweaker:master_spell_exanimis, Master Spell: Exanimis
-contenttweaker:master_spell_herba, item.contenttweaker.master_spell_herba.name
-contenttweaker:master_spell_alkimia, item.contenttweaker.master_spell_alkimia.name
-contenttweaker:master_spell_volatus, item.contenttweaker.master_spell_volatus.name
-contenttweaker:master_spell_vacuos, item.contenttweaker.master_spell_vacuos.name
-contenttweaker:master_spell_spiritus, item.contenttweaker.master_spell_spiritus.name
+contenttweaker:master_spell_herba, Master Spell: Herba
+contenttweaker:master_spell_alkimia, Master Spell: Alkimia
+contenttweaker:master_spell_volatus, Master Spell: Volatus
+contenttweaker:master_spell_vacuos, Master Spell: Vacuos
+contenttweaker:master_spell_spiritus, Master Spell: Spiritus
 contenttweaker:material_part:0, Demonic Steel Nugget
 contenttweaker:material_part:256, Elite Apalachia Nugget
 contenttweaker:material_part:1, Demonic Steel Ingot
@@ -50831,13 +50835,13 @@ magicbees:mysteriousmagnet:18, Mysterious Magnet
 magicbees:moondial, Jade Moon Dial
 magicbees:manasteelgrafter, Manasteel Grafter
 magicbees:manasteelscoop, Manasteel Scoop
-magicbees:frames.gentle, Gentle Frame
+magicbees:frames.oblivion, Oblivion Frame
 magicbees:frames.temporal, Temporal Frame
 magicbees:frames.necrotic, Necrotic Frame
+magicbees:frames.gentle, Gentle Frame
 magicbees:frames.metabolic, Metabolic Frame
 magicbees:frames.resilient, Resilient Frame
 magicbees:frames.magic, Magic Frame
-magicbees:frames.oblivion, Oblivion Frame
 magicbees:hiveblock:0, Curious Hive
 magicbees:hiveblock:1, Unusual Hive
 magicbees:hiveblock:2, Resonating Hive

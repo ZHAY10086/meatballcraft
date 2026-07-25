@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    20539
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "§7§oThe primordial syphon is used to break Primordial Pearls into Primordial Grains by consuming nearby Rifts.\n\n",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "thaumicwonders:primordial_siphon"
+      },
+      "name:8": "Primordial Accelerator"
+    }
+  },
+  "questID:3": 2147,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "thaumicwonders:primordial_siphon"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

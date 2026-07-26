@@ -1,30 +1,18 @@
 {
   "preRequisites:11": [
-    50065
+    432846131
   ],
   "properties:10": {
     "betterquesting:10": {
-      "desc:8": "§7§o钻石碗更好，但是需要11级注魔才能使用！",
+      "desc:8": "",
       "icon:10": {
         "Count:3": 1,
         "id:8": "aoa3:diamond_bowl"
       },
-      "name:8": "钻石碗"
+      "name:8": "更好的注魔"
     }
   },
-  "questID:3": 50066,
-  "rewards:9": {
-    "0:10": {
-      "index:3": 0,
-      "rewardID:8": "bq_standard:item",
-      "rewards:9": {
-        "0:10": {
-          "Count:3": 2,
-          "id:8": "aoa3:glistening_infusion_stone"
-        }
-      }
-    }
-  },
+  "questID:3": 483955506,
   "tasks:9": {
     "0:10": {
       "index:3": 0,

@@ -1854,6 +1854,9 @@ var harmonicfluidlattice = VanillaFactory.createFluid("harmonic_fluid_lattice", 
 harmonicfluidlattice.register();
 
 var essenceofvitality = VanillaFactory.createFluid("essence_of_vitality", Color.fromHex("95e884"));
+essenceofvitality.colorize = true;
+essenceofvitality.stillLocation = "contenttweaker:fluids/bottled_bewitchment_base";
+essenceofvitality.flowingLocation = "contenttweaker:fluids/bottled_bewitchment_base_flow";
 essenceofvitality.register();
 
 

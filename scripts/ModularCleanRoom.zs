@@ -879,7 +879,7 @@ val cleanroom97 = RecipeBuilder.newBuilder("cleanroom97","processor_clean_room",
 cleanroom97.addEnergyPerTickInput(40000);
 cleanroom97.addItemInput(<contenttweaker:ascended_sky_stone>*1);
 cleanroom97.addItemInput(<minecraft:diamond>*64);
-cleanroom97.addItemInput(<ore:dustEnder>*64);
+cleanroom97.addItemInput(<ore:dustEnderPearl>*64);
 cleanroom97.addItemOutput(<threng:material:5>*64);
 cleanroom97.build();
 

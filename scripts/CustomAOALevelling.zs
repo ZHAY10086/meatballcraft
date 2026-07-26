@@ -550,7 +550,7 @@ events.onPlayerInteractBlock(function(event as PlayerInteractBlockEvent) {
       return;
     }
 
-    Commands.call("/aoaskill addxp anima @p 500", event.player, event.world, true, true);
+    Commands.call("/aoaskill addxp creation @p 500", event.player, event.world, true, true);
 	heldItem.mutable().shrink(1);
   }
 });
@@ -569,7 +569,7 @@ events.onPlayerInteractBlock(function(event as PlayerInteractBlockEvent) {
       return;
     }
 
-    Commands.call("/aoaskill addxp anima @p 80", event.player, event.world, true, true);
+    Commands.call("/aoaskill addxp creation @p 80", event.player, event.world, true, true);
 	heldItem.mutable().shrink(1);
   }
 });
@@ -588,7 +588,7 @@ events.onPlayerInteractBlock(function(event as PlayerInteractBlockEvent) {
       return;
     }
 
-    Commands.call("/aoaskill addxp anima @p 100", event.player, event.world, true, true);
+    Commands.call("/aoaskill addxp creation @p 100", event.player, event.world, true, true);
 	heldItem.mutable().shrink(1);
   }
 });
@@ -606,7 +606,7 @@ events.onPlayerInteractBlock(function(event as PlayerInteractBlockEvent) {
       return;
     }
 
-    Commands.call("/aoaskill addxp anima @p 20", event.player, event.world, true, true);
+    Commands.call("/aoaskill addxp creation @p 20", event.player, event.world, true, true);
 	heldItem.mutable().shrink(1);
   }
 });
@@ -624,7 +624,7 @@ events.onPlayerInteractBlock(function(event as PlayerInteractBlockEvent) {
       return;
     }
 
-    Commands.call("/aoaskill addxp anima @p 500", event.player, event.world, true, true);
+    Commands.call("/aoaskill addxp creation @p 500", event.player, event.world, true, true);
 	heldItem.mutable().shrink(1);
   }
 });
@@ -645,7 +645,7 @@ events.onPlayerInteractBlock(function(event as PlayerInteractBlockEvent) {
       return;
     }
 
-    Commands.call("/aoaskill addxp anima @p 1500", event.player, event.world, true, true);
+    Commands.call("/aoaskill addxp creation @p 1500", event.player, event.world, true, true);
 	heldItem.mutable().shrink(1);
   }
 });
@@ -664,7 +664,7 @@ events.onPlayerInteractBlock(function(event as PlayerInteractBlockEvent) {
       return;
     }
 
-    Commands.call("/aoaskill addxp anima @p 5000", event.player, event.world, true, true);
+    Commands.call("/aoaskill addxp creation @p 5000", event.player, event.world, true, true);
 	heldItem.mutable().shrink(1);
   }
 });
@@ -682,7 +682,7 @@ events.onPlayerInteractBlock(function(event as PlayerInteractBlockEvent) {
       return;
     }
 
-    Commands.call("/aoaskill addxp anima @p 20000", event.player, event.world, true, true);
+    Commands.call("/aoaskill addxp creation @p 20000", event.player, event.world, true, true);
 	heldItem.mutable().shrink(1);
   }
 });

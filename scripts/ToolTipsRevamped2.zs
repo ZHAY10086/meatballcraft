@@ -70,15 +70,10 @@
 
 
 <packagedauto:recipe_holder>.addTooltip(format.gold("用法："));
-<packagedauto:recipe_holder>.addTooltip(format.yellow("  封包合成能够自动合成那些输入材料超过9种的配方，尤其适用于合成拓展"));
 <packagedauto:recipe_holder>.addTooltip(format.yellow("  编码封包配方："));
 <packagedauto:recipe_holder>.addTooltip(format.yellow("  - 在封包配方编码器中放入两个封包配方存储器"));
 <packagedauto:recipe_holder>.addTooltip(format.yellow("  - 编码你需要的配方（每对存储器最多20个），然后点击“保存”"));
-<packagedauto:recipe_holder>.addTooltip(format.yellow("  设置自动合成的方法："));
-<packagedauto:recipe_holder>.addTooltip(format.yellow("  - 按此流程放置机器：[封包机] > [解包机] > [封包合成器或其他机器]"));
-<packagedauto:recipe_holder>.addTooltip(format.yellow("  - 将两个存储器分别插入封包机和解包机中"));
-<packagedauto:recipe_holder>.addTooltip(format.yellow("  - 为了进一步提速，可以在解包机的六个面都放上封包合成器，同时以封包机为中心3x3放置扩展机"));
-<packagedauto:recipe_holder>.addTooltip(format.yellow("      具体的摆放建议，可以查看封包合成器的多方块结构预览"));
+<packagedauto:recipe_holder>.addTooltip(format.yellow("  - 将存储器分别放入封包机和解包机中，以用于你想要的自动化方案"));
 <packagedauto:recipe_holder>.addTooltip(format.darkRed("警告："));
 <packagedauto:recipe_holder>.addTooltip(format.red("  不要放入背包中，可能会导致存档损坏"));
 

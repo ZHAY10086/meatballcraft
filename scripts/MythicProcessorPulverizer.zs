@@ -395,7 +395,7 @@ mythpulv65.build();
 
 val mythpulv66 = RecipeBuilder.newBuilder("mythpulv66","mythic_processor_pulverizer",2);
 mythpulv66.addEnergyPerTickInput(60000);
-mythpulv66.addItemInput(<techreborn:ingot:1>*16);
+mythpulv66.addItemInput(<ore:ingotBrass>*16);
 mythpulv66.addItemOutput(<techreborn:dust:6>*16);
 mythpulv66.build();
 

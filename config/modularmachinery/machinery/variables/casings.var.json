@@ -84,6 +84,13 @@
         "modularmachinery:blockwillprovideroutput",
         "modularmachineryaddons:blockwillmultichunkprovideroutput"
     ],
+    "dml_output": [
+        "modularmachinery:blockmeitemoutputbus",
+        "modularmachineryaddons:blocksingularityitemoutputbus@0",
+        "modularmachineryaddons:blocksingularityitemoutputbus@1",
+        "modularmachineryaddons:blocksingularityitemoutputbus@2",
+        "modularmachineryaddons:blocksingularityitemoutputbus@3"
+    ],
     "generalized_output_item": [
         "modularmachinery:blockoutputbus",
         "modularmachinery:blockmeitemoutputbus",
@@ -206,6 +213,14 @@
         "modularmachineryaddons:blocksingularityiteminputbus@0",
         "modularmachineryaddons:blocksingularityiteminputbus@1",
         "modularmachineryaddons:blocksingularityiteminputbus@2"
+    ],
+    "dragonfire_item_input": [
+        "modularmachinery:blockinputbus",
+        "modularmachinery:blockmeiteminputbus",
+        "modularmachineryaddons:blocksingularityiteminputbus@0",
+        "modularmachineryaddons:blocksingularityiteminputbus@1",
+        "modularmachineryaddons:blocksingularityiteminputbus@2",
+        "modularmachineryaddons:blocksingularityiteminputbus@3"
     ],
     "apiary_decoration_soil": [
         "minecraft:grass",
@@ -375,7 +390,9 @@
         "modularmachinery:blockmeiteminputbus",
         "modularmachinery:blockfluidoutputhatch",
         "modularmachinery:blockmefluidoutputbus",
-        "modularmachinery:blockcasing"
+        "modularmachinery:blockcasing",
+        "modularmachineryaddons:blocksingularityiteminputbus@0",
+        "modularmachineryaddons:blocksingularityitemoutputbus@0"
     ]
 
 }

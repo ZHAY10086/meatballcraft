@@ -496,6 +496,10 @@ addController(<modularmachinery:mythic_processor_centrifuge_controller>, "modula
 
 addController(<modularmachinery:utopic_spires_controller>, "modularmachinery:utopic_spires");
 
+addController(<modularmachinery:mythic_processor_enricher_controller>, "modularmachinery:mythic_processor_enricher");
+
+addController(<modularmachinery:warren_extractor_mythic_shell_controller>, "modularmachinery:warren_extractor_mythic_shell");
+
 
 // Leave this at the bottom of the file, as it depends on the oredict being filled
 furnace.addRecipe(<modularmachinery:blockcontroller>, anyBlockControllerDict);

@@ -1060,6 +1060,7 @@
 
 
 
+<contenttweaker:perfected_imbuement_fabrial>.addTooltip(format.red("未完成"));
 <contenttweaker:perfected_imbuement_fabrial>.addTooltip(format.gold("用法："));
 <contenttweaker:perfected_imbuement_fabrial>.addTooltip(format.yellow("  与任意工蜂合成来自动提取其品种基因"));
 
@@ -1562,7 +1563,7 @@
 <aoa3:fragmented_anima_stone>.addTooltip(format.aqua("  收割植物和破坏树叶时获得。"));
 <aoa3:fragmented_anima_stone>.addTooltip(format.aqua("  掉落概率随灵气等级提升"));
 <aoa3:fragmented_anima_stone>.addTooltip(format.gold("用法："));
-<aoa3:fragmented_anima_stone>.addTooltip(format.yellow("  与上过作物架的种子合成来复制它们（会保持相同的等级）"));
+<aoa3:fragmented_anima_stone>.addTooltip(format.yellow("  与*部分*上过作物架的种子合成来复制它们（会保持相同的等级）"));
 
 
 

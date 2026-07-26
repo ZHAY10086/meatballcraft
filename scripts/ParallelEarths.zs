@@ -344,7 +344,7 @@ imstuckgetmehome.itemRightClick = function(stack, world, player, hand) {
     player.sendChat("该物品能让你在卡在某个地方，但又不想作弊时传送回重生点。");
 
 
-	Commands.call("spawn", player, world, true, true);
+	Commands.call("/cofh tpx @p ~ 200 ~ 0", player, world, true, true);
 	return "Pass";
 };
 imstuckgetmehome.register();

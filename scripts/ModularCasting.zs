@@ -160,7 +160,7 @@ val castcouch6 = RecipeBuilder.newBuilder("castcouch6","seared_caster",20);
 castcouch6.addFluidInput(<fluid:enderium>*288);
 castcouch6.addItemInput(<tconstruct:cast>.withTag({PartType: "tconstruct:arrow_shaft"}));
 castcouch6.setChance(0.0);
-castcouch6.addItemOutput(<tconstruct:arrow_shaft>.withTag({Material: "enderium_plustic"}));
+castcouch6.addItemOutput(<tconstruct:arrow_shaft>.withTag({Material: "enderium"}));
 castcouch6.build();
 
 val castcouch7 = RecipeBuilder.newBuilder("castcouch7","seared_caster",20);

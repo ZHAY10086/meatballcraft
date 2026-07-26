@@ -5035,6 +5035,15 @@ ancientdecrystallizer.itemRightClick = function(stack, world, player, hand) {
 	Commands.call("execute @s ~ ~ ~ detect ~ ~-1 ~ thaumcraft:crystal_ordo 0 fill ~ ~-1 ~ ~ ~-1 ~ air 0 destroy", player, world, false, true);
 	Commands.call("execute @s ~ ~ ~ detect ~ ~-1 ~ thaumcraft:crystal_perditio 0 fill ~ ~-1 ~ ~ ~-1 ~ air 0 destroy", player, world, false, true);
 	Commands.call("execute @s ~ ~ ~ detect ~ ~-1 ~ thaumcraft:crystal_vitium 0 fill ~ ~-1 ~ ~ ~-1 ~ air 0 destroy", player, world, false, true);
+
+	Commands.call("fill ~-2 ~-1 ~-2 ~2 ~1 ~2 air 0 replace thaumcraft:crystal_vitium", player, world, false, true);
+	Commands.call("fill ~-2 ~-1 ~-2 ~2 ~1 ~2 air 0 replace thaumcraft:crystal_ignis", player, world, false, true);
+	Commands.call("fill ~-2 ~-1 ~-2 ~2 ~1 ~2 air 0 replace thaumcraft:crystal_aqua", player, world, false, true);
+	Commands.call("fill ~-2 ~-1 ~-2 ~2 ~1 ~2 air 0 replace thaumcraft:crystal_terra", player, world, false, true);
+	Commands.call("fill ~-2 ~-1 ~-2 ~2 ~1 ~2 air 0 replace thaumcraft:crystal_ordo", player, world, false, true);
+	Commands.call("fill ~-2 ~-1 ~-2 ~2 ~1 ~2 air 0 replace thaumcraft:crystal_perditio", player, world, false, true);
+	Commands.call("fill ~-2 ~-1 ~-2 ~2 ~1 ~2 air 0 replace thaumcraft:crystal_aer", player, world, false, true);
+
 	return "Pass";
 };
 ancientdecrystallizer.register();

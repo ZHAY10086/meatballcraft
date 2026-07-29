@@ -3344,7 +3344,7 @@
 <contenttweaker:screaming_blood_infused_glitch_block>.addTooltip(format.white("     x6并行"));
 
 <avaritia:block_resource:1>.addTooltip(format.gold("多方块升级："));
-<avaritia:block_resource:1>.addTooltip(format.aqua("  热钢混合器"));
+<avaritia:block_resource:1>.addTooltip(format.aqua("  钢制热力混合器"));
 <avaritia:block_resource:1>.addTooltip(format.white("     x10并行"));
 
 <contenttweaker:plasma_wood>.addTooltip(format.gold("多方块升级："));

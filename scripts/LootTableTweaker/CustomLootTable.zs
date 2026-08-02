@@ -125,3 +125,4 @@ mods.ltt.LootTable.removeItem("champions:champion_loot", "tier#2", "minecraft:bo
 mods.ltt.LootTable.removeItem("champions:champion_loot", "tier#3", "minecraft:book");
 mods.ltt.LootTable.removeItem("champions:champion_loot", "tier#4", "minecraft:book");
 
+

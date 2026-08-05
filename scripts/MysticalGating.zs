@@ -122,7 +122,7 @@ recipes.addShaped(<mysticalagriculture:creeper_seeds>,
 [<minecraft:gunpowder>, <mysticalagradditions:insanium:0>, <minecraft:gunpowder>]]);
 
 recipes.removeShaped(<mysticalagriculture:spider_seeds>);
-recipes.addShaped(<mysticalagriculture:creeper_seeds>,
+recipes.addShaped(<mysticalagriculture:spider_seeds>,
 [[<minecraft:string>, <mysticalagradditions:insanium:0>, <minecraft:string>],
 [<mysticalagradditions:insanium:0>, <contenttweaker:kobblin_seedling>, <mysticalagradditions:insanium:0>],
 [<minecraft:string>, <mysticalagradditions:insanium:0>, <minecraft:string>]]);

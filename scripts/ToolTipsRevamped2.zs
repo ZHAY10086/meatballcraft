@@ -28,6 +28,13 @@
 <contenttweaker:tabula_rasa>.addTooltip(format.green("致谢和梗"));
 
 
+<bewitchment:focal_chalk>.addTooltip(format.gold("用法："));
+<bewitchment:focal_chalk>.addTooltip(format.yellow("  用于绘制所有巫师之路仪式的核心"));
+<bewitchment:focal_chalk>.addTooltip(format.yellow("  在JEI中查看该物品的用途，来显示所有仪式圆环的布局，以及每个仪式的消耗"));
+
+
+
+
 <appliedenergistics2:material:52>.addTooltip(format.gold("用法："));
 <appliedenergistics2:material:52>.addTooltip(format.yellow("  编码合成和处理配方，用于自动合成"));
 <appliedenergistics2:material:52>.addTooltip(format.yellow("  使用样板终端来编码所需配方"));

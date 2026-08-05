@@ -1,18 +1,18 @@
 {
   "preRequisites:11": [
-    90131
+    1238
   ],
   "properties:10": {
     "betterquesting:10": {
-      "desc:8": "§7§o在第7章前可直接无视该板块！其中列出了一些在后续发展过程中会派上用场的工具！",
+      "desc:8": "",
       "icon:10": {
         "Count:3": 1,
-        "id:8": "enderutilities:builderswand"
+        "id:8": "ae2overclocked:molecular_assembler_tier_1"
       },
-      "name:8": "懒到不可思议"
+      "name:8": "4X分子装配室"
     }
   },
-  "questID:3": 1238,
+  "questID:3": 1011352097,
   "rewards:9": {
     "0:10": {
       "index:3": 0,
@@ -20,8 +20,7 @@
       "rewards:9": {
         "0:10": {
           "Count:3": 1,
-          "Damage:2": 9,
-          "id:8": "appliedenergistics2:material"
+          "id:8": "ae2overclocked:molecular_assembler_tier_1"
         }
       }
     }
@@ -32,7 +31,7 @@
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "id:8": "contenttweaker:time_crystal"
+          "id:8": "ae2overclocked:molecular_assembler_tier_1"
         }
       },
       "taskID:8": "bq_standard:retrieval"

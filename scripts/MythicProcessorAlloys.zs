@@ -1145,7 +1145,7 @@ mythallo155.build();
 val mythallo156 = RecipeBuilder.newBuilder("mythallo156","mythic_processor_alloy_furnace",2);
 mythallo156.addEnergyPerTickInput(80000);
 mythallo156.addItemInput(<simplyjetpacks:metaitemmods:4>*1);
-mythallo156.addItemInput(<ore:ingotConductiveIron>*10);
+mythallo156.addItemInput(<ore:ingotElectricalSteel>*10);
 mythallo156.addItemOutput(<simplyjetpacks:metaitemmods:5>*1);
 mythallo156.build();
 

@@ -1928,10 +1928,6 @@ import crafttweaker.item.IItemCondition;
 
 <techreborn:rolling_machine>.addTooltip(format.red("You can encode one recipe per rolling machine, use multiple machines for automation!"));
 
-<projecte:item.pe_destruction_catalyst>.addTooltip(format.red("WARNING: this item is dangerous, don't use in your base!"));
-<projecte:item.pe_destruction_catalyst>.addTooltip(format.red("Use V to increase range, shift+V to reduce range."));
-<projecte:item.pe_destruction_catalyst>.addTooltip(format.red("Right click to mine!"));
-<projecte:item.pe_destruction_catalyst>.addTooltip(format.red("Requires EMC from a klein star to function!"));
 
 <projecte:item.pe_zero_ring>.addTooltip(format.red("Use V to increase range, shift+V to reduce range, C to turn on-off."));
 <projecte:item.pe_zero_ring>.addTooltip(format.red("Requires EMC from a klein star to function!"));

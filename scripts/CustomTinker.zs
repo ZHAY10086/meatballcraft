@@ -752,6 +752,7 @@ enderium.addHandleMaterialStats(1.05, -5);
 enderium.addExtraMaterialStats(65);
 enderium.addProjectileMaterialStats();
 enderium.addBowMaterialStats(1.1, 1.9, 8.0);
+enderium.addArrowShaftMaterialStats(1.05, 25);
 enderium.addMaterialTrait("global");
 enderium.addMaterialTrait("enderference");
 enderium.addMaterialTrait("endspeed");

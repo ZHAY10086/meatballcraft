@@ -74,11 +74,19 @@
         "modularmachineryaddons:blocksingularityitemoutputbus@1",
         "modularmachineryaddons:blocksingularityiteminputbus@0",
         "modularmachineryaddons:blocksingularityiteminputbus@1",
-        "modularmachineryaddons:blocksingularityiteminputbus@2"
+        "modularmachineryaddons:blocksingularityiteminputbus@2",
+        "modularmachineryaddons:blocksingularityiteminputbus@3"
     ],
     "generalized_input_item": [
         "modularmachinery:blockinputbus",
         "modularmachinery:blockmeiteminputbus"
+    ],
+    "warren_extractor_output": [
+        "modularmachinery:blockmeitemoutputbus",
+        "modularmachineryaddons:blocksingularityitemoutputbus@0",
+        "modularmachineryaddons:blocksingularityitemoutputbus@1",
+        "modularmachineryaddons:blocksingularityitemoutputbus@2",
+        "modularmachineryaddons:blocksingularityitemoutputbus@3"
     ],
     "generalized_output_will": [
         "modularmachinery:blockwillprovideroutput",
@@ -96,6 +104,19 @@
         "modularmachinery:blockmeitemoutputbus",
         "modularmachineryaddons:blocksingularityitemoutputbus@0",
         "modularmachineryaddons:blocksingularityitemoutputbus@1"
+    ],
+    "infusinator_output_item": [
+        "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmeitemoutputbus",
+        "modularmachineryaddons:blocksingularityitemoutputbus@0",
+        "modularmachineryaddons:blocksingularityitemoutputbus@1",
+        "modularmachineryaddons:blocksingularityitemoutputbus@2",
+        "modularmachineryaddons:blocksingularityitemoutputbus@3"
+    ],
+    "arkencrusher_output_item": [
+        "modularmachinery:blockoutputbus",
+        "modularmachinery:blockmeitemoutputbus",
+        "modularmachineryaddons:blocksingularityitemoutputbus"
     ],
     "generalized_output_fluid": [
         "modularmachinery:blockfluidoutputhatch",
@@ -183,14 +204,17 @@
         "modularmachinery:blockfluidoutputhatch",
         "modularmachinery:blockoutputbus",
         "modularmachinery:blockmefluidoutputbus",
-        "modularmachinery:blockmeitemoutputbus"
+        "modularmachinery:blockmeitemoutputbus",
+        "modularmachineryaddons:blocksingularityitemoutputbus@0",
+        "modularmachineryaddons:blocksingularityitemoutputbus@1"
     ],
     "creation_altar_output": [
         "modularmachinery:blockfluidoutputhatch",
         "modularmachinery:blockoutputbus",
         "modularmachinery:blockmefluidoutputbus",
         "modularmachinery:blockmeitemoutputbus",
-        "modularmachinery:blocksingularityiteminputbus"
+        "modularmachineryaddons:blocksingularityiteminputbus",
+        "modularmachineryaddons:blocksingularityitemoutputbus"
     ],
     "token_totem_output": [
         "modularmachinery:blockfluidoutputhatch",
@@ -214,6 +238,11 @@
         "modularmachineryaddons:blocksingularityiteminputbus@1",
         "modularmachineryaddons:blocksingularityiteminputbus@2"
     ],
+    "terrestrial_cauldron_item_input": [
+        "modularmachinery:blockinputbus",
+        "modularmachinery:blockmeiteminputbus",
+        "modularmachineryaddons:blocksingularityiteminputbus"
+    ],
     "dragonfire_item_input": [
         "modularmachinery:blockinputbus",
         "modularmachinery:blockmeiteminputbus",
@@ -221,6 +250,10 @@
         "modularmachineryaddons:blocksingularityiteminputbus@1",
         "modularmachineryaddons:blocksingularityiteminputbus@2",
         "modularmachineryaddons:blocksingularityiteminputbus@3"
+    ],
+    "treeoflife_item_input": [
+        "modularmachinery:blockinputbus",
+        "modularmachineryaddons:blocksingularityiteminputbus"
     ],
     "apiary_decoration_soil": [
         "minecraft:grass",

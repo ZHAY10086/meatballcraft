@@ -6092,3 +6092,4 @@ emeraldcompass.register();
 
 
 
+//summon thaumcraft:cultistcleric ~ ~3 ~ {PersistenceRequired:1,HandItems:[{Count:1,id:"bloodmagic:sentient_sword"},{Count:1,id:"contenttweaker:shield_of_the_flesh_world"}],HandDropChances:[1.0f,1.0f],ArmorItems:[{Count:1,id:"bloodmagic:sentient_armour_boots",tag:{ench:[{id:7,lvl:200}]}},{Count:1,id:"bloodmagic:sentient_armour_leggings",tag:{ench:[{id:7,lvl:200}]}},{Count:1,id:"bloodmagic:sentient_armour_chest",tag:{ench:[{id:7,lvl:200}]}},{Count:1,id:"contenttweaker:spreading_sentient_meatball"}],CustomName:"Shield of the Flesh Planet",ArmorDropChances:[0.0f,0.0f,0.0f,1.0f],Attributes:[{Name:generic.maxHealth, Base:100000.0},{Name:generic.attackDamage, Base:100000.0}],Health:100000f,ForgeCaps:{"twilightforest:cap_shield":{tempshields:100,permshields:100}}}

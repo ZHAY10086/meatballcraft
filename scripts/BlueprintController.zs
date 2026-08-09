@@ -500,6 +500,8 @@ addController(<modularmachinery:mythic_processor_enricher_controller>, "modularm
 
 addController(<modularmachinery:warren_extractor_mythic_shell_controller>, "modularmachinery:warren_extractor_mythic_shell");
 
+addController(<modularmachinery:aesir_resonator_controller>, "modularmachinery:aesir_resonator");
+
 
 // Leave this at the bottom of the file, as it depends on the oredict being filled
 furnace.addRecipe(<modularmachinery:blockcontroller>, anyBlockControllerDict);

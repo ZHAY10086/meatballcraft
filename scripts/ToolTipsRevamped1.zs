@@ -1603,6 +1603,10 @@
 <thaumictinkerer:ichorium_pick_adv:*>.addTooltip(format.gold("Use:"));
 <thaumictinkerer:ichorium_pick_adv:*>.addTooltip(format.yellow("  Bonus 200 Foraging XP every time a block is broken"));
 
+
+<thaumictinkerer:ichorium_axe_adv:*>.addTooltip(format.darkRed("WARNINGS:"));
+<thaumictinkerer:ichorium_axe_adv:*>.addTooltip(format.red("  Do not use to break Twilight Forest Thorns in 'Tree' mode"));
+
 <aoa3:rock_pick_sword:*>.addTooltip(format.gold("Use:"));
 <aoa3:rock_pick_sword:*>.addTooltip(format.yellow("  Bonus 150 Foraging XP every time a block is broken"));
 

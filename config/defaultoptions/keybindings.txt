@@ -163,6 +163,7 @@ key_key.open_basic_extended_wireless_crafting_terminal:0:NONE
 key_key.open_advanced_extended_wireless_crafting_terminal:0:NONE
 key_key.open_elite_extended_wireless_crafting_terminal:0:NONE
 key_key.open_ultimate_extended_wireless_crafting_terminal:0:NONE
+key_key.ae2fc.open_wireless_fluid_pattern_terminal.desc:0:NONE
 key_key.aether.accessory_menu:0:NONE
 key_key.keyExtraInvo:0:NONE
 key_key.keyWheel:0:NONE
@@ -202,7 +203,6 @@ key_key.craftingtweaks.refill_last_stack:0:NONE
 key_key.projectex.focusSearchBar:0:NONE
 key_key.mod_lavacow.special:0:NONE
 key_key.mod_lavacow.down:44:NONE
-key_key.ae2fc.open_wireless_fluid_pattern_terminal.desc:0:NONE
 key_FpsReducer.key.guiOpen:207:NONE
 key_FpsReducer.key.forceIdle:197:NONE
 key_key.dragon_fireAttack:19:NONE

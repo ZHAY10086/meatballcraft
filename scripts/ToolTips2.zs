@@ -44,7 +44,7 @@ import crafttweaker.item.IItemCondition;
 
 <botania:flugeleye>.addTooltip(format.red("使用命运骰子获得"));
 
-<contenttweaker:eldritch_flower>.addTooltip(format.red("站在黑曜石前方（黑曜石高度与玩家脚下方块高度相同），面朝东"));
+<contenttweaker:eldritch_flower>.addTooltip(format.red("站在黑曜石西侧（黑曜石高度与玩家脚下方块高度相同），面朝东时右击"));
 
 <contenttweaker:lost_memory>.addTooltip(format.red("通过疯狂百合获得"));
 

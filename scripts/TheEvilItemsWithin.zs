@@ -30,7 +30,7 @@ eldritchflower.itemRightClick = function(stack, world, player, hand) {
         Commands.call("give @p contenttweaker:lost_memory", player, world, false, true);
         return "PASS";
     } else {
-        Commands.call("say 在黑曜石前方（黑曜石高度与玩家脚下方块高度相同），面朝东", player, world, false, true);
+        Commands.call("say 站在黑曜石西侧（黑曜石高度与玩家脚下方块高度相同），面朝东时右击", player, world, false, true);
         return "FAIL";
     }
 };

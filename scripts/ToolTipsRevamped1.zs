@@ -1603,6 +1603,10 @@
 <thaumictinkerer:ichorium_pick_adv:*>.addTooltip(format.gold("用法："));
 <thaumictinkerer:ichorium_pick_adv:*>.addTooltip(format.yellow("  每破坏一个方块，额外获得200点采掘经验"));
 
+
+<thaumictinkerer:ichorium_axe_adv:*>.addTooltip(format.darkRed("警告："));
+<thaumictinkerer:ichorium_axe_adv:*>.addTooltip(format.red("  不要在伐木模式下破坏暮色森林的荆棘"));
+
 <aoa3:rock_pick_sword:*>.addTooltip(format.gold("用法："));
 <aoa3:rock_pick_sword:*>.addTooltip(format.yellow("  每破坏一个方块，额外获得150点采掘经验"));
 

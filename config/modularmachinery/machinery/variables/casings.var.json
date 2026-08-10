@@ -238,6 +238,11 @@
         "modularmachineryaddons:blocksingularityiteminputbus@1",
         "modularmachineryaddons:blocksingularityiteminputbus@2"
     ],
+    "terrestrial_cauldron_item_input": [
+        "modularmachinery:blockinputbus",
+        "modularmachinery:blockmeiteminputbus",
+        "modularmachineryaddons:blocksingularityiteminputbus"
+    ],
     "dragonfire_item_input": [
         "modularmachinery:blockinputbus",
         "modularmachinery:blockmeiteminputbus",
@@ -245,6 +250,10 @@
         "modularmachineryaddons:blocksingularityiteminputbus@1",
         "modularmachineryaddons:blocksingularityiteminputbus@2",
         "modularmachineryaddons:blocksingularityiteminputbus@3"
+    ],
+    "treeoflife_item_input": [
+        "modularmachinery:blockinputbus",
+        "modularmachineryaddons:blocksingularityiteminputbus"
     ],
     "apiary_decoration_soil": [
         "minecraft:grass",

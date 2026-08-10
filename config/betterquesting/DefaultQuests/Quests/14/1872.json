@@ -21,6 +21,10 @@
         "0:10": {
           "Count:3": 1,
           "id:8": "minecraft:iron_ingot"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "danknull:dank_null_panel_3"
         }
       }
     }

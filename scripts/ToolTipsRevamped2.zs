@@ -27,6 +27,77 @@
 <contenttweaker:tabula_rasa>.addTooltip(format.white("------------------"));
 <contenttweaker:tabula_rasa>.addTooltip(format.green("致谢和梗"));
 
+<danknull:dank_null_0>.addTooltip(format.gold("用法"));
+<danknull:dank_null_0>.addTooltip(format.yellow("  能够自动拾取过滤物品，并且可以放置方块的背包"));
+<danknull:dank_null_0>.addTooltip(format.yellow("  Shift+右键点击为每个槽位设置过滤项"));
+<danknull:dank_null_0>.addTooltip(format.yellow("  Shift+滚轮切换要放置的物品"));
+<danknull:dank_null_0>.addTooltip(format.yellow("  槽位装满后的溢出物品将被销毁"));
+<danknull:dank_null_0>.addTooltip(format.gold("提示："));
+<danknull:dank_null_0>.addTooltip(format.yellow("  建议用它来处理挖矿时获得的所有常见方块，以及一些常见的生物掉落物"));
+
+<danknull:dank_null_1>.addTooltip(format.gold("用法"));
+<danknull:dank_null_1>.addTooltip(format.yellow("  能够自动拾取过滤物品，并且可以放置方块的背包"));
+<danknull:dank_null_1>.addTooltip(format.yellow("  Shift+右键点击为每个槽位设置过滤项"));
+<danknull:dank_null_1>.addTooltip(format.yellow("  Shift+滚轮切换要放置的物品"));
+<danknull:dank_null_1>.addTooltip(format.yellow("  槽位装满后的溢出物品将被销毁"));
+<danknull:dank_null_1>.addTooltip(format.gold("提示："));
+<danknull:dank_null_1>.addTooltip(format.yellow("  建议用它来处理挖矿时获得的所有常见方块，以及一些常见的生物掉落物"));
+
+<danknull:dank_null_2>.addTooltip(format.gold("用法"));
+<danknull:dank_null_2>.addTooltip(format.yellow("  能够自动拾取过滤物品，并且可以放置方块的背包"));
+<danknull:dank_null_2>.addTooltip(format.yellow("  Shift+右键点击为每个槽位设置过滤项"));
+<danknull:dank_null_2>.addTooltip(format.yellow("  Shift+滚轮切换要放置的物品"));
+<danknull:dank_null_2>.addTooltip(format.yellow("  槽位装满后的溢出物品将被销毁"));
+<danknull:dank_null_2>.addTooltip(format.gold("提示："));
+<danknull:dank_null_2>.addTooltip(format.yellow("  建议用它来处理挖矿时获得的所有常见方块，以及一些常见的生物掉落物"));
+
+<danknull:dank_null_3>.addTooltip(format.gold("用法"));
+<danknull:dank_null_3>.addTooltip(format.yellow("  能够自动拾取过滤物品，并且可以放置方块的背包"));
+<danknull:dank_null_3>.addTooltip(format.yellow("  Shift+右键点击为每个槽位设置过滤项"));
+<danknull:dank_null_3>.addTooltip(format.yellow("  Shift+滚轮切换要放置的物品"));
+<danknull:dank_null_3>.addTooltip(format.yellow("  槽位装满后的溢出物品将被销毁"));
+<danknull:dank_null_3>.addTooltip(format.gold("提示："));
+<danknull:dank_null_3>.addTooltip(format.yellow("  建议用它来处理挖矿时获得的所有常见方块，以及一些常见的生物掉落物"));
+
+<danknull:dank_null_4>.addTooltip(format.gold("用法"));
+<danknull:dank_null_4>.addTooltip(format.yellow("  能够自动拾取过滤物品，并且可以放置方块的背包"));
+<danknull:dank_null_4>.addTooltip(format.yellow("  Shift+右键点击为每个槽位设置过滤项"));
+<danknull:dank_null_4>.addTooltip(format.yellow("  Shift+滚轮切换要放置的物品"));
+<danknull:dank_null_4>.addTooltip(format.yellow("  槽位装满后的溢出物品将被销毁"));
+<danknull:dank_null_4>.addTooltip(format.gold("提示："));
+<danknull:dank_null_4>.addTooltip(format.yellow("  建议用它来处理挖矿时获得的所有常见方块，以及一些常见的生物掉落物"));
+
+<danknull:dank_null_5>.addTooltip(format.gold("用法"));
+<danknull:dank_null_5>.addTooltip(format.yellow("  能够自动拾取过滤物品，并且可以放置方块的背包"));
+<danknull:dank_null_5>.addTooltip(format.yellow("  Shift+右键点击为每个槽位设置过滤项"));
+<danknull:dank_null_5>.addTooltip(format.yellow("  Shift+滚轮切换要放置的物品"));
+<danknull:dank_null_5>.addTooltip(format.yellow("  槽位装满后的溢出物品将被销毁"));
+<danknull:dank_null_5>.addTooltip(format.gold("提示："));
+<danknull:dank_null_5>.addTooltip(format.yellow("  建议用它来处理挖矿时获得的所有常见方块，以及一些常见的生物掉落物"));
+
+
+
+
+<projecte:item.pe_catalitic_lens>.addTooltip(format.gold("用法"));
+<projecte:item.pe_catalitic_lens>.addTooltip(format.yellow("  右键点击可挖掘你前方3×3的隧道区域"));
+<projecte:item.pe_catalitic_lens>.addTooltip(format.yellow("  按V增加挖掘深度，Shift+V减少深度"));
+<projecte:item.pe_catalitic_lens>.addTooltip(format.yellow("  需要卡莱恩能量之星中的EMC（或物品栏中的煤炭）才能工作"));
+<projecte:item.pe_catalitic_lens>.addTooltip(format.gold("提示："));
+<projecte:item.pe_catalitic_lens>.addTooltip(format.yellow("  与/Dank/Null搭配使用更佳"));
+<projecte:item.pe_catalitic_lens>.addTooltip(format.darkRed("警告："));
+<projecte:item.pe_catalitic_lens>.addTooltip(format.red("  别在基地里乱用  ;)"));
+
+
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.gold("用法"));
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.yellow("  右键点击可挖掘你前方3×3的隧道区域"));
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.yellow("  按V增加挖掘深度，Shift+V减少深度"));
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.yellow("  需要卡莱恩能量之星中的EMC（或物品栏中的煤炭）才能工作"));
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.gold("提示："));
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.yellow("  与/Dank/Null搭配使用更佳"));
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.yellow("  如果你想挖掘更大的范围，可以使用催化水晶（深度更长）或红物质钉头锤（宽度更广）"));
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.darkRed("警告："));
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.red("  别在基地里乱用  ;)"));
+
 
 <bewitchment:focal_chalk>.addTooltip(format.gold("用法："));
 <bewitchment:focal_chalk>.addTooltip(format.yellow("  用于绘制所有巫师之路仪式的核心"));

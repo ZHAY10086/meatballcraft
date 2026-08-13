@@ -3528,13 +3528,13 @@
 <contenttweaker:miniature_quasar>.addTooltip(format.white("     物品/流体产出x4"));
 
 <contenttweaker:ascended_fluix_etcher>.addTooltip(format.gold("多方块升级："));
-<contenttweaker:ascended_fluix_etcher>.addTooltip(format.aqua("  净间加工机"));
+<contenttweaker:ascended_fluix_etcher>.addTooltip(format.aqua("  处理器超净间"));
 <contenttweaker:ascended_fluix_etcher>.addTooltip(format.white("     x10并行"));
 <contenttweaker:ascended_fluix_etcher>.addTooltip(format.white("---------------------"));
 <contenttweaker:ascended_fluix_etcher>.addTooltip(format.green("感谢NerdySpider绘制的纹理！"));
 
 <contenttweaker:cyclical_fluix_etcher>.addTooltip(format.gold("多方块升级："));
-<contenttweaker:cyclical_fluix_etcher>.addTooltip(format.aqua("  净间加工机"));
+<contenttweaker:cyclical_fluix_etcher>.addTooltip(format.aqua("  处理器超净间"));
 <contenttweaker:cyclical_fluix_etcher>.addTooltip(format.white("     x1000并行"));
 
 <contenttweaker:naquadah_casing>.addTooltip(format.gold("多方块升级："));
@@ -3743,7 +3743,7 @@
 <contenttweaker:event_horizon_condenser>.addTooltip(format.white("     x64并行"));
 
 <contenttweaker:universal_fluix_etcher>.addTooltip(format.gold("多方块升级："));
-<contenttweaker:universal_fluix_etcher>.addTooltip(format.aqua("  净间加工机"));
+<contenttweaker:universal_fluix_etcher>.addTooltip(format.aqua("  处理器超净间"));
 <contenttweaker:universal_fluix_etcher>.addTooltip(format.white("     x100并行"));
 
 <forge:bucketfilled>.withTag({FluidName: "converging_recursive_essence", Amount: 1000}).addTooltip(format.gold("多方块升级："));

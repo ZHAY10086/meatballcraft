@@ -593,7 +593,7 @@ recipes.addShaped(<modularmachineryaddons:blocksingularityiteminputbus:6>,
 
 recipes.addShaped(<modularmachineryaddons:blocksingularityitemoutputbus:0>,
 [[<modularmachinery:itemmodularium>, <cells:singularity_processor:1>, <modularmachinery:itemmodularium>],
-[<cells:compressed_silicon_print:3>, <modularmachinery:blockinputbus:0>, <cells:compressed_silicon_print:3>],
+[<cells:compressed_silicon_print:3>, <modularmachinery:blockoutputbus:0>, <cells:compressed_silicon_print:3>],
 [<modularmachinery:itemmodularium>, <threng:material:0>, <modularmachinery:itemmodularium>]]);
 
 recipes.addShaped(<modularmachineryaddons:blocksingularityitemoutputbus:1>,

@@ -482,7 +482,7 @@ recipes.addShaped(<contenttweaker:hyperuranion_actualizer_raremetals>,
 
 recipes.addShaped(<contenttweaker:hyperuranion_actualizer_radioactive>,
 [[<ore:blockLudicrite>, <ore:blockLudicrite>, <ore:blockLudicrite>],
-[<bloodmagic:blood_tank:10>.withTag({Fluid: {FluidName: "uranium", Amount: 16384000}}), <contenttweaker:hyperuranon_actualizing_fabrial>, <bloodmagic:blood_tank:10>.withTag({Fluid: {FluidName: "uranium", Amount: 16384000}})],
+[<bloodmagic:blood_tank:10>.withTag({Fluid: {FluidName: "uranium", Amount: 16384000}}), <contenttweaker:hyperuranon_actualizing_fabrial>, <bloodmagic:blood_tank:10>.withTag({Fluid: {FluidName: "thorium", Amount: 16384000}})],
 [<ore:blockLudicrite>, <ore:blockLudicrite>, <ore:blockLudicrite>]]);
 
 

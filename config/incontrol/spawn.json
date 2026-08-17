@@ -1459,7 +1459,7 @@
       "mob": ["divinerpg:whale"],
       "dimension": 0,
       "mincount": {
-        "amount": 15,
+        "amount": 7,
         "mob": ["divinerpg:whale"],
         "perplayer": true
       },
@@ -1470,7 +1470,7 @@
       "mob": ["divinerpg:shark"],
       "dimension": 0,
       "mincount": {
-        "amount": 15,
+        "amount": 7,
         "mob": ["divinerpg:shark"],
         "perplayer": true
       },
@@ -1481,7 +1481,7 @@
       "mob": ["divinerpg:liopleurodon"],
       "dimension": 0,
       "mincount": {
-        "amount": 15,
+        "amount": 7,
         "mob": ["divinerpg:liopleurodon"],
         "perplayer": true
       },

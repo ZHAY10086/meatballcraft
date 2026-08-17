@@ -1522,19 +1522,19 @@ mythextrac10.addItemOutput(<forestry:mulch>*10);
 mythextrac10.addFluidOutput(<fluid:seed.oil>*500);
 mythextrac10.build();
 
-val mythextrac11 = RecipeBuilder.newBuilder("mythextrac11","mythic_processor_infuser",2);
-mythextrac11.addEnergyPerTickInput(1000000);
-mythextrac11.addItemInput(<ore:cropChestnut>*10);
-mythextrac11.addItemOutput(<forestry:mulch>*10);
-mythextrac11.addFluidOutput(<fluid:seed.oil>*2200);
-mythextrac11.build();
+//val mythextrac11 = RecipeBuilder.newBuilder("mythextrac11","mythic_processor_infuser",2);
+//mythextrac11.addEnergyPerTickInput(1000000);
+//mythextrac11.addItemInput(<ore:cropChestnut>*10);
+//mythextrac11.addItemOutput(<forestry:mulch>*10);
+//mythextrac11.addFluidOutput(<fluid:seed.oil>*2200);
+//mythextrac11.build();
 
-val mythextrac12 = RecipeBuilder.newBuilder("mythextrac12","mythic_processor_infuser",2);
-mythextrac12.addEnergyPerTickInput(1000000);
-mythextrac12.addItemInput(<ore:cropWalnut>*10);
-mythextrac12.addItemOutput(<forestry:mulch>*10);
-mythextrac12.addFluidOutput(<fluid:seed.oil>*1800);
-mythextrac12.build();
+//val mythextrac12 = RecipeBuilder.newBuilder("mythextrac12","mythic_processor_infuser",2);
+//mythextrac12.addEnergyPerTickInput(1000000);
+//mythextrac12.addItemInput(<ore:cropWalnut>*10);
+//mythextrac12.addItemOutput(<forestry:mulch>*10);
+//mythextrac12.addFluidOutput(<fluid:seed.oil>*1800);
+//mythextrac12.build();
 
 
 val mythextrac13 = RecipeBuilder.newBuilder("mythextrac13","mythic_processor_infuser",2);

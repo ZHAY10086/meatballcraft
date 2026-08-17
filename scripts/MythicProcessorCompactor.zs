@@ -217,7 +217,11 @@ mythsqueez35.addItemInput(<actuallyadditions:item_misc:13>*10);
 mythsqueez35.addFluidOutput(<fluid:canolaoil>*800);
 mythsqueez35.build();
 
-
+val mythsqueez36 = RecipeBuilder.newBuilder("mythsqueez36","mythic_processor_compactor",2);
+mythsqueez36.addEnergyPerTickInput(60000);
+mythsqueez36.addItemInput(<extrabees:propolis:7>*10);
+mythsqueez36.addFluidOutput(<fluid:creosote>*5000);
+mythsqueez36.build();
 
 
 

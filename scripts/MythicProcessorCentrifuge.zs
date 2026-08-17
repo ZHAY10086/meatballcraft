@@ -251,7 +251,12 @@ mythproccentsep130.addItemOutput(<forestry:propolis:2>);
 mythproccentsep130.build();
 
 
-
+val mythproccentsep131 = RecipeBuilder.newBuilder("mythproccentsep131","mythic_processor_centrifuge",2);    
+mythproccentsep131.addEnergyPerTickInput(70000);    
+mythproccentsep131.addItemInput(<extrabees:honey_comb:25>);    
+mythproccentsep131.addItemOutput(<extrabees:propolis:7>);    
+mythproccentsep131.addItemOutput(<forestry:honey_drop:0>);        
+mythproccentsep131.build();
 
 
 

@@ -27,6 +27,12 @@
 <contenttweaker:tabula_rasa>.addTooltip(format.white("------------------"));
 <contenttweaker:tabula_rasa>.addTooltip(format.green("致谢和梗"));
 
+<aoa3:blank_realmstone>.addTooltip(format.darkRed("警告："));
+<aoa3:blank_realmstone>.addTooltip(format.red("  该物品不应被获取"));
+<aoa3:blank_realmstone>.addTooltip(format.red("  如果你是故意搞来的，请停下，作弊就没意思了……"));
+<aoa3:blank_realmstone>.addTooltip(format.red("  如果是游戏bug导致的，请汇报给我  :)"));
+
+
 <danknull:dank_null_0>.addTooltip(format.gold("用法"));
 <danknull:dank_null_0>.addTooltip(format.yellow("  能够自动拾取过滤物品，并且可以放置方块的背包"));
 <danknull:dank_null_0>.addTooltip(format.yellow("  Shift+右键点击为每个槽位设置过滤项"));

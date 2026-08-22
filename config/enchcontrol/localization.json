@@ -159,7 +159,7 @@
 		{"key": "cofhcore:vorpal.desc", "value": "概率触发暴击效果，造成巨量伤害，并有较大概率掉落头颅（每级触发概率增加5%%，头颅掉落概率增加20%%）"},
 		{"key": "tombstone:magic_siphon.desc", "value": "有概率吸收目标的正面效果"},
 		{"key": "tombstone:plague_bringer.desc", "value": "有概率对目标造成负面效果"},
-		{"key": "tombstone:shadow_step.desc", "value": "给予亮度减少生物探测范围"},
+		{"key": "tombstone:shadow_step.desc", "value": "基于亮度减少生物探测范围"},
 		{"key": "tombstone:soulbound.desc", "value": "死亡时保留物品"},
 		{"key": "cyclicmagic:enchantment.autosmelt.desc", "value": "烧炼所挖掘方块"},
 		{"key": "cyclicmagic:enchantment.excavation.desc", "value": "挖掘所有连接着的相同方块，等级1到3对应的最大方块数分别为26、42和58"},

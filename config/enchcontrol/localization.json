@@ -212,7 +212,7 @@
 		{"key": "simplyjetpacks:fuel_efficiency.desc", "value": "每级降低20%%能量消耗"},
 		{"key": "soulshardsrespawn:soul_stealer.desc", "value": "收集更多灵魂，每级击杀时额外获得一个击杀数"},
 		{"key": "minecraft:aqua_affinity.desc", "value": "提高水下挖掘速度，挖掘速度倍率变为0.2+0.8*魔咒等级"},
-		{"key": "minecraft:bane_of_arthropods.desc", "value": "对节肢生物造成额外伤害（每级增加2.5点伤害）(+2.5 damage per level.)"},
+		{"key": "minecraft:bane_of_arthropods.desc", "value": "对节肢生物造成额外伤害（每级增加2.5点伤害）"},
 		{"key": "minecraft:blast_protection.desc", "value": "减少爆炸伤害"},
 		{"key": "minecraft:binding_curse.desc", "value": "穿在身上后无法卸下"},
 		{"key": "minecraft:depth_strider.desc", "value": "增加水下行走速度（每级减少1/3在水中受到的减速效果）"},

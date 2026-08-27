@@ -1050,8 +1050,8 @@
   },
   {
     "id": "betweenswamp",
-    "displayName": "烂泥蠕虫",
-    "displayNamePlural": "烂泥蠕虫",
+    "displayName": "污泥蠕虫",
+    "displayNamePlural": "污泥蠕虫",
     "livingMatter": "extraterrestrial",
     "simulationRFCost": 1000,
     "craftingIngredients": [

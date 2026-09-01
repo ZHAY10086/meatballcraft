@@ -207,9 +207,9 @@ import crafttweaker.item.IItemCondition;
 <contenttweaker:astral_mastery_tome>.addTooltip(format.red("达成永恒荣耀的玩家："));
 <contenttweaker:astral_mastery_tome>.addTooltip(format.red("legoman187 (单人)"));
 
-<woot:exporter>.addTooltip(format.red("使用装有过滤销毁卡的输出接口来优化性能"));
+<woot:exporter>.addTooltip(format.red("使用装有过滤销毁卡的输入接口来优化性能"));
 
-<tinymobfarm:ultimate_farm>.addTooltip(format.red("使用装有过滤销毁卡的输出接口来优化性能"));
+<tinymobfarm:ultimate_farm>.addTooltip(format.red("使用装有过滤销毁卡的输入接口来优化性能"));
 
 <contenttweaker:chaotic_nexus>.addTooltip(format.red("使用装有以下3级升级的神龙之力权杖：攻击伤害、挖掘速度、范围挖掘、RF容量、范围攻击"));
 

@@ -1060,6 +1060,7 @@
 
 
 
+<contenttweaker:perfected_imbuement_fabrial>.addTooltip(format.red("WIP"));
 <contenttweaker:perfected_imbuement_fabrial>.addTooltip(format.gold("Use:"));
 <contenttweaker:perfected_imbuement_fabrial>.addTooltip(format.yellow("  Craft with any Drone to automatically extract its Species gene"));
 
@@ -1562,7 +1563,7 @@
 <aoa3:fragmented_anima_stone>.addTooltip(format.aqua("  Obtained when harvesting plants and breaking leaves."));
 <aoa3:fragmented_anima_stone>.addTooltip(format.aqua("  Drop chance increased by your Anima level"));
 <aoa3:fragmented_anima_stone>.addTooltip(format.gold("Use:"));
-<aoa3:fragmented_anima_stone>.addTooltip(format.yellow("  Craft with seeds that have been in Crop Sticks to duplicate them (they maintain the same level)"));
+<aoa3:fragmented_anima_stone>.addTooltip(format.yellow("  Craft with SOME seeds that have been in Crop Sticks to duplicate them (they maintain the same level)"));
 
 
 
@@ -1601,6 +1602,10 @@
 
 <thaumictinkerer:ichorium_pick_adv:*>.addTooltip(format.gold("Use:"));
 <thaumictinkerer:ichorium_pick_adv:*>.addTooltip(format.yellow("  Bonus 200 Foraging XP every time a block is broken"));
+
+
+<thaumictinkerer:ichorium_axe_adv:*>.addTooltip(format.darkRed("WARNINGS:"));
+<thaumictinkerer:ichorium_axe_adv:*>.addTooltip(format.red("  Do not use to break Twilight Forest Thorns in 'Tree' mode"));
 
 <aoa3:rock_pick_sword:*>.addTooltip(format.gold("Use:"));
 <aoa3:rock_pick_sword:*>.addTooltip(format.yellow("  Bonus 150 Foraging XP every time a block is broken"));

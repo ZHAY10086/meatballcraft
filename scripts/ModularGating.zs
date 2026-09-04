@@ -393,12 +393,12 @@ recipes.addShapeless(<modularmachinery:blockfluidoutputhatch:7>,
 
 recipes.addShaped(<modularmachinery:blockmeiteminputbus>,
 [[<modularmachinery:itemmodularium>, <threng:material:0>, <modularmachinery:itemmodularium>],
-[<appliedenergistics2:interface>, <modularmachinery:blockinputbus:5>, <appliedenergistics2:interface>],
+[<appliedenergistics2:interface>, <modularmachineryaddons:blocksingularityiteminputbus:4>, <appliedenergistics2:interface>],
 [<modularmachinery:itemmodularium>, <appliedenergistics2:material:47>, <modularmachinery:itemmodularium>]]);
 
 recipes.addShaped(<modularmachinery:blockmeitemoutputbus>,
 [[<modularmachinery:itemmodularium>, <threng:material:0>, <modularmachinery:itemmodularium>],
-[<appliedenergistics2:interface>, <modularmachinery:blockoutputbus:5>, <appliedenergistics2:interface>],
+[<appliedenergistics2:interface>, <modularmachineryaddons:blocksingularityitemoutputbus:4>, <appliedenergistics2:interface>],
 [<modularmachinery:itemmodularium>, <appliedenergistics2:material:47>, <modularmachinery:itemmodularium>]]);
 
 recipes.addShapeless(<modularmachinery:blockmeiteminputbus>,

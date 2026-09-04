@@ -1,30 +1,30 @@
 {
   "preRequisites:11": [
-    20543
+    20527
   ],
   "properties:10": {
     "betterquesting:10": {
       "desc:8": "",
       "icon:10": {
         "Count:3": 1,
-        "id:8": "modularmachinery:itemblueprint",
+        "id:8": "immersivepetroleum:schematic",
         "tag:10": {
-          "dynamicmachine:8": "modularmachinery:berserker_forge"
+          "multiblock:8": "IE:ArcFurnace"
         }
       },
-      "name:8": "Dragonslayer Forge"
+      "name:8": "Arc Furnace"
     }
   },
-  "questID:3": 2246,
+  "questID:3": 20617,
   "tasks:9": {
     "0:10": {
       "index:3": 0,
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "id:8": "modularmachinery:itemblueprint",
+          "id:8": "immersivepetroleum:schematic",
           "tag:10": {
-            "dynamicmachine:8": "modularmachinery:berserker_forge"
+            "multiblock:8": "IE:ArcFurnace"
           }
         }
       },
@@ -32,10 +32,12 @@
     },
     "1:10": {
       "index:3": 1,
+      "optional:1": 1,
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "id:8": "contenttweaker:berserker_forge_loop"
+          "Damage:2": 13,
+          "id:8": "immersiveengineering:metal_multiblock"
         }
       },
       "taskID:8": "bq_standard:retrieval"

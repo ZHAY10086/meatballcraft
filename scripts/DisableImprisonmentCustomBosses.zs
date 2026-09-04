@@ -36,11 +36,13 @@ events.onPlayerInteractEntity(function(event as PlayerInteractEntityEvent) {
   val heldItem = event.item;
   if (!isNull(heldItem)) {
     if (!(heldItem.definition.id.matches(<animus:sigil_chains>.definition.id))){
-      if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
-        if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
-          if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
-            if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
-              return;
+      if (!(heldItem.definition.id.matches(<thaumadditions:dna_sample>.definition.id))){
+        if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
+          if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
+            if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
+              if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
+                return;
+              }
             }
           }
         }
@@ -75,11 +77,13 @@ events.onPlayerInteractEntity(function(event as PlayerInteractEntityEvent) {
   val heldItem = event.item;
   if (!isNull(heldItem)) {
     if (!(heldItem.definition.id.matches(<animus:sigil_chains>.definition.id))){
-      if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
-        if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
-          if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
-            if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
-              return;
+      if (!(heldItem.definition.id.matches(<thaumadditions:dna_sample>.definition.id))){
+        if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
+          if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
+            if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
+              if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
+                return;
+              }
             }
           }
         }
@@ -112,11 +116,13 @@ events.onPlayerInteractEntity(function(event as PlayerInteractEntityEvent) {
   val heldItem = event.item;
   if (!isNull(heldItem)) {
     if (!(heldItem.definition.id.matches(<animus:sigil_chains>.definition.id))){
-      if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
-        if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
-          if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
-            if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
-              return;
+      if (!(heldItem.definition.id.matches(<thaumadditions:dna_sample>.definition.id))){
+        if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
+          if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
+            if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
+              if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
+                return;
+              }
             }
           }
         }
@@ -150,11 +156,13 @@ events.onPlayerInteractEntity(function(event as PlayerInteractEntityEvent) {
   val heldItem = event.item;
   if (!isNull(heldItem)) {
     if (!(heldItem.definition.id.matches(<animus:sigil_chains>.definition.id))){
-      if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
-        if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
-          if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
-            if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
-              return;
+      if (!(heldItem.definition.id.matches(<thaumadditions:dna_sample>.definition.id))){
+        if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
+          if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
+            if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
+              if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
+                return;
+              }
             }
           }
         }
@@ -188,11 +196,13 @@ events.onPlayerInteractEntity(function(event as PlayerInteractEntityEvent) {
   val heldItem = event.item;
   if (!isNull(heldItem)) {
     if (!(heldItem.definition.id.matches(<animus:sigil_chains>.definition.id))){
-      if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
-        if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
-          if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
-            if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
-              return;
+      if (!(heldItem.definition.id.matches(<thaumadditions:dna_sample>.definition.id))){
+        if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
+          if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
+            if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
+              if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
+                return;
+              }
             }
           }
         }
@@ -224,11 +234,13 @@ events.onPlayerInteractEntity(function(event as PlayerInteractEntityEvent) {
   val heldItem = event.item;
   if (!isNull(heldItem)) {
     if (!(heldItem.definition.id.matches(<animus:sigil_chains>.definition.id))){
-      if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
-        if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
-          if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
-            if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
-              return;
+      if (!(heldItem.definition.id.matches(<thaumadditions:dna_sample>.definition.id))){
+        if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
+          if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
+            if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
+              if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
+                return;
+              }
             }
           }
         }
@@ -262,11 +274,13 @@ events.onPlayerInteractEntity(function(event as PlayerInteractEntityEvent) {
   val heldItem = event.item;
   if (!isNull(heldItem)) {
     if (!(heldItem.definition.id.matches(<animus:sigil_chains>.definition.id))){
-      if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
-        if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
-          if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
-            if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
-              return;
+      if (!(heldItem.definition.id.matches(<thaumadditions:dna_sample>.definition.id))){
+        if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
+          if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
+            if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
+              if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
+                return;
+              }
             }
           }
         }
@@ -299,11 +313,13 @@ events.onPlayerInteractEntity(function(event as PlayerInteractEntityEvent) {
   val heldItem = event.item;
   if (!isNull(heldItem)) {
     if (!(heldItem.definition.id.matches(<animus:sigil_chains>.definition.id))){
-      if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
-        if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
-          if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
-            if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
-              return;
+      if (!(heldItem.definition.id.matches(<thaumadditions:dna_sample>.definition.id))){
+        if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
+          if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
+            if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
+              if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
+                return;
+              }
             }
           }
         }
@@ -338,11 +354,13 @@ events.onPlayerInteractEntity(function(event as PlayerInteractEntityEvent) {
   val heldItem = event.item;
   if (!isNull(heldItem)) {
     if (!(heldItem.definition.id.matches(<animus:sigil_chains>.definition.id))){
-      if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
-        if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
-          if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
-            if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
-              return;
+      if (!(heldItem.definition.id.matches(<thaumadditions:dna_sample>.definition.id))){
+        if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
+          if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
+            if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
+              if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
+                return;
+              }
             }
           }
         }
@@ -377,11 +395,13 @@ events.onPlayerInteractEntity(function(event as PlayerInteractEntityEvent) {
   val heldItem = event.item;
   if (!isNull(heldItem)) {
     if (!(heldItem.definition.id.matches(<animus:sigil_chains>.definition.id))){
-      if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
-        if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
-          if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
-            if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
-              return;
+      if (!(heldItem.definition.id.matches(<thaumadditions:dna_sample>.definition.id))){
+        if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
+          if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
+            if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
+              if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
+                return;
+              }
             }
           }
         }
@@ -422,11 +442,13 @@ events.onPlayerInteractEntity(function(event as PlayerInteractEntityEvent) {
   val heldItem = event.item;
   if (!isNull(heldItem)) {
     if (!(heldItem.definition.id.matches(<animus:sigil_chains>.definition.id))){
-      if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
-        if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
-          if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
-            if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
-              return;
+      if (!(heldItem.definition.id.matches(<thaumadditions:dna_sample>.definition.id))){
+        if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
+          if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
+            if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
+              if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
+                return;
+              }
             }
           }
         }
@@ -462,11 +484,13 @@ events.onPlayerInteractEntity(function(event as PlayerInteractEntityEvent) {
   val heldItem = event.item;
   if (!isNull(heldItem)) {
     if (!(heldItem.definition.id.matches(<animus:sigil_chains>.definition.id))){
-      if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
-        if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
-          if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
-            if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
-              return;
+      if (!(heldItem.definition.id.matches(<thaumadditions:dna_sample>.definition.id))){
+        if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
+          if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
+            if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
+              if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
+                return;
+              }
             }
           }
         }
@@ -501,11 +525,13 @@ events.onPlayerInteractEntity(function(event as PlayerInteractEntityEvent) {
   val heldItem = event.item;
   if (!isNull(heldItem)) {
     if (!(heldItem.definition.id.matches(<animus:sigil_chains>.definition.id))){
-      if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
-        if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
-          if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
-            if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
-              return;
+      if (!(heldItem.definition.id.matches(<thaumadditions:dna_sample>.definition.id))){
+        if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
+          if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
+            if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
+              if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
+                return;
+              }
             }
           }
         }
@@ -538,11 +564,13 @@ events.onPlayerInteractEntity(function(event as PlayerInteractEntityEvent) {
   val heldItem = event.item;
   if (!isNull(heldItem)) {
     if (!(heldItem.definition.id.matches(<animus:sigil_chains>.definition.id))){
-      if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
-        if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
-          if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
-            if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
-              return;
+      if (!(heldItem.definition.id.matches(<thaumadditions:dna_sample>.definition.id))){
+        if (!(heldItem.definition.id.matches(<industrialforegoing:mob_imprisonment_tool>.definition.id))){
+          if (!(heldItem.definition.id.matches(<extrautils2:goldenlasso>.definition.id))){
+            if (!(heldItem.definition.id.matches(<tinymobfarm:lasso>.definition.id))){
+              if (!(heldItem.definition.id.matches(<enderio:item_soul_vial>.definition.id))){
+                return;
+              }
             }
           }
         }

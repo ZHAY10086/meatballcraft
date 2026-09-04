@@ -27,6 +27,84 @@
 <contenttweaker:tabula_rasa>.addTooltip(format.white("------------------"));
 <contenttweaker:tabula_rasa>.addTooltip(format.green("Thanks and meme tooltips go here"));
 
+<danknull:dank_null_0>.addTooltip(format.gold("Use:"));
+<danknull:dank_null_0>.addTooltip(format.yellow("  Backpack that auto picks up filtered items, and can place blocks"));
+<danknull:dank_null_0>.addTooltip(format.yellow("  Shift + right click to set the filters for each slot"));
+<danknull:dank_null_0>.addTooltip(format.yellow("  Shift + scroll to change the item to be placed"));
+<danknull:dank_null_0>.addTooltip(format.yellow("  After a slot is filled up, excess items for that slot will be voided "));
+<danknull:dank_null_0>.addTooltip(format.gold("Tips:"));
+<danknull:dank_null_0>.addTooltip(format.yellow("  It's a good idea to use this for all common blocks obtained through mining, and for some common mob drops"));
+
+<danknull:dank_null_1>.addTooltip(format.gold("Use:"));
+<danknull:dank_null_1>.addTooltip(format.yellow("  Backpack that auto picks up filtered items, and can place blocks"));
+<danknull:dank_null_1>.addTooltip(format.yellow("  Shift + right click to set the filters for each slot"));
+<danknull:dank_null_1>.addTooltip(format.yellow("  Shift + scroll to change the item to be placed"));
+<danknull:dank_null_1>.addTooltip(format.yellow("  After a slot is filled up, excess items for that slot will be voided "));
+<danknull:dank_null_1>.addTooltip(format.gold("Tips:"));
+<danknull:dank_null_1>.addTooltip(format.yellow("  It's a good idea to use this for all common blocks obtained through mining, and for some common mob drops"));
+
+<danknull:dank_null_2>.addTooltip(format.gold("Use:"));
+<danknull:dank_null_2>.addTooltip(format.yellow("  Backpack that auto picks up filtered items, and can place blocks"));
+<danknull:dank_null_2>.addTooltip(format.yellow("  Shift + right click to set the filters for each slot"));
+<danknull:dank_null_2>.addTooltip(format.yellow("  Shift + scroll to change the item to be placed"));
+<danknull:dank_null_2>.addTooltip(format.yellow("  After a slot is filled up, excess items for that slot will be voided "));
+<danknull:dank_null_2>.addTooltip(format.gold("Tips:"));
+<danknull:dank_null_2>.addTooltip(format.yellow("  It's a good idea to use this for all common blocks obtained through mining, and for some common mob drops"));
+
+<danknull:dank_null_3>.addTooltip(format.gold("Use:"));
+<danknull:dank_null_3>.addTooltip(format.yellow("  Backpack that auto picks up filtered items, and can place blocks"));
+<danknull:dank_null_3>.addTooltip(format.yellow("  Shift + right click to set the filters for each slot"));
+<danknull:dank_null_3>.addTooltip(format.yellow("  Shift + scroll to change the item to be placed"));
+<danknull:dank_null_3>.addTooltip(format.yellow("  After a slot is filled up, excess items for that slot will be voided "));
+<danknull:dank_null_3>.addTooltip(format.gold("Tips:"));
+<danknull:dank_null_3>.addTooltip(format.yellow("  It's a good idea to use this for all common blocks obtained through mining, and for some common mob drops"));
+
+<danknull:dank_null_4>.addTooltip(format.gold("Use:"));
+<danknull:dank_null_4>.addTooltip(format.yellow("  Backpack that auto picks up filtered items, and can place blocks"));
+<danknull:dank_null_4>.addTooltip(format.yellow("  Shift + right click to set the filters for each slot"));
+<danknull:dank_null_4>.addTooltip(format.yellow("  Shift + scroll to change the item to be placed"));
+<danknull:dank_null_4>.addTooltip(format.yellow("  After a slot is filled up, excess items for that slot will be voided "));
+<danknull:dank_null_4>.addTooltip(format.gold("Tips:"));
+<danknull:dank_null_4>.addTooltip(format.yellow("  It's a good idea to use this for all common blocks obtained through mining, and for some common mob drops"));
+
+<danknull:dank_null_5>.addTooltip(format.gold("Use:"));
+<danknull:dank_null_5>.addTooltip(format.yellow("  Backpack that auto picks up filtered items, and can place blocks"));
+<danknull:dank_null_5>.addTooltip(format.yellow("  Shift + right click to set the filters for each slot"));
+<danknull:dank_null_5>.addTooltip(format.yellow("  Shift + scroll to change the item to be placed"));
+<danknull:dank_null_5>.addTooltip(format.yellow("  After a slot is filled up, excess items for that slot will be voided "));
+<danknull:dank_null_5>.addTooltip(format.gold("Tips:"));
+<danknull:dank_null_5>.addTooltip(format.yellow("  It's a good idea to use this for all common blocks obtained through mining, and for some common mob drops"));
+
+
+
+
+<projecte:item.pe_catalitic_lens>.addTooltip(format.gold("Use:"));
+<projecte:item.pe_catalitic_lens>.addTooltip(format.yellow("  Right click to mine a long 3x3 area in front of you"));
+<projecte:item.pe_catalitic_lens>.addTooltip(format.yellow("  Use V to increase length of mined area, shift+V to reduce it"));
+<projecte:item.pe_catalitic_lens>.addTooltip(format.yellow("  Requires EMC from a klein star (or coal in your inventory) to function"));
+<projecte:item.pe_catalitic_lens>.addTooltip(format.gold("Tips:"));
+<projecte:item.pe_catalitic_lens>.addTooltip(format.yellow("  Best used with a /Dank/Null"));
+<projecte:item.pe_catalitic_lens>.addTooltip(format.darkRed("WARNINGS:"));
+<projecte:item.pe_catalitic_lens>.addTooltip(format.red("  Keep far away from your base ;)"));
+
+
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.gold("Use:"));
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.yellow("  Right click to mine a long 3x3 area in front of you"));
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.yellow("  Use V to increase length of mined area, shift+V to reduce it"));
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.yellow("  Requires EMC from a klein star (or coal in your inventory) to function"));
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.gold("Tips:"));
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.yellow("  Best used with a /Dank/Null"));
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.yellow("  If you want to mine even larger, you can use a Catalytic Lens (longer) or a Red Morning Star (wider)"));
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.darkRed("WARNINGS:"));
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.red("  Keep far away from your base ;)"));
+
+
+<bewitchment:focal_chalk>.addTooltip(format.gold("Use:"));
+<bewitchment:focal_chalk>.addTooltip(format.yellow("  Used to draw the center of all Bewitchment Rituals"));
+<bewitchment:focal_chalk>.addTooltip(format.yellow("  JEI uses for this show all ritual circle setups, and the cost for each rite"));
+
+
+
 
 <appliedenergistics2:material:52>.addTooltip(format.gold("Use:"));
 <appliedenergistics2:material:52>.addTooltip(format.yellow("  Used to encode crafting and processing recipes for autocrafting"));
@@ -70,15 +148,10 @@
 
 
 <packagedauto:recipe_holder>.addTooltip(format.gold("Use:"));
-<packagedauto:recipe_holder>.addTooltip(format.yellow("  PackagedAuto allows the autocrafting of recipes that use more than 9 different inputs, and Extended Crafting specifically"));
 <packagedauto:recipe_holder>.addTooltip(format.yellow("  To encode Package recipes:"));
 <packagedauto:recipe_holder>.addTooltip(format.yellow("  - Place two Package Recipe Holders in the Package Recipe Encoder"));
 <packagedauto:recipe_holder>.addTooltip(format.yellow("  - Encode the recipes you want (up to 20 for each Holder pair) and 'Save'"));
-<packagedauto:recipe_holder>.addTooltip(format.yellow("  To set up autocrafting:"));
-<packagedauto:recipe_holder>.addTooltip(format.yellow("  - Place this configuration: [Packager] > [Unpackager] > [Package Crafter or other machine]"));
-<packagedauto:recipe_holder>.addTooltip(format.yellow("  - Insert the two Holders into the Packager and Unpackager"));
-<packagedauto:recipe_holder>.addTooltip(format.yellow("  - For extra speed, multiple Package Crafters can be placed on all sides of the Unpackager, and Extensions can be placed around the Packager."));
-<packagedauto:recipe_holder>.addTooltip(format.yellow("      Check the multiblock preview for Package Crafters for suggestions on placement"));
+<packagedauto:recipe_holder>.addTooltip(format.yellow("  - Place them in the Packager and Unpackager for your desired setup"));
 <packagedauto:recipe_holder>.addTooltip(format.darkRed("WARNINGS:"));
 <packagedauto:recipe_holder>.addTooltip(format.red("  Do not put inside bags, it can cause corruptions"));
 

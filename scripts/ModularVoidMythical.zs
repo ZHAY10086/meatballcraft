@@ -1878,9 +1878,9 @@ mods.techreborn.vacuumFreezer.addRecipe(<materialpart:vibranium_alloy:ingot>, <m
 
 mods.extendedcrafting.TableCrafting.addShaped(<contenttweaker:complex_crank_shaft>, 
 [[<ore:plateElectrumFlux>, <ore:plateIridium>, <ore:plateEnderium>, <ore:plateIridium>, <ore:plateElectrumFlux>], 
-[null, <tconstruct:arrow_shaft>.withTag({Material: "fierymetal"}), null, null, <tconstruct:arrow_shaft>.withTag({Material: "enderium_plustic"})], 
+[null, <tconstruct:arrow_shaft>.withTag({Material: "fierymetal"}), null, null, <tconstruct:arrow_shaft>.withTag({Material: "enderium"})], 
 [<ore:plateMagnalium>, <ore:plateMithrillium>, <materialpart:dreaded_steel:rod>, <ore:plateMithrillium>, <ore:plateMagnalium>], 
-[<tconstruct:arrow_shaft>.withTag({Material: "enderium_plustic"}), null, null, <tconstruct:arrow_shaft>.withTag({Material: "fierymetal"}), null], 
+[<tconstruct:arrow_shaft>.withTag({Material: "enderium"}), null, null, <tconstruct:arrow_shaft>.withTag({Material: "fierymetal"}), null], 
 [<ore:plateElectrumFlux>, <ore:plateIridium>, <ore:plateEnderium>, <ore:plateIridium>, <ore:plateElectrumFlux>]]);  
 
 mods.techreborn.assemblingMachine.addRecipe(<contenttweaker:high_strength_transmission>, <contenttweaker:complex_gearbox>, <contenttweaker:complex_crank_shaft>, 60, 512);
@@ -1896,8 +1896,8 @@ mith21.addItemOutput(<aoa3:borean_tokens>*64);
 mith21.setChance(0.99);
 mith21.addItemOutput(<aoa3:borean_tokens>*64);
 mith21.setChance(0.99);
-mith21.addItemOutput(<aoa3:coral_stone>*30);
-mith21.setChance(0.5);
+mith21.addItemOutput(<aoa3:coral_stone>*60);
+mith21.setChance(0.9);
 mith21.addItemOutput(<aoa3:bubble_berries>*30);
 mith21.setChance(0.15);
 mith21.addItemOutput(<aoa3:water_rune>*60);
@@ -2658,8 +2658,8 @@ mith26.addItemOutput(<aoa3:greckon_tokens>*64);
 mith26.setChance(0.99);
 mith26.addItemOutput(<aoa3:haunted_flower>*30);
 mith26.setChance(0.45);
-mith26.addItemOutput(<aoa3:ghoulasm>*10);
-mith26.setChance(0.15);
+mith26.addItemOutput(<aoa3:ghoulasm>*50);
+mith26.setChance(0.55);
 mith26.addItemOutput(<aoa3:distortion_rune>*60);
 mith26.setChance(0.1);
 mith26.addItemOutput(<aoa3:strike_rune>*60);

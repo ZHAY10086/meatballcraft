@@ -9,13 +9,13 @@
         "Count:3": 1,
         "id:8": "immersivepetroleum:schematic",
         "tag:10": {
-          "multiblock:8": "IE:Crusher"
+          "multiblock:8": "IE:Refinery"
         }
       },
-      "name:8": "Crusher"
+      "name:8": "Refinery"
     }
   },
-  "questID:3": 20616,
+  "questID:3": 20619,
   "tasks:9": {
     "0:10": {
       "index:3": 0,
@@ -24,7 +24,7 @@
           "Count:3": 1,
           "id:8": "immersivepetroleum:schematic",
           "tag:10": {
-            "multiblock:8": "IE:Crusher"
+            "multiblock:8": "IE:Refinery"
           }
         }
       },
@@ -32,10 +32,11 @@
     },
     "1:10": {
       "index:3": 1,
+      "optional:1": 1,
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "Damage:2": 1,
+          "Damage:2": 9,
           "id:8": "immersiveengineering:metal_multiblock"
         }
       },

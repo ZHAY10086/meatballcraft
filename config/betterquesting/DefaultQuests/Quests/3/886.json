@@ -9,14 +9,13 @@
         "Count:3": 1,
         "id:8": "immersivepetroleum:schematic",
         "tag:10": {
-          "flip:1": 1,
-          "multiblock:8": "IE:ExcavatorDemo"
+          "multiblock:8": "IP:Pumpjack"
         }
       },
-      "name:8": "Excavator"
+      "name:8": "Pumpjack"
     }
   },
-  "questID:3": 887,
+  "questID:3": 886,
   "tasks:9": {
     "0:10": {
       "index:3": 0,
@@ -25,8 +24,7 @@
           "Count:3": 1,
           "id:8": "immersivepetroleum:schematic",
           "tag:10": {
-            "flip:1": 1,
-            "multiblock:8": "IE:ExcavatorDemo"
+            "multiblock:8": "IP:Pumpjack"
           }
         }
       },
@@ -34,16 +32,12 @@
     },
     "1:10": {
       "index:3": 1,
+      "optional:1": 1,
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "Damage:2": 11,
-          "id:8": "immersiveengineering:metal_multiblock"
-        },
-        "1:10": {
-          "Count:3": 1,
-          "Damage:2": 12,
-          "id:8": "immersiveengineering:metal_multiblock"
+          "Damage:2": 2,
+          "id:8": "immersivepetroleum:metal_multiblock"
         }
       },
       "taskID:8": "bq_standard:retrieval"

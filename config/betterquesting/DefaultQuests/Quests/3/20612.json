@@ -9,13 +9,13 @@
         "Count:3": 1,
         "id:8": "immersivepetroleum:schematic",
         "tag:10": {
-          "multiblock:8": "IP:Pumpjack"
+          "multiblock:8": "IE:MetalPress"
         }
       },
-      "name:8": "Pumpjack"
+      "name:8": "Metal Press"
     }
   },
-  "questID:3": 886,
+  "questID:3": 20612,
   "tasks:9": {
     "0:10": {
       "index:3": 0,
@@ -24,7 +24,7 @@
           "Count:3": 1,
           "id:8": "immersivepetroleum:schematic",
           "tag:10": {
-            "multiblock:8": "IP:Pumpjack"
+            "multiblock:8": "IE:MetalPress"
           }
         }
       },
@@ -32,11 +32,11 @@
     },
     "1:10": {
       "index:3": 1,
+      "optional:1": 1,
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "Damage:2": 2,
-          "id:8": "immersivepetroleum:metal_multiblock"
+          "id:8": "immersiveengineering:metal_multiblock"
         }
       },
       "taskID:8": "bq_standard:retrieval"

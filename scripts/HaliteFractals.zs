@@ -471,9 +471,9 @@ recipes.addShaped(<contenttweaker:shield_recursion>*2,
 [null, <erebus:bamboo_shield>, null]]);
 
 recipes.addShaped(<contenttweaker:sword_recursion>*2,
-[[<aoa3:royal_greatblade>, <cyclicmagic:crystal_sword>, <aoa3:runic_greatblade>],
+[[<aoa3:royal_greatblade>, <cyclicmagic:crystal_sword>, <aoa3:coral_greatblade>],
 [<divinerpg:skythern_blade>, <contenttweaker:sword_recursion>, <aoa3:bloodfury>],
-[<aoa3:shroomic_greatblade>, <aoa3:explochron_sword>, <aoa3:goofy_greatblade>]]);
+[<aoa3:shroomic_greatblade>, <aoa3:explochron_sword>, <aoa3:creepoid_greatblade>]]);
 
 recipes.addShapeless(<contenttweaker:clunky_chunky_brick>,
 [<contenttweaker:clunky_chunky_rune>]);

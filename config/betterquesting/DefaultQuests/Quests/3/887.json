@@ -9,13 +9,14 @@
         "Count:3": 1,
         "id:8": "immersivepetroleum:schematic",
         "tag:10": {
-          "multiblock:8": "IE:MetalPress"
+          "flip:1": 1,
+          "multiblock:8": "IE:ExcavatorDemo"
         }
       },
-      "name:8": "Metal Press"
+      "name:8": "Excavator"
     }
   },
-  "questID:3": 20612,
+  "questID:3": 887,
   "tasks:9": {
     "0:10": {
       "index:3": 0,
@@ -24,7 +25,8 @@
           "Count:3": 1,
           "id:8": "immersivepetroleum:schematic",
           "tag:10": {
-            "multiblock:8": "IE:MetalPress"
+            "flip:1": 1,
+            "multiblock:8": "IE:ExcavatorDemo"
           }
         }
       },
@@ -32,9 +34,16 @@
     },
     "1:10": {
       "index:3": 1,
+      "optional:1": 1,
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
+          "Damage:2": 11,
+          "id:8": "immersiveengineering:metal_multiblock"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 12,
           "id:8": "immersiveengineering:metal_multiblock"
         }
       },

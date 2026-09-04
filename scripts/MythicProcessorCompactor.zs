@@ -211,6 +211,12 @@ mythsqueez34.addItemInput(<deepmoblearning:living_matter_overworldian>*10);
 mythsqueez34.addFluidOutput(<fluid:xpjuice>*2000);
 mythsqueez34.build();
 
+val mythsqueez35 = RecipeBuilder.newBuilder("mythsqueez35","mythic_processor_compactor",2);
+mythsqueez35.addEnergyPerTickInput(60000);
+mythsqueez35.addItemInput(<actuallyadditions:item_misc:13>*10);
+mythsqueez35.addFluidOutput(<fluid:canolaoil>*800);
+mythsqueez35.build();
+
 
 
 
@@ -779,7 +785,7 @@ val mythcomp95 = RecipeBuilder.newBuilder("mythcomp95","mythic_processor_compact
 mythcomp95.addEnergyPerTickInput(60000);
 mythcomp95.addItemInput(<contenttweaker:radiation_absorbing_plate_stamp>);
 mythcomp95.setChance(0.0);
-mythcomp95.addItemInput(<ore:ingotLead>*16);
+mythcomp95.addItemInput(<ore:plateLead>*16);
 mythcomp95.addItemInput(<ore:dustGraphite>*16);
 mythcomp95.addItemInput(<divinerpg:eden_soul>*16);
 mythcomp95.addItemOutput(<nuclearcraft:part:0>*32);

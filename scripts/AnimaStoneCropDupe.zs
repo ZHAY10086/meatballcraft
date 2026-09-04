@@ -8,7 +8,8 @@ function addDupeAnimaStone(seedItem as IItemStack, recipeName as string) {
         recipeName,
         seedItem*3,
         [
-            (seedItem.marked("mark").transformNew(function(item) { return item.withTag(item.tag); })).noReturn(), 
+            //(seedItem.marked("mark").transformNew(function(item) { return item.withTag(item.tag); })).noReturn(), 
+            (seedItem.marked("mark").transformNew(function(item) { return item.withTag(item.tag); })), 
             <aoa3:fragmented_anima_stone>
         ],
         function(out, ins, cInfo) {
@@ -33,7 +34,6 @@ function addDupeAnimaStone(seedItem as IItemStack, recipeName as string) {
 
 // Define all seeds that need analysis recipes
 var seedsToAnalyze as IItemStack[] = [
-    <agricraft:agri_seed>,
     <mysticalagradditions:tier6_inferium_seeds>,
     <mysticalagradditions:nether_star_seeds>,
     <mysticalagradditions:dragon_egg_seeds>,

@@ -9,13 +9,15 @@
         "Count:3": 1,
         "id:8": "immersivepetroleum:schematic",
         "tag:10": {
-          "multiblock:8": "IE:ArcFurnace"
+          "flip:1": 0,
+          "multiblock:8": "IE:Assembler",
+          "rotate:3": 2
         }
       },
-      "name:8": "Arc Furnace"
+      "name:8": "Automated Engineer\u0027s Workbench"
     }
   },
-  "questID:3": 20617,
+  "questID:3": 20614,
   "tasks:9": {
     "0:10": {
       "index:3": 0,
@@ -24,7 +26,7 @@
           "Count:3": 1,
           "id:8": "immersivepetroleum:schematic",
           "tag:10": {
-            "multiblock:8": "IE:ArcFurnace"
+            "multiblock:8": "IE:AutoWorkbench"
           }
         }
       },
@@ -32,10 +34,11 @@
     },
     "1:10": {
       "index:3": 1,
+      "optional:1": 1,
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "Damage:2": 13,
+          "Damage:2": 5,
           "id:8": "immersiveengineering:metal_multiblock"
         }
       },

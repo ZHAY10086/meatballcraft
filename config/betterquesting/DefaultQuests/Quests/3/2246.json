@@ -1,30 +1,30 @@
 {
   "preRequisites:11": [
-    20527
+    20543
   ],
   "properties:10": {
     "betterquesting:10": {
       "desc:8": "",
       "icon:10": {
         "Count:3": 1,
-        "id:8": "immersivepetroleum:schematic",
+        "id:8": "modularmachinery:itemblueprint",
         "tag:10": {
-          "multiblock:8": "IP:DistillationTower"
+          "dynamicmachine:8": "modularmachinery:berserker_forge"
         }
       },
-      "name:8": "Distillation Tower"
+      "name:8": "Dragonslayer Forge"
     }
   },
-  "questID:3": 885,
+  "questID:3": 2246,
   "tasks:9": {
     "0:10": {
       "index:3": 0,
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "id:8": "immersivepetroleum:schematic",
+          "id:8": "modularmachinery:itemblueprint",
           "tag:10": {
-            "multiblock:8": "IP:DistillationTower"
+            "dynamicmachine:8": "modularmachinery:berserker_forge"
           }
         }
       },
@@ -32,10 +32,11 @@
     },
     "1:10": {
       "index:3": 1,
+      "optional:1": 1,
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "id:8": "minecraft:stone"
+          "id:8": "contenttweaker:berserker_forge_loop"
         }
       },
       "taskID:8": "bq_standard:retrieval"

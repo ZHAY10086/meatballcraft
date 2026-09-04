@@ -1066,3 +1066,74 @@ recipes.addShaped(<nae2:part:1>,
 [<appliedenergistics2:material:52>, <cells:compressed_silicon_print>, <appliedenergistics2:material:52>]]);
 
 
+recipes.remove(<ae2overclocked:import_bus_tier_1>);
+recipes.remove(<ae2overclocked:import_bus_tier_2>);
+recipes.remove(<ae2overclocked:import_bus_tier_3>);
+recipes.remove(<ae2overclocked:import_bus_tier_4>);
+recipes.remove(<ae2overclocked:import_bus_tier_5>);
+recipes.remove(<ae2overclocked:import_bus_tier_6>);
+
+recipes.remove(<ae2overclocked:export_bus_tier_1>);
+recipes.remove(<ae2overclocked:export_bus_tier_2>);
+recipes.remove(<ae2overclocked:export_bus_tier_3>);
+recipes.remove(<ae2overclocked:export_bus_tier_1>);
+recipes.remove(<ae2overclocked:export_bus_tier_5>);
+recipes.remove(<ae2overclocked:export_bus_tier_6>);
+
+recipes.remove(<ae2overclocked:crafting_coprocessor_tier_1>);
+recipes.remove(<ae2overclocked:crafting_coprocessor_tier_2>);
+recipes.remove(<ae2overclocked:crafting_coprocessor_tier_3>);
+recipes.remove(<ae2overclocked:crafting_coprocessor_tier_4>);
+recipes.remove(<ae2overclocked:crafting_coprocessor_tier_5>);
+recipes.remove(<ae2overclocked:crafting_coprocessor_tier_6>);
+
+recipes.remove(<ae2overclocked:inscriber_tier_1>);
+recipes.remove(<ae2overclocked:inscriber_tier_2>);
+recipes.remove(<ae2overclocked:inscriber_tier_3>);
+recipes.remove(<ae2overclocked:inscriber_tier_4>);
+recipes.remove(<ae2overclocked:inscriber_tier_5>);
+recipes.remove(<ae2overclocked:inscriber_tier_6>);
+
+recipes.remove(<ae2overclocked:interface_tier_1>);
+recipes.remove(<ae2overclocked:interface_tier_2>);
+recipes.remove(<ae2overclocked:interface_tier_3>);
+recipes.remove(<ae2overclocked:interface_tier_4>);
+
+recipes.remove(<ae2overclocked:fluid_interface_tier_1>);
+recipes.remove(<ae2overclocked:fluid_interface_tier_2>);
+recipes.remove(<ae2overclocked:fluid_interface_tier_3>);
+recipes.remove(<ae2overclocked:fluid_interface_tier_4>);
+
+recipes.remove(<ae2overclocked:dual_interface_tier_1>);
+recipes.remove(<ae2overclocked:dual_interface_tier_2>);
+recipes.remove(<ae2overclocked:dual_interface_tier_3>);
+recipes.remove(<ae2overclocked:dual_interface_tier_4>);
+
+
+recipes.remove(<ae2overclocked:molecular_assembler_tier_1>);
+recipes.addShaped(<ae2overclocked:molecular_assembler_tier_1>,
+[[<appliedenergistics2:material:30>, <threng:big_assembler:3>, <appliedenergistics2:material:30>],
+[<appliedenergistics2:molecular_assembler>, <cells:singularity_processor:0>, <appliedenergistics2:molecular_assembler>],
+[<appliedenergistics2:material:30>, <appliedenergistics2:molecular_assembler>, <appliedenergistics2:material:30>]]);
+
+recipes.remove(<ae2overclocked:molecular_assembler_tier_2>);
+recipes.addShaped(<ae2overclocked:molecular_assembler_tier_2>,
+[[<appliedenergistics2:material:30>, <threng:big_assembler:3>, <appliedenergistics2:material:30>],
+[<ae2overclocked:molecular_assembler_tier_1>, <cells:singularity_processor:0>, <ae2overclocked:molecular_assembler_tier_1>],
+[<appliedenergistics2:material:30>, <ae2overclocked:molecular_assembler_tier_1>, <appliedenergistics2:material:30>]]);
+
+recipes.remove(<ae2overclocked:molecular_assembler_tier_3>);
+recipes.addShaped(<ae2overclocked:molecular_assembler_tier_3>,
+[[<appliedenergistics2:material:30>, <threng:big_assembler:3>, <appliedenergistics2:material:30>],
+[<ae2overclocked:molecular_assembler_tier_2>, <cells:singularity_processor:0>, <ae2overclocked:molecular_assembler_tier_2>],
+[<appliedenergistics2:material:30>, <ae2overclocked:molecular_assembler_tier_2>, <appliedenergistics2:material:30>]]);
+
+recipes.remove(<ae2overclocked:molecular_assembler_tier_4>);
+recipes.addShaped(<ae2overclocked:molecular_assembler_tier_4>,
+[[<appliedenergistics2:material:30>, <threng:big_assembler:3>, <appliedenergistics2:material:30>],
+[<ae2overclocked:molecular_assembler_tier_3>, <cells:singularity_processor:0>, <ae2overclocked:molecular_assembler_tier_3>],
+[<appliedenergistics2:material:30>, <threng:big_assembler:3>, <appliedenergistics2:material:30>]]);
+
+recipes.remove(<ae2overclocked:molecular_assembler_tier_5>);
+
+recipes.remove(<ae2overclocked:molecular_assembler_tier_6>);

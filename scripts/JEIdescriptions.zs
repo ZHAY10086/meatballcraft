@@ -4077,19 +4077,19 @@ mods.jei.JEI.addDescription([
     "The ore inputs are dropped in from the top, and the machine will drop outputs from the front."
 ]);
 
-mods.jei.JEI.addDescription([
-    <contenttweaker:primordial_accelerator>],
-[
-    "The primordial accelerator is used to break Primordial Pearls into Primordial Grains.",
-    "",
-    "It is a multiblock of variable length, see the JEI preview for the multiblock structure, the more Tunnels, the more Grains can be produced (with diminishing returns). The maximum length is 10.",
-    "",
-    "Primordial pearls can be piped into the Accelerator.",
-    "",
-    "Use a redstone pulse to activate the machine, Primordial Grains will be dropped out around the Terminus.",
-    "",
-    "Grains can be turned back into full Pearls for an endless loop, with a bit of crucible automation."
-]);
+//mods.jei.JEI.addDescription([
+//    <contenttweaker:primordial_accelerator>],
+//[
+//    "The primordial accelerator is used to break Primordial Pearls into Primordial Grains.",
+//    "",
+//    "It is a multiblock of variable length, see the JEI preview for the multiblock structure, the more Tunnels, the more Grains can be produced (with diminishing returns). The maximum length is 10.",
+//    "",
+//    "Primordial pearls can be piped into the Accelerator.",
+//    "",
+//    "Use a redstone pulse to activate the machine, Primordial Grains will be dropped out around the Terminus.",
+//    "",
+//    "Grains can be turned back into full Pearls for an endless loop, with a bit of crucible automation."
+//]);
 
 mods.jei.JEI.addDescription([
     <contenttweaker:heat_exchanger_math>],

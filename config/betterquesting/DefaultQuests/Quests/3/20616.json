@@ -9,13 +9,13 @@
         "Count:3": 1,
         "id:8": "immersivepetroleum:schematic",
         "tag:10": {
-          "multiblock:8": "IE:BlastFurnace"
+          "multiblock:8": "IE:Crusher"
         }
       },
-      "name:8": "Crude Blast Furnace"
+      "name:8": "Crusher"
     }
   },
-  "questID:3": 20573,
+  "questID:3": 20616,
   "tasks:9": {
     "0:10": {
       "index:3": 0,
@@ -24,7 +24,7 @@
           "Count:3": 1,
           "id:8": "immersivepetroleum:schematic",
           "tag:10": {
-            "multiblock:8": "IE:BlastFurnace"
+            "multiblock:8": "IE:Crusher"
           }
         }
       },
@@ -32,11 +32,12 @@
     },
     "1:10": {
       "index:3": 1,
+      "optional:1": 1,
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
           "Damage:2": 1,
-          "id:8": "immersiveengineering:stone_device"
+          "id:8": "immersiveengineering:metal_multiblock"
         }
       },
       "taskID:8": "bq_standard:retrieval"

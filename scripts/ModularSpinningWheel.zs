@@ -268,7 +268,7 @@ spinnyboi19.build();
 val spinnyboi20 = RecipeBuilder.newBuilder("spinnyboi20","sparkled_spinning_wheel",30);
 spinnyboi20.addFluidInput(<fluid:mana>*1000);
 spinnyboi20.addFluidInput(<fluid:dragons_blood_plastic>*100);
-spinnyboi20.addItemInput(<tconstruct:ingots:4>.withTag({display: {Name: "ᛟᛁᚤᛕ",Lore:["§d§oTrue Name§r"]}}));
+spinnyboi20.addItemInput(<tconstruct:ingots:4>.withTag({display: {Name: "ᛟᛁᚤᛕ",Lore:["§d§o真名§r"]}}));
 spinnyboi20.addItemInput(<contenttweaker:fiery_unguent_bottle>*64);
 spinnyboi20.addItemInput(<bewitchment:witches_stitching>*64);
 spinnyboi20.addItemInput(<bewitchment:golden_thread>*64);

@@ -122,7 +122,7 @@
 
 
 <nuclearcraft:salt_fission_vent>.addTooltip(format.gold("用法："));
-<nuclearcraft:salt_fission_vent>.addTooltip(format.yellow("  可变尺寸的多方块结构，外部结构需满足以下条件（见预览）："));
+<nuclearcraft:salt_fission_vent>.addTooltip(format.yellow("  尺寸可变的多方块结构，外部结构需满足以下条件（见预览）："));
 <nuclearcraft:salt_fission_vent>.addTooltip(format.yellow("  - 控制器需位于某一面"));
 <nuclearcraft:salt_fission_vent>.addTooltip(format.yellow("  - 各面可由熔盐反应堆外壳或熔盐反应堆玻璃构成"));
 <nuclearcraft:salt_fission_vent>.addTooltip(format.yellow("  - 棱边必须为熔盐反应堆框架"));
@@ -135,7 +135,7 @@
 
 
 <nuclearcraft:salt_fission_wall>.addTooltip(format.gold("用法："));
-<nuclearcraft:salt_fission_wall>.addTooltip(format.yellow("  可变尺寸的多方块结构，外部结构需满足以下条件（见预览）："));
+<nuclearcraft:salt_fission_wall>.addTooltip(format.yellow("  尺寸可变的多方块结构，外部结构需满足以下条件（见预览）："));
 <nuclearcraft:salt_fission_wall>.addTooltip(format.yellow("  - 控制器需位于某一面"));
 <nuclearcraft:salt_fission_wall>.addTooltip(format.yellow("  - 各面可由熔盐反应堆外壳或熔盐反应堆玻璃构成"));
 <nuclearcraft:salt_fission_wall>.addTooltip(format.yellow("  - 棱边必须为熔盐反应堆框架"));
@@ -148,7 +148,7 @@
 
 
 <nuclearcraft:salt_fission_glass>.addTooltip(format.gold("用法："));
-<nuclearcraft:salt_fission_glass>.addTooltip(format.yellow("  可变尺寸的多方块结构，外部结构需满足以下条件（见预览）："));
+<nuclearcraft:salt_fission_glass>.addTooltip(format.yellow("  尺寸可变的多方块结构，外部结构需满足以下条件（见预览）："));
 <nuclearcraft:salt_fission_glass>.addTooltip(format.yellow("  - 控制器需位于某一面"));
 <nuclearcraft:salt_fission_glass>.addTooltip(format.yellow("  - 各面可由熔盐反应堆外壳或熔盐反应堆玻璃构成"));
 <nuclearcraft:salt_fission_glass>.addTooltip(format.yellow("  - 棱边必须为熔盐反应堆框架"));
@@ -162,7 +162,7 @@
 
 
 <nuclearcraft:salt_fission_frame>.addTooltip(format.gold("用法："));
-<nuclearcraft:salt_fission_frame>.addTooltip(format.yellow("  可变尺寸的多方块结构，外部结构需满足以下条件（见预览）："));
+<nuclearcraft:salt_fission_frame>.addTooltip(format.yellow("  尺寸可变的多方块结构，外部结构需满足以下条件（见预览）："));
 <nuclearcraft:salt_fission_frame>.addTooltip(format.yellow("  - 控制器需位于某一侧面"));
 <nuclearcraft:salt_fission_frame>.addTooltip(format.yellow("  - 各面可由熔盐反应堆外壳或熔盐反应堆玻璃构成"));
 <nuclearcraft:salt_fission_frame>.addTooltip(format.yellow("  - 棱边必须为熔盐反应堆框架"));
@@ -175,7 +175,7 @@
 
 
 <nuclearcraft:salt_fission_controller>.addTooltip(format.gold("用法："));
-<nuclearcraft:salt_fission_controller>.addTooltip(format.yellow("  可变尺寸的多方块结构，外部结构需满足以下条件（见预览）："));
+<nuclearcraft:salt_fission_controller>.addTooltip(format.yellow("  尺寸可变的多方块结构，外部结构需满足以下条件（见预览）："));
 <nuclearcraft:salt_fission_controller>.addTooltip(format.yellow("  - 控制器需位于某一侧面"));
 <nuclearcraft:salt_fission_controller>.addTooltip(format.yellow("  - 各面可由熔盐反应堆外壳或熔盐反应堆玻璃构成"));
 <nuclearcraft:salt_fission_controller>.addTooltip(format.yellow("  - 棱边必须为熔盐反应堆框架"));
